@@ -24,18 +24,24 @@
 - ☐ Garden Bay Winery (Cooks, ~35 min toward Munising) — small-batch wines from MI fruit; open daily 11:30–6:00
 - ☐ Upper Peninsula Inspired (Munising, ~55 min) — 321 E Superior St; tasting room for 5 UP wineries incl. Northern Sun & Leigh's Garden; full bar + food truck
 
+**Pasties** *(must-try UP tradition — savory meat pies)*
+
+| Name | Location | Distance | Google Rating | Notes |
+|------|----------|----------|---------------|-------|
+| Gram's Pasties | Escanaba | ~20 min | ⭐ 4.6 | 2418 Ludington St; Reader's Choice winner multiple times; traditional beef, chicken + daily specials like taco pasty Tuesdays |
+| Muldoon's Pasties & Gifts | Munising | ~55 min | ⭐ 4.6 | Main location on M-28 coming into town; freshly baked daily since 1989; USA Today top pasty in MI |
+| Muldoon's II Pasties | Munising | ~55 min | ⭐ 4.4 | Downtown Munising location; same great pasties, convenient after Pictured Rocks |
+
 | Name | Location | Notes |
 |------|----------|-------|
 | Swedish Pantry | Escanaba | Casual bakery/café, local staple looks cool and great food |
 | Hereford & Hops | Escanaba | UP's first brewpub (1992), award-winning craft beer, family-friendly |
 | The Stonehouse | Escanaba | 16 freshwater fish options, 30-year local favorite |
 | Upper Hand Brewery | Escanaba | Sister to Bell's Brewery; known for Yooper Ale |
-| Eleven 10 Bistro | Escanaba | Casual downtown bistro |
 | Freshwater Tavern | Gladstone | Lakeside, comfort food with creative platings, relaxed vibe |
 | Saunders Point Brewing | Gladstone | Local craft brewery |
 | Mueller's Pizza | Gladstone | Easy group-friendly pizza |
 | Log Cabin Grill | Gladstone | Casual, family-friendly |
-| Dogpatch Restaurant | Munising | Casual diner, good stop after Pictured Rocks |
 | Eh! Burger | Munising | Casual burgers near the boat cruise dock |
 
 ### Sites to See
@@ -52,7 +58,7 @@
 | Gladstone Beach (Van Cleve Park) | ~10 min | Shallow warm water, huge playground; ideal for young kids |
 | Escanaba Municipal Beach | ~20 min | Sandy beach, water slides, historic lighthouse nearby |
 | Little Bay de Noc | ~15 min | "Walleye Capital of the World" — boating, kayaking, fishing |
-| Escanaba Downtown (Michigan Ave) | ~20 min | Walkable historic downtown, shops, bakeries |
+| Escanaba Downtown (Ludington St) | ~20 min | Walkable historic downtown, shops, bakeries |
 | Days River Natural Trail | ~10 min (Gladstone) | Easy local hike along the river |
 | Hiawatha National Forest | ~varies | Vast public land, hiking, mountain biking, scenic drives |
 
@@ -123,7 +129,7 @@
 - ***☐ Miners Falls — 0.6-mi easy out-and-back to a 50-ft waterfall (~45 min)***
 
 ### Dinner in Munising
-- ☐ Dogpatch Restaurant or Eh! Burger — casual, no backtracking
+- ☐ Eh! Burger — casual, right by the boat cruise dock
 - ☐ Winery add-on: Garden Bay Winery (Cooks, ~20 min from Munising) — small-batch MI wines; open daily 11:30–6:00; easy stop on the way back
 - ☐ Winery add-on: Upper Peninsula Inspired (321 E Superior St, Munising) — tasting room for 5 UP wineries; full bar + food truck; right in town
 
@@ -149,11 +155,11 @@
 
 ### Lunch
 - ***☐ ~1:00 PM — Swedish Pantry (Escanaba) — local bakery/café staple, casual and great food***
-- ***☐ Eleven 10 Bistro (Escanaba) — casual downtown bistro***
 - ***☐ Pick up pasties nearby for a quick UP tradition***
 
 ### Afternoon: Escanaba Downtown (~20 min)
-- ***☐ ~2:00 PM — Walk Michigan Ave — shops, bakeries, local character***
+- ***☐ ~2:00 PM — Walk Ludington St — shops, bakeries, local character***
+- ***☐ Sayklly's Confectionery & Gifts — local candy shop with freshly made chocolates and sweets; great stop for the kids***
 - ☐ Leigh's Garden Winery — 904 Ludington St (Historic Old Escanaba); 25+ wines, tasting room, great stop after walking the Ave
 
 ### Dinner near Gladstone / Escanaba
