@@ -157,7 +157,6 @@
 ### Afternoon: Escanaba Downtown (~20 min)
 - ***☐ ~2:00 PM — Walk Ludington St — shops, bakeries, local character***
 - ***☐ Sayklly's Confectionery & Gifts — local candy shop with freshly made chocolates and sweets; great stop for the kids***
-- ☐ Leigh's Garden Winery — 904 Ludington St (Historic Old Escanaba); 25+ wines, tasting room — **open Thu–Sat only; closed Sunday**
 
 ### Dinner near Gladstone / Escanaba
 - ***☐ Freshwater Tavern (Gladstone) — lakeside, relaxed, comfort food; open daily 4:30–9 PM***
@@ -187,7 +186,10 @@
 
 ### Reunite: Group Dinner at the Lodge
 - ***☐ Cook together at home — last full night, relaxed meal around the lodge***
-- ***☐ Backup: Mueller's Pizza (1517 Ludington St, Escanaba) — open Monday 4–10 PM — if everyone's too tired to cook***
+
+### Optional Dinner Out
+- ***☐ Swedish Pantry (Escanaba, ~20 min) — local bakery/café staple; open Mon–Fri (call ahead for closing time)***
+- ***☐ Mueller's Pizza (1517 Ludington St, Escanaba) — open Monday 4–10 PM***
 
 ---
 
