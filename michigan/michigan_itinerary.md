@@ -19,10 +19,9 @@
 
 **Wineries**
 
-- ☐ Leigh's Garden Winery (Escanaba, ~15 min) — 904 Ludington St; 25+ wines from cold-climate grapes & local fruit; Historic Old Escanaba
+- ☐ Leigh's Garden Winery (Escanaba, ~15 min) — 904 Ludington St; 25+ wines from cold-climate grapes & local fruit; Historic Old Escanaba — **open Thu–Sat only**
 - ☐ Northern Sun Winery (Bark River, ~35 min) — 983 10th Rd; estate winery on 5 scenic acres; near Sage Run Golf Club; hosts concerts & events
 - ☐ Garden Bay Winery (Cooks, ~35 min toward Munising) — small-batch wines from MI fruit; open daily 11:30–6:00
-- ☐ Upper Peninsula Inspired (Munising, ~55 min) — 321 E Superior St; tasting room for 5 UP wineries incl. Northern Sun & Leigh's Garden; full bar + food truck
 
 **Pasties** *(must-try UP tradition — savory meat pies)*
 
@@ -34,15 +33,14 @@
 
 | Name | Location | Notes |
 |------|----------|-------|
-| Swedish Pantry | Escanaba | Casual bakery/café, local staple looks cool and great food |
-| Hereford & Hops | Escanaba | UP's first brewpub (1992), award-winning craft beer, family-friendly |
-| The Stonehouse | Escanaba | 16 freshwater fish options, 30-year local favorite |
-| Upper Hand Brewery | Escanaba | Sister to Bell's Brewery; known for Yooper Ale |
-| Freshwater Tavern | Gladstone | Lakeside, comfort food with creative platings, relaxed vibe |
-| Saunders Point Brewing | Gladstone | Local craft brewery |
-| Mueller's Pizza | Gladstone | Easy group-friendly pizza |
-| Log Cabin Grill | Gladstone | Casual, family-friendly |
-| Eh! Burger | Munising | Casual burgers near the boat cruise dock |
+| Swedish Pantry | Escanaba | Casual bakery/café, local staple — **open Mon–Fri only** |
+| Hereford & Hops | Escanaba | UP's first brewpub (1992), award-winning craft beer, family-friendly — **closed Sunday** |
+| Upper Hand Brewery | Escanaba | Sister to Bell's Brewery; known for Yooper Ale — **closed Sunday & Monday** |
+| Freshwater Tavern | Gladstone | Lakeside, comfort food with creative platings, relaxed vibe — open daily 4:30–9pm |
+| Saunders Point Brewing | Gladstone | Local craft brewery — **closed Monday & Tuesday** |
+| Mueller's Pizza | Escanaba | Easy group-friendly pizza — 1517 Ludington St |
+| Log Cabin Grill | Gladstone | Casual, family-friendly — **closed Monday** |
+| Eh! Burger | Munising | Casual burgers near the boat cruise dock — open daily, soft drinks only (no liquor license) |
 
 ### Sites to See
 
@@ -130,8 +128,7 @@
 
 ### Dinner in Munising
 - ☐ Eh! Burger — casual, right by the boat cruise dock
-- ☐ Winery add-on: Garden Bay Winery (Cooks, ~20 min from Munising) — small-batch MI wines; open daily 11:30–6:00; easy stop on the way back
-- ☐ Winery add-on: Upper Peninsula Inspired (321 E Superior St, Munising) — tasting room for 5 UP wineries; full bar + food truck; right in town
+- ☐ Winery add-on: Yooper Wine / Garden Bay Winery (Cooks, ~20 min from Munising) — rebranded but still operating at 11858 W US Hwy 2; open daily 11:00–6:00; easy stop on the way back
 
 ### On-Site (anytime)
 - ***Creek fishing — no license needed for kids under 17; adults need a valid MI license***
@@ -154,18 +151,17 @@
 - ***☐ Beach on Little Bay de Noc — shallow warm water, good for young kids***
 
 ### Lunch
-- ***☐ ~1:00 PM — Swedish Pantry (Escanaba) — local bakery/café staple, casual and great food***
-- ***☐ Pick up pasties nearby for a quick UP tradition***
+- ***☐ ~1:00 PM — Gram's Pasties (Escanaba) — open Sunday; 2418 Ludington St; Reader's Choice winner, great pasties + casual lunch***
+- ***☐ Saunders Point Brewing (Gladstone) — open Sunday from noon; local craft brewery in a restored historic theater***
 
 ### Afternoon: Escanaba Downtown (~20 min)
 - ***☐ ~2:00 PM — Walk Ludington St — shops, bakeries, local character***
 - ***☐ Sayklly's Confectionery & Gifts — local candy shop with freshly made chocolates and sweets; great stop for the kids***
-- ☐ Leigh's Garden Winery — 904 Ludington St (Historic Old Escanaba); 25+ wines, tasting room, great stop after walking the Ave
+- ☐ Leigh's Garden Winery — 904 Ludington St (Historic Old Escanaba); 25+ wines, tasting room — **open Thu–Sat only; closed Sunday**
 
 ### Dinner near Gladstone / Escanaba
-- ***☐ Freshwater Tavern (Gladstone) — lakeside, relaxed, comfort food***
-- ***☐ The Stonehouse (Escanaba) — 16 freshwater fish options, 30-year local favorite***
-- ***☐ Hereford & Hops (Escanaba) — UP's first brewpub, family-friendly***
+- ***☐ Freshwater Tavern (Gladstone) — lakeside, relaxed, comfort food; open daily 4:30–9 PM***
+- ***☐ Sayklly's Confectionery & Gifts (Escanaba) — if you didn't stop earlier; call ahead for Sunday hours***
 
 ### On-Site (evening)
 - ***Creek fishing, lawn games, lodge downtime***
@@ -187,12 +183,11 @@
 - ***☐ Island Resort & Casino (same complex) — multiple options: 5 Bridges Pub, T. McC's Sports Bar, Coral Reef Grille, Signature Subs & Pizza***
 
 ### Stop on the Way Back
-- ☐ Northern Sun Winery, Bark River — estate winery on 5 acres, right on County Rd 400; easy pull-off on the way out
-- ☐ Upper Hand Brewery, Escanaba — sister to Bell's Brewery, known for Yooper Ale; ~20 min from the course on the way back to Cornell
+- ☐ Northern Sun Winery, Bark River — estate winery on 5 acres, right on County Rd 400; easy pull-off on the way out; open daily 1–6 PM
 
 ### Reunite: Group Dinner at the Lodge
 - ***☐ Cook together at home — last full night, relaxed meal around the lodge***
-- ***☐ Backup: Mueller's Pizza or Log Cabin Grill (Gladstone) if everyone's too tired to cook***
+- ***☐ Backup: Mueller's Pizza (1517 Ludington St, Escanaba) — open Monday 4–10 PM — if everyone's too tired to cook***
 
 ---
 
