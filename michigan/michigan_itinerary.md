@@ -56,7 +56,8 @@
 | Gladstone Beach (Van Cleve Park) | ~10 min | Shallow warm water, huge playground; ideal for young kids |
 | Escanaba Municipal Beach | ~20 min | Sandy beach, water slides, historic lighthouse nearby |
 | Little Bay de Noc | ~15 min | "Walleye Capital of the World" — boating, kayaking, fishing |
-| Escanaba Downtown (Ludington St) | ~20 min | Walkable historic downtown, shops, bakeries |
+| Escanaba Downtown (Ludington St) | ~20 min | Walkable historic downtown, shops, bakeries — **note: major construction on Ludington St (9th–16th) through fall 2026** |
+| Delta County Historical Museum | ~20 min | Ludington Park, Escanaba; Native American artifacts and logging history |
 | Saykilly's Confectionery & Gifts | ~20 min | 1304 Ludington St; freshly made chocolates & sweets; great for kids — **open Mon–Sat only** |
 | Days River Natural Trail | ~10 min (Gladstone) | Easy local hike along the river |
 | Hiawatha National Forest | ~varies | Vast public land, hiking, mountain biking, scenic drives |
@@ -98,7 +99,7 @@
   - ***☐ Joe's Cheese House, Marinette — roadside Wisconsin cheese & snacks, quirky junk cow sculpture out front (~10 min)***
 - ***☐ ~5:00–5:30 PM — Arrive Cornell, MI***
 - ***☐ Check in / settle / creek fishing***
-- ***☐ Dinner at the lodge — easy first night; pick up groceries on the way in (Escanaba ~15 min)***
+- ***☐ Dinner at the lodge — pulled pork; pick up groceries on the way in (Escanaba ~15 min)***
 
 ---
 
@@ -112,6 +113,7 @@
 **Option A — Pictured Rocks Boat Cruise** *(book tickets in advance — sells out)*
 - ***☐ Spray Falls Cruise — narrated, ~2 hrs; goes further along the shoreline to Spray Falls (70-ft waterfall into Lake Superior); faster catamaran boats; adults $56, ages 4–12 $19, ages 0–3 $1 — [fares & schedule](https://picturedrocks.com/fares-schedule/)***
 - ***☐ Arrive at Munising City Dock 30–45 min before departure***
+- ***Note: Ryan is skipping the boat — he and Dan may split off and hike (see Option B or C below)***
 
 **Option B — Miners Castle Trail** *(hike the cliffs — best for young kids)*
 - ***☐ Miners Castle Trailhead — boardwalk/paved path, stroller-friendly; overlook views of the Pictured Rocks cliffs from above***
@@ -126,6 +128,11 @@
 - ***☐ Alger Falls — roadside pull-off, 2-min stop on the way into Munising***
 - ***☐ Wagner Falls — 0.2-mile flat boardwalk (~20 min)***
 - ***☐ Miners Falls — 0.6-mi easy out-and-back to a 50-ft waterfall (~45 min)***
+
+### Saturday Afternoon Option: Marquette (~45 min from Munising)
+- ***☐ UP Children's Museum — [upchildrensmuseum.org](https://upchildrensmuseum.org/); great for kids after a big morning***
+- ***☐ Explore downtown Marquette if time allows before heading back to Cornell (~1 hr)***
+- ***TODO: research more Marquette options***
 
 ### Dinner in Munising
 - ☐ Eh! Burger — casual, right by the boat cruise dock
@@ -158,8 +165,8 @@
 ### Afternoon
 - ***☐ ~2:00 PM — TODO: find afternoon activity***
 
-### Dinner near Gladstone / Escanaba
-- ***☐ Freshwater Tavern (Gladstone) — lakeside, relaxed, comfort food; open daily 4:30–9 PM***
+### Dinner at the Lodge
+- ***☐ Steaks — Karen cooking***
 
 ### On-Site (evening)
 - ***Creek fishing, lawn games, lodge downtime***
@@ -183,12 +190,12 @@
 ### Stop on the Way Back
 - ☐ Northern Sun Winery, Bark River — estate winery on 5 acres, right on County Rd 400; easy pull-off on the way out; open daily 1–6 PM
 
-### Reunite: Group Dinner at the Lodge
-- ***☐ Cook together at home — last full night, relaxed meal around the lodge***
+### Non-Golfers / Kids — Daytime Activity
+- ***☐ DNR Pocket Park nature trail — [goexploremichigan.com](https://goexploremichigan.com/explore/dnr-pocket-park/); nature walk, outside, good for kids***
+- ***TODO: research more Monday activities for non-golfers***
 
-### Optional Dinner Out
-- ***☐ Swedish Pantry (Escanaba, ~20 min) — local bakery/café staple; open Mon–Fri (call ahead for closing time)***
-- ***☐ Mueller's Pizza (1517 Ludington St, Escanaba) — open Monday 4–10 PM***
+### Reunite: Group Dinner at the Lodge
+- ***☐ Ribs — last full night***
 
 ---
 
@@ -196,7 +203,7 @@
 
 - ***☐ Breakfast at the lodge — use up remaining food before checkout***
 - ***☐ Grab pasties for the road if any are left***
-- ***☐ ~10:30 AM — Check out and depart Cornell, MI***
+- ***☐ ~10:00 AM — Check out and depart Cornell, MI***
 - ***Route: M-35 south along Lake Michigan coast → Green Bay, WI → Wausau, WI → Inver Grove Heights, MN***
 
 ### Stop 1 — Menominee, MI / Marinette, WI (~1 hr from Cornell, ~11:30 AM) — Lunch
@@ -244,3 +251,20 @@
 - ***Fishing note: Kids under 17 fish free in MI; adults need a valid Michigan fishing license***
 - ***Attendees:***
 - ***Packing list:***
+
+---
+
+## Food Contributions
+
+| Who | Bringing |
+|-----|----------|
+| Jenny | Chocolate chip cookies (3 dozen), potato salad (½ lb) |
+| Dean | Bacon and smokeys (breakfast) |
+| Dan | Premade old fashioneds, box of good chips |
+| Julie | Coffee beans, lube |
+| Jessica | Water & Body Armor drinks, red potatoes, Caesar salad fixings |
+
+**Planned meals**
+- Friday night: Pulled pork
+- Sunday night: Steaks (Karen cooking)
+- Monday night: Ribs
