@@ -57,6 +57,7 @@
 | Escanaba Municipal Beach | ~20 min | Sandy beach, water slides, historic lighthouse nearby |
 | Little Bay de Noc | ~15 min | "Walleye Capital of the World" — boating, kayaking, fishing |
 | Escanaba Downtown (Ludington St) | ~20 min | Walkable historic downtown, shops, bakeries |
+| Saykilly's Confectionery & Gifts | ~20 min | 1304 Ludington St; freshly made chocolates & sweets; great for kids — **open Mon–Sat only** |
 | Days River Natural Trail | ~10 min (Gladstone) | Easy local hike along the river |
 | Hiawatha National Forest | ~varies | Vast public land, hiking, mountain biking, scenic drives |
 
@@ -154,13 +155,11 @@
 - ***☐ ~1:00 PM — Gram's Pasties (Escanaba) — open Sunday; 2418 Ludington St; Reader's Choice winner, great pasties + casual lunch***
 - ***☐ Saunders Point Brewing (Gladstone) — open Sunday from noon; local craft brewery in a restored historic theater***
 
-### Afternoon: Escanaba Downtown (~20 min)
-- ***☐ ~2:00 PM — Walk Ludington St — shops, bakeries, local character***
-- ***☐ Sayklly's Confectionery & Gifts — local candy shop with freshly made chocolates and sweets; great stop for the kids***
+### Afternoon
+- ***☐ ~2:00 PM — TODO: find afternoon activity***
 
 ### Dinner near Gladstone / Escanaba
 - ***☐ Freshwater Tavern (Gladstone) — lakeside, relaxed, comfort food; open daily 4:30–9 PM***
-- ***☐ Sayklly's Confectionery & Gifts (Escanaba) — if you didn't stop earlier; call ahead for Sunday hours***
 
 ### On-Site (evening)
 - ***Creek fishing, lawn games, lodge downtime***
