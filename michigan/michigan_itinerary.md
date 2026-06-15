@@ -110,7 +110,7 @@
 ### Group Activity: Pictured Rocks, Munising (~55 min)
 
 **Option A — Pictured Rocks Boat Cruise** *(book tickets in advance — sells out)*
-- ***☐ Classic Cruise — narrated, 2.5–3 hrs along the sandstone cliffs from the water; adults $48, ages 4–12 $19, ages 0–3 $1 — [fares & schedule](https://picturedrocks.com/fares-schedule/)***
+- ***☐ Spray Falls Cruise — narrated, ~2 hrs; goes further along the shoreline to Spray Falls (70-ft waterfall into Lake Superior); faster catamaran boats; adults $56, ages 4–12 $19, ages 0–3 $1 — [fares & schedule](https://picturedrocks.com/fares-schedule/)***
 - ***☐ Arrive at Munising City Dock 30–45 min before departure***
 
 **Option B — Miners Castle Trail** *(hike the cliffs — best for young kids)*
