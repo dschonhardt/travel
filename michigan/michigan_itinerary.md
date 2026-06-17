@@ -108,35 +108,32 @@
 ### Breakfast at the Lodge
 - ***☐ Cook at home — good send-off before the drive to Munising***
 
-### Group Activity: Pictured Rocks, Munising (~55 min)
+### Morning: Pictured Rocks Boat Cruise, Munising (~55 min)
+- ***☑ Spray Falls Cruise — BOOKED, 10:00 AM departure; narrated, ~2 hrs; goes further along the shoreline to Spray Falls (70-ft waterfall into Lake Superior); faster catamaran boats — [fares & schedule](https://picturedrocks.com/fares-schedule/)***
+- ***☐ Arrive at Munising City Dock by ~9:15–9:30 AM***
 
-**Option A — Pictured Rocks Boat Cruise** *(book tickets in advance — sells out)*
-- ***☐ Spray Falls Cruise — narrated, ~2 hrs; goes further along the shoreline to Spray Falls (70-ft waterfall into Lake Superior); faster catamaran boats; adults $56, ages 4–12 $19, ages 0–3 $1 — [fares & schedule](https://picturedrocks.com/fares-schedule/)***
-- ***☐ Arrive at Munising City Dock 30–45 min before departure***
-- ***Note: Ryan is skipping the boat — he and Dan may split off and hike (see Option B or C below)***
+### Lunch: Munising
+- ***☐ Eh! Burger — casual, right by the boat cruise dock***
+- ***☐ Muldoon's Pasties — freshly baked daily since 1989; USA Today top pasty in MI***
+- ***☐ East Channel Brewing Co. — downtown Munising; locally sourced ingredients***
 
-**Option B — Miners Castle Trail** *(hike the cliffs — best for young kids)*
+### Afternoon: Miners Hike
 - ***☐ Miners Castle Trailhead — boardwalk/paved path, stroller-friendly; overlook views of the Pictured Rocks cliffs from above***
-- ***☐ Add-on: short walk down to Miners Beach on Lake Superior***
+- ***☐ Short walk down to Miners Beach on Lake Superior***
+- ***☐ Optional add-on: Miners Falls — 0.6-mi easy out-and-back to a 50-ft waterfall (~45 min)***
 
-**Option C — Chapel Rock Trail** *(best for adults / older kids without young ones)*
-- ***☐ [Chapel Beach Loop](https://www.alltrails.com/trail/us/michigan/chapel-beach-loop) — wooded terrain with rocks and roots — too long for a 3-year-old***
-- ***☐ Reward: Chapel Rock sandstone formation and Chapel Beach on Lake Superior***
-- ***☐ Arrive at trailhead before 9 AM — parking fills fast in peak season***
+### Drive to Marquette (~45 min from Munising) — Optional Stops on M-28
+- ***☐ Scott Falls — roadside pull-off right on M-28 near AuTrain; walk behind the waterfall; ~15 min; great for kids***
+- ***☐ Lakenenland — free outdoor sculpture park off M-28, ~15 miles east of Marquette; half-mile loop of giant whimsical metal sculptures; free admission***
 
-**Waterfall add-ons (easy, good for all ages)**
-- ***☐ Alger Falls — roadside pull-off, 2-min stop on the way into Munising***
-- ***☐ Wagner Falls — 0.2-mile flat boardwalk (~20 min)***
-- ***☐ Miners Falls — 0.6-mi easy out-and-back to a 50-ft waterfall (~45 min)***
+### Evening: Marquette
+- ***☐ Presque Isle Park — scenic drive around the peninsula; Black Rocks on Lake Superior (adults can jump, kids can wade); lighthouse views; one of the best free things in the UP***
+- ***☐ Donckers — old-school soda fountain & candy shop on Washington St, open since 1896; great treat stop for the kids***
 
-### Saturday Afternoon Option: Marquette (~45 min from Munising)
-- ***☐ UP Children's Museum — [upchildrensmuseum.org](https://upchildrensmuseum.org/); great for kids after a big morning***
-- ***☐ Explore downtown Marquette if time allows before heading back to Cornell (~1 hr)***
-- ***TODO: research more Marquette options***
-
-### Dinner in Munising
-- ☐ Eh! Burger — casual, right by the boat cruise dock
-- ☐ Winery add-on: Yooper Wine / Garden Bay Winery (Cooks, ~20 min from Munising) — rebranded but still operating at 11858 W US Hwy 2; open daily 11:00–6:00; easy stop on the way back
+**Dinner options:**
+- ***☐ Ore Dock Brewing Co. — Lake Superior views, good food, relaxed atmosphere; best combo of setting + food + beer***
+- ***☐ The Vierling — historic brewpub near the waterfront, excellent food, a bit nicer***
+- ***☐ Blackrocks Brewery — most popular local spot, lively atmosphere, great beer; can get crowded on a Saturday evening***
 
 ### On-Site (anytime)
 - ***Creek fishing — no license needed for kids under 17; adults need a valid MI license***
@@ -144,6 +141,7 @@
 ---
 
 ## Day 3 — Sunday, June 21
+
 
 ### Early Morning
 - ***☐ 7:00 AM — Dan & Julie: 7-mile run***
