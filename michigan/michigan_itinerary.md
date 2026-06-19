@@ -44,6 +44,7 @@
 | Lagniappe Cajun Creole Eatery | Marquette | UP's first Cajun restaurant; 80+ made-from-scratch items; VooDoo Bar on-site — 145 Jackson Cut Alley — **closed Sunday & Monday** |
 | Sandos Eatery | Marquette | Casual grab-n-go; Philly cheesesteaks, burritos, vegan options — 113 S 3rd St — **closed Sunday & Monday** |
 | Third Street Bagel | Marquette | Locally owned bagel & coffee shop; fresh-baked bagels, specialty cream cheeses, drive-through — 429 N 3rd St; great breakfast stop |
+| Jilbert's Dairy | Marquette | Local dairy & ice cream parlor; Marquette institution — 200 Meeske Ave; open daily ~10am–10pm |
 
 ### Sites to See
 
