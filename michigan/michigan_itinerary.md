@@ -41,6 +41,9 @@
 | Mueller's Pizza | Escanaba | Easy group-friendly pizza — 1517 Ludington St |
 | Log Cabin Grill | Gladstone | Casual, family-friendly — **closed Monday** |
 | Eh! Burger | Munising | Casual burgers near the boat cruise dock — open daily, soft drinks only (no liquor license) |
+| Lagniappe Cajun Creole Eatery | Marquette | UP's first Cajun restaurant; 80+ made-from-scratch items; VooDoo Bar on-site — 145 Jackson Cut Alley — **closed Sunday & Monday** |
+| Sandos Eatery | Marquette | Casual grab-n-go; Philly cheesesteaks, burritos, vegan options — 113 S 3rd St — **closed Sunday & Monday** |
+| Third Street Bagel | Marquette | Locally owned bagel & coffee shop; fresh-baked bagels, specialty cream cheeses, drive-through — 429 N 3rd St; great breakfast stop |
 
 ### Sites to See
 
@@ -139,25 +142,18 @@
 
 - ***☐ ~8:00 AM — Breakfast at the lodge***
 - ***☐ ~8:45 AM — Depart for Marquette (~50 min drive)***
-- ***☐ ~9:50 AM — Presque Isle Park — scenic drive around the peninsula; stop at Black Rocks on Lake Superior (adults can jump, kids can wade); lighthouse views; great for all ages; ~1 hr***
-  - ***☐ Optional: Sugarloaf Mountain — 5 miles north of downtown on County Rd 550; short 0.5-mile easy trail with wooden staircases; panoramic views of Lake Superior and Marquette; ~45 min; best for older kids/adults***
-- ***☐ ~11:30 AM — Lunch in downtown Marquette (Washington Street area)***
+- ***☐ ~9:35 AM — Sugarloaf Mountain — 5 miles north of downtown on County Rd 550; 0.5-mile trail with wooden staircases; panoramic views of Lake Superior and Marquette; ~45 min***
+- ***☐ ~10:30 AM — Presque Isle Park — scenic drive around the peninsula; stop at Black Rocks on Lake Superior (adults can jump, kids can wade); lighthouse views; great for all ages; ~1 hr***
+- ***☐ ~11:45 AM — Lunch in downtown Marquette (Washington Street area)***
   - ***☐ The Vierling — across from Lower Harbor; known for fresh-caught Lake Superior whitefish; great waterfront views***
   - ***☐ Sol Azteca — Mexican, second-floor location with incredible water views***
   - ***☐ The Delft Bistro — housed in a 1914 theater; good sandwiches, outdoor seating on Washington St***
-- ***☐ ~1:00 PM — Lower Harbor Park (Ellwood A. Mattson Park) — right downtown; 22-acre waterfront park with a large castle playground; views of Lake Superior and the Ore Docks; bike path, concessions stand; great for the kids after lunch; ~45 min***
-- ***☐ ~2:00 PM — Dead River Falls — short drive from downtown; 1.5-mile round trip hike to a series of cascading falls dropping 90 ft total; rocky terrain so bring a carrier for the little one; ~1.5 hrs***
-- ***☐ ~3:30 PM — Donckers (137 W Washington St) — treats stop; soda fountain & chocolates since 1896; great for kids***
-- ***☐ ~4:00 PM — Explore downtown Washington Street — shops, walk around***
+- ***☐ ~1:15 PM — Lower Harbor Park (Ellwood A. Mattson Park) — right downtown; 22-acre waterfront park with a large castle playground; views of Lake Superior and the Ore Docks; bike path, concessions stand; great for the kids after lunch; ~45 min***
+- ***☐ ~2:00 PM — Donckers (137 W Washington St) — treats stop; soda fountain & chocolates since 1896; great for kids***
+- ***☐ ~2:15 PM — Explore downtown Washington Street — shops, walk around***
   - ***☐ Rainy day option: UP Children's Museum (123 W Baraga Ave) — opens noon on Sundays, closes 5 PM; ages 2–17 $9, adults $7, family pass $35***
-- ***☐ ~5:30 PM — Dinner in Marquette***
-  - ***☐ Ore Dock Brewing Co. — Lake Superior views, good food, relaxed atmosphere — best combo of setting + food + beer***
-  - ***☐ The Vierling — historic brewpub near the waterfront; excellent food; a bit nicer (skip if used for lunch)***
-  - ***☐ Blackrocks Brewery — most popular local spot; lively atmosphere; can get crowded on weekends***
-- ***☐ ~7:00 PM — Drive back to Cornell (~50 min)***
-- ***☐ ~7:50 PM — On-site: creek fishing, lawn games, lodge downtime***
-
-> **Note:** Steaks dinner (originally Sunday, Karen cooking) needs a new night — move to Monday or drop?
+- ***☐ ~5:00 PM — Depart Marquette for Cornell (~50 min)***
+- ***☐ ~5:50 PM — Arrive Cornell — dinner at the lodge (Karen's steaks)***
 
 ---
 
