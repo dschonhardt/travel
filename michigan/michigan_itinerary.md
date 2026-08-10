@@ -41,6 +41,10 @@
 | Mueller's Pizza | Escanaba | Easy group-friendly pizza — 1517 Ludington St |
 | Log Cabin Grill | Gladstone | Casual, family-friendly — **closed Monday** |
 | Eh! Burger | Munising | Casual burgers near the boat cruise dock — open daily, soft drinks only (no liquor license) |
+| Lagniappe Cajun Creole Eatery | Marquette | UP's first Cajun restaurant; 80+ made-from-scratch items; VooDoo Bar on-site — 145 Jackson Cut Alley — **closed Sunday & Monday** |
+| Sandos Eatery | Marquette | Casual grab-n-go; Philly cheesesteaks, burritos, vegan options — 113 S 3rd St — **closed Sunday & Monday** |
+| Third Street Bagel | Marquette | Locally owned bagel & coffee shop; fresh-baked bagels, specialty cream cheeses, drive-through — 429 N 3rd St; great breakfast stop |
+| Jilbert's Dairy | Marquette | Local dairy & ice cream parlor; Marquette institution — 200 Meeske Ave; open daily ~10am–10pm |
 
 ### Sites to See
 
@@ -105,71 +109,52 @@
 
 ## Day 2 — Saturday, June 20
 
-### Breakfast at the Lodge
-- ***☐ Cook at home — good send-off before the drive to Munising***
-
-### Group Activity: Pictured Rocks, Munising (~55 min)
-
-**Option A — Pictured Rocks Boat Cruise** *(book tickets in advance — sells out)*
-- ***☐ Spray Falls Cruise — narrated, ~2 hrs; goes further along the shoreline to Spray Falls (70-ft waterfall into Lake Superior); faster catamaran boats; adults $56, ages 4–12 $19, ages 0–3 $1 — [fares & schedule](https://picturedrocks.com/fares-schedule/)***
-- ***☐ Arrive at Munising City Dock 30–45 min before departure***
-- ***Note: Ryan is skipping the boat — he and Dan may split off and hike (see Option B or C below)***
-
-**Option B — Miners Castle Trail** *(hike the cliffs — best for young kids)*
-- ***☐ Miners Castle Trailhead — boardwalk/paved path, stroller-friendly; overlook views of the Pictured Rocks cliffs from above***
-- ***☐ Add-on: short walk down to Miners Beach on Lake Superior***
-
-**Option C — Chapel Rock Trail** *(best for adults / older kids without young ones)*
-- ***☐ [Chapel Beach Loop](https://www.alltrails.com/trail/us/michigan/chapel-beach-loop) — wooded terrain with rocks and roots — too long for a 3-year-old***
-- ***☐ Reward: Chapel Rock sandstone formation and Chapel Beach on Lake Superior***
-- ***☐ Arrive at trailhead before 9 AM — parking fills fast in peak season***
-
-**Waterfall add-ons (easy, good for all ages)**
-- ***☐ Alger Falls — roadside pull-off, 2-min stop on the way into Munising***
-- ***☐ Wagner Falls — 0.2-mile flat boardwalk (~20 min)***
-- ***☐ Miners Falls — 0.6-mi easy out-and-back to a 50-ft waterfall (~45 min)***
-
-### Saturday Afternoon Option: Marquette (~45 min from Munising)
-- ***☐ UP Children's Museum — [upchildrensmuseum.org](https://upchildrensmuseum.org/); great for kids after a big morning***
-- ***☐ Explore downtown Marquette if time allows before heading back to Cornell (~1 hr)***
-- ***TODO: research more Marquette options***
-
-### Dinner in Munising
-- ☐ Eh! Burger — casual, right by the boat cruise dock
-- ☐ Winery add-on: Yooper Wine / Garden Bay Winery (Cooks, ~20 min from Munising) — rebranded but still operating at 11858 W US Hwy 2; open daily 11:00–6:00; easy stop on the way back
-
-### On-Site (anytime)
-- ***Creek fishing — no license needed for kids under 17; adults need a valid MI license***
+- ***☐ ~7:30 AM — Breakfast at the lodge***
+- ***☐ ~8:15 AM — Depart for Munising (~55 min drive)***
+- ***☐ ~9:15 AM — Arrive Munising City Dock; board early***
+- ***☑ 10:00 AM — Spray Falls Cruise — BOOKED; narrated, ~2 hrs; goes further along the shoreline to Spray Falls (70-ft waterfall into Lake Superior); faster catamaran boats — [fares & schedule](https://picturedrocks.com/fares-schedule/)***
+- ***☐ ~12:15 PM — Lunch in Munising***
+  - ***☐ Eh! Burger — casual, right by the boat cruise dock***
+  - ***☐ Muldoon's Pasties — freshly baked daily since 1989; USA Today top pasty in MI***
+  - ***☐ East Channel Brewing Co. — downtown Munising; locally sourced ingredients***
+- ***☐ ~1:30 PM — Munising Falls — right in town; 0.25-mile paved trail; waterfall drops behind a sandstone overhang and you can walk behind it; great for kids; ~30 min***
+  - ***☐ Optional: Sand Point Beach — Lake Superior beach just outside town; soft sand, shallow water, good for a quick wade***
+- ***☐ ~2:15 PM — Drive to Miners area (~15 min); quick waterfall stop en route:***
+  - ***☐ Alger Falls — roadside pull-off on M-28; 2-min stop***
+  - ***☐ Wagner Falls — 0.2-mile flat boardwalk; ~20 min (pick one — Wagner is better)***
+- ***☐ ~3:00 PM — Miners Castle Trailhead — boardwalk/paved path, stroller-friendly; overlook views of the Pictured Rocks cliffs from above***
+- ***☐ Short walk down to Miners Beach on Lake Superior***
+  - ***☐ Optional add-on: Miners Falls — 0.6-mi easy out-and-back to a 50-ft waterfall (~45 min; only if energy allows)***
+- ***☐ ~4:30 PM — Drive back to Munising for dinner (~15 min)***
+- ***☐ ~5:00 PM — Dinner in Munising***
+  - ***☐ Foggy's Steakhouse — steaks and views; good for a group***
+  - ***☐ East Channel Brewing Co. — best sit-down option if not used for lunch; locally sourced menu, craft beer***
+  - ***☐ Pictured Rocks Pizza — easy, casual, very kid-friendly***
+  - ***☐ Tracey's — inventive locally inspired cuisine; most upscale option in town***
+- ***☐ ~6:30 PM — Dessert: downtown Munising***
+  - ***☐ Miners Pasties and Ice Cream (100 W Munising Ave) — Chocolate Shoppe Ice Cream from Wisconsin; fun flavors, outdoor seating***
+  - ***☐ Falling Rock Cafe — ice cream + bookstore + gift shop; kids can browse while adults unwind***
+- ***☐ ~7:00 PM — Drive back to Cornell (~55 min)***
+- ***☐ ~8:00 PM — On-site: creek fishing, lawn games, lodge downtime***
 
 ---
 
 ## Day 3 — Sunday, June 21
 
-### Early Morning
-- ***☐ 7:00 AM — Dan & Julie: 7-mile run***
-
-### Breakfast at the Lodge
-- ***☐ Cook at home — relaxed morning before heading out***
-
-### Morning: Days River Pathway, Gladstone (~10 min)
-- ***☐ ~9:30 AM — Easy nature walk along the river; pick a short loop from 9 miles of trails — great for all ages after a big Day 2***
-
-### Late Morning: Van Cleve Park / Gladstone Beach (~10 min)
-- ***☐ ~11:00 AM — Playground with climbing structures + water slide in shallow water, perfect for ages 3 & 5***
-- ***☐ Beach on Little Bay de Noc — shallow warm water, good for young kids***
-
-### Lunch
-- ***☐ ~1:00 PM — Gram's Pasties (Escanaba) — open Sunday; 2418 Ludington St; Reader's Choice winner, great pasties + casual lunch***
-- ***☐ Saunders Point Brewing (Gladstone) — open Sunday from noon; local craft brewery in a restored historic theater***
-
-### Afternoon
-- ***☐ ~2:00 PM — TODO: find afternoon activity***
-
-### Dinner at the Lodge
-- ***☐ Steaks — Karen cooking***
-
-### On-Site (evening)
-- ***Creek fishing, lawn games, lodge downtime***
+- ***☐ ~8:00 AM — Breakfast at the lodge***
+- ***☐ ~8:45 AM — Depart for Marquette (~50 min drive)***
+- ***☐ ~9:35 AM — Sugarloaf Mountain — 5 miles north of downtown on County Rd 550; 0.5-mile trail with wooden staircases; panoramic views of Lake Superior and Marquette; ~45 min***
+- ***☐ ~10:30 AM — Presque Isle Park — scenic drive around the peninsula; stop at Black Rocks on Lake Superior (adults can jump, kids can wade); lighthouse views; great for all ages; ~1 hr***
+- ***☐ ~11:45 AM — Lunch in downtown Marquette (Washington Street area)***
+  - ***☐ The Vierling — across from Lower Harbor; known for fresh-caught Lake Superior whitefish; great waterfront views***
+  - ***☐ Sol Azteca — Mexican, second-floor location with incredible water views***
+  - ***☐ The Delft Bistro — housed in a 1914 theater; good sandwiches, outdoor seating on Washington St***
+- ***☐ ~1:15 PM — Lower Harbor Park (Ellwood A. Mattson Park) — right downtown; 22-acre waterfront park with a large castle playground; views of Lake Superior and the Ore Docks; bike path, concessions stand; great for the kids after lunch; ~45 min***
+- ***☐ ~2:00 PM — Donckers (137 W Washington St) — treats stop; soda fountain & chocolates since 1896; great for kids***
+- ***☐ ~2:15 PM — Explore downtown Washington Street — shops, walk around***
+  - ***☐ Rainy day option: UP Children's Museum (123 W Baraga Ave) — opens noon on Sundays, closes 5 PM; ages 2–17 $9, adults $7, family pass $35***
+- ***☐ ~5:00 PM — Depart Marquette for Cornell (~50 min)***
+- ***☐ ~5:50 PM — Arrive Cornell — dinner at the lodge (Karen's steaks)***
 
 ---
 
@@ -191,8 +176,10 @@
 - ☐ Northern Sun Winery, Bark River — estate winery on 5 acres, right on County Rd 400; easy pull-off on the way out; open daily 1–6 PM
 
 ### Non-Golfers / Kids — Daytime Activity
+- ***☐ Van Cleve Park / Gladstone Beach (~10 min) — playground with climbing structures + water slide in shallow water; beach on Little Bay de Noc; perfect for ages 3 & 5***
+- ***☐ Days River Pathway, Gladstone (~10 min) — easy nature walk along the river; pick a short loop from 9 miles of trails***
 - ***☐ DNR Pocket Park nature trail — [goexploremichigan.com](https://goexploremichigan.com/explore/dnr-pocket-park/); nature walk, outside, good for kids***
-- ***TODO: research more Monday activities for non-golfers***
+- ***☐ Gram's Pasties lunch (Escanaba) — 2418 Ludington St; open Monday; Reader's Choice winner***
 
 ### Reunite: Group Dinner at the Lodge
 - ***☐ Ribs — last full night***
