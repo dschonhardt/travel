@@ -34,15 +34,17 @@ Loop structure — Nagoya and Kanazawa both have direct shinkansen to/from Tokyo
 | Days | Dates | Location | Notes |
 |---|---|---|---|
 | 1–4 | Tue Oct 27 – Fri Oct 30 | Tokyo | Arrival day (land 2:35 PM) + mix of favorites (Akihabara, Asakusa, izakaya crawl) + new ground (Kamakura or Nikko day trip, an unvisited neighborhood — Kichijoji, Nakameguro, Yanaka). Optional: Tokyo Disneyland runs its Halloween event all of October, if anyone wants a taste of it |
-| 5 | Sat Oct 31 | Tokyo → Nagoya | Shinkansen (~1h40). Evening in Nagoya — misokatsu, tebasaki wings |
+| 5 | Sat Oct 31 | Tokyo → Nagoya | Tokaido Shinkansen (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Evening in Nagoya — misokatsu, tebasaki wings |
 | 6 | Sun Nov 1 | Nagoya | Nagoya Castle, Osu shopping arcade, maybe SCMAGLEV railway museum |
-| 7 | Mon Nov 2 | Nagoya → Takayama | Hida Limited Express (~2.5hrs), scenic mountain ride. Evening in Takayama old town |
+| 7 | Mon Nov 2 | Nagoya → Takayama | Hida Limited Express (~2.5hrs, ¥5,600–6,150 reserved ≈ $37–41 pp one-way), scenic mountain ride. Evening in Takayama old town |
 | 8 | Tue Nov 3 | Takayama | Sake breweries, morning market, old town |
-| 9 | Wed Nov 4 | Takayama (day trip) → Shirakawa-go → back to Takayama | **Extra day.** Dedicated round-trip to Shirakawa-go (bus ~50 min each way, frequent) without luggage — time to actually walk the village and hit the Ogimachi Castle viewpoint, instead of a rushed layover |
-| 10 | Thu Nov 5 | Takayama → Kanazawa | Bus/train via the Shirakawa-go corridor, straight through this time |
+| 9 | Wed Nov 4 | Takayama (day trip) → Shirakawa-go → back to Takayama | **Extra day.** Dedicated round-trip to Shirakawa-go (Nohi bus, ~50 min each way, frequent, ¥2,600 one-way / ~¥5,200 round-trip pp ≈ $17–35 pp) without luggage — time to actually walk the village and hit the Ogimachi Castle viewpoint, instead of a rushed layover |
+| 10 | Thu Nov 5 | Takayama → Kanazawa | Bus via the Shirakawa-go corridor, straight through this time (~2h15–2.5hrs total, ¥4,000–4,600 pp depending on through-fare vs. two separate tickets) |
 | 11–12 | Fri Nov 6 – Sat Nov 7 | Kanazawa | Kenrokuen Garden, Higashi Chaya district, Omicho Market, 21st Century Museum |
-| 13 | Sun Nov 8 | Kanazawa → Tokyo | Hokuriku Shinkansen (~2.5hrs) |
+| 13 | Sun Nov 8 | Kanazawa → Tokyo | Hokuriku Shinkansen Kagayaki (~2.5hrs, reserved seat mandatory, ¥14,380 ≈ $96 pp one-way) |
 | 14–16 | Mon Nov 9 – Wed Nov 11 | Tokyo | **Extra day added here.** Wind-down — favorites + anything missed. Nov 11 is departure day (flight 5:15 PM), so most of the day is still free |
+
+*Fares above are one-way, per person, standard/reserved seat as noted, using the same rough ¥150 = $1 rate as the restaurant list — recheck closer to the trip. Multiply by 4 for the group total. Doesn't factor in JR Pass or regional pass savings — that's still open in the TODO below.*
 
 ## Decisions needed
 
