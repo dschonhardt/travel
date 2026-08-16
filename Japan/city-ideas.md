@@ -2,6 +2,8 @@
 
 Companion doc to [2026-fall-itinerary.md](./2026-fall-itinerary.md). Running list of must-dos per city — trim/reorder as we firm up day-by-day plans.
 
+[Shared Google Map](https://maps.app.goo.gl/e4rYQjq7bp1Qnu8v7?g_st=ac) — tracking places from this list
+
 ## Tokyo
 
 *(leave blank — filling in last)*
