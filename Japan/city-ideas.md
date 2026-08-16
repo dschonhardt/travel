@@ -58,6 +58,11 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 - ☐ Nabana no Sato winter illumination — flower park in Kuwana (Mie), ~40 min from Nagoya via Kintetsu train + shuttle bus. 2026–2027 season confirmed to run Oct 17, 2026 – May 31, 2027, so it's on for our Oct 31–Nov 2 dates. Evening light display (8M+ LEDs, gold-light tunnel), plus flower dome/gardens and plenty of seating — good relaxed evening pairing with a Nagoya day
 - ☐ Hisaya-odori Park — long central park strip through Sakae, right below Nagoya TV Tower; good walk/rest stop between Sakae shopping and dinner
 
+### City Views
+
+- ☐ Oasis 21 "Spaceship Aqua" — free rooftop glass walkway (~14m up) around a shallow water feature in Sakae, open panoramic views of central Nagoya. Free, 10:00–21:00. Best at dusk/night when the LED lighting turns on and reflects off the water
+- ☐ Nagoya TV Tower (Mirai Tower) — in Hisaya-odori Park; indoor Sky Deck (90m) + outdoor Sky Balcony (100m). ¥1,300 adult
+
 ### Food
 
 - ☐ Misokatsu (miso-glazed pork cutlet) — local specialty
