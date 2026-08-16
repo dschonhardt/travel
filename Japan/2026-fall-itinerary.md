@@ -46,6 +46,21 @@ Loop structure — Nagoya and Kanazawa both have direct shinkansen to/from Tokyo
 
 *Fares above are one-way, per person, standard/reserved seat as noted, using the same rough ¥150 = $1 rate as the restaurant list — recheck closer to the trip. Multiply by 4 for the group total. Doesn't factor in JR Pass or regional pass savings — that's still open in the TODO below.*
 
+## Tokyo neighborhood options (for the bookend stays)
+
+We liked Kanda/Asakusabashi in the past for being cheap but still on a main line with easy access to Akiba and everywhere else. Options below for something new with the same profile — not just proximity to Kanda, but similarly priced/connected areas across the city.
+
+| Neighborhood | Main line(s) | Price vs. Kanda/Asakusabashi | Vibe | Nearby draws |
+|---|---|---|---|---|
+| Kichijoji | Chuo Line (rapid) | Similar | Trendy but livable, cafes/bars | Inokashira Park, Ghibli Museum (advance tickets), live music bars |
+| Sugamo / Komagome | Yamanote (Komagome) | Cheaper | "Grandma's Harajuku," quirky | Rikugien Garden fall illumination (overlaps our dates), Jizo-dori shopping street |
+| Yanaka / Nippori | Yamanote (Nippori) | Cheaper | Old shitamachi, temples | Yanaka Ginza, cat alley, Yanaka Cemetery walk |
+| Kuramae | Toei Asakusa / Oedo | Cheaper | Craft/artisan shops | Small cafes, leatherwork studios, riverside walk toward Asakusa |
+| Kiyosumi-shirakawa | Oedo / Hanzomon | Cheaper | Third-wave coffee scene | Blue Bottle's first Japan location, Kiyosumi Garden |
+| Nakameguro | Tokyu Toyoko, Hibiya | Higher | Stylish, canal-side cafes | Meguro River walk, boutiques, brunch spots |
+
+**Leaning toward:** Kichijoji or Sugamo/Komagome as the best match for cheap + well-connected + genuinely new — Sugamo has the extra pull of the Rikugien illumination lining up with our fall-foliage theme.
+
 ## Decisions needed
 
 - **Kanazawa foliage:** typically peaks mid-to-late November, so Nov 6–7 is early — likely just starting to turn rather than full color. Worth knowing going in so expectations are set.
