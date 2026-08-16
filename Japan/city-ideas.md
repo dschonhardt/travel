@@ -6,9 +6,43 @@ Companion doc to [2026-fall-itinerary.md](./2026-fall-itinerary.md). Running lis
 
 *(leave blank — filling in last)*
 
+### Past things to re-do (from 2025 & 2023 itineraries)
+
+Pulled from the green/yellow highlights in the old itinerary docs — green = loved, do again; yellow = liked but lower priority.
+
+**Do again (green):**
+
+- ☐ Akihabara — wander the district
+- ☐ Asakusa — Senso-ji Temple, Nakamise Dori, Hoppy Street
+- ☐ Kyushu Jangara Ramen
+- ☐ Matsuya (gyudon chain, quick/cheap)
+- ☐ Yoshinoya + the sushi spot right next to it
+- ☐ La Fleur de Sarrasin — crêpe place run by an old couple
+- ☐ Shinjuku at night — Kabukicho Tower (Level 17 observation deck + gelato shop), Godzilla Head, Tokyo Metropolitan Government Building observation deck
+- ☐ teamLab (Borderless or Planets, whichever's running) + the tokyo-style pizza place nearby
+- ☐ Tokyo Tower
+- ☐ Meiji Shrine
+- ☐ Harajuku — Takeshita Street, Cat Street
+- ☐ Ikebukuro — Ringo apple pie pastries
+- ☐ Kanda — the yuzu ramen shop
+- ☐ Tokyo Dome — catch a Giants game
+- ☐ Mount Takao — day-trip hike
+
+**Liked / maybe (yellow):**
+
+- ☐ Omoide Yokocho (Piss Alley), Shinjuku — green in 2023, dropped to yellow in 2025
+- ☐ Golden Gai, Shinjuku — green in 2023, dropped to yellow in 2025
+
 ### Sites/Things to do
 
 ### Food
+
+### Festivals/Events during our dates (Oct 27–30 & Nov 9–11)
+
+*Checked Aug 2026 — recheck closer to the trip since some 2026 dates aren't officially confirmed yet.*
+
+- ☐ Tokyo International Film Festival — Oct 26–Nov 4, 2026, screenings and public events around Hibiya/Ginza/Yurakucho/Marunouchi. Overlaps our whole first Tokyo block
+- ☐ Komazawa Olympic Park Ramen Festival — Oct 22–Nov 3, 2026, 36 shops from around Japan doing limited-edition bowls. Overlaps our whole first Tokyo block
 
 ## Nagoya
 
@@ -17,11 +51,24 @@ Companion doc to [2026-fall-itinerary.md](./2026-fall-itinerary.md). Running lis
 - ☐ Nagoya Castle — Honmaru Palace only; the main keep/tower has been closed to the public since 2018 for seismic reasons (wooden rebuild targeted ~2032). Palace alone is still worth it, just don't expect to go up the tower
 - ☐ Osu Shopping Arcade — covered arcade, food stalls, retro/electronics shops, Osu Kannon Temple
 - ☐ SCMAGLEV and Railway Park — maglev/shinkansen history museum, good if anyone's into trains
+- ☐ Legoland Japan — near the port, big time commitment if going all in
+- ☐ Toyota Commemorative Museum of Industry and Technology — Toyota's original plant, textile-to-automobile history
+- ☐ Nabana no Sato winter illumination — flower park in Kuwana (Mie), ~40 min from Nagoya via Kintetsu train + shuttle bus. 2026–2027 season confirmed to run Oct 17, 2026 – May 31, 2027, so it's on for our Oct 31–Nov 2 dates. Evening light display (8M+ LEDs, gold-light tunnel), plus flower dome/gardens and plenty of seating — good relaxed evening pairing with a Nagoya day
+- ☐ Hisaya-odori Park — long central park strip through Sakae, right below Nagoya TV Tower; good walk/rest stop between Sakae shopping and dinner
 
 ### Food
 
 - ☐ Misokatsu (miso-glazed pork cutlet) — local specialty
 - ☐ Tebasaki (fried chicken wings) — Nagoya specialty, Furaibo is the well-known chain
+
+### Drinks
+
+**Confirmed open/bookable as of Aug 2026:**
+
+- ☐ Y. Market Brewing Kitchen — main taproom, in Yanagibashi Market, ~7 min walk from Nagoya Station. Nagoya's original craft brewery, ~10 house beers on tap. (Skip the West Taproom near Kami Otai — weekends only, irregular closures around their brew schedule.)
+- ☐ Endoji Brewing — small taproom (~10 seats + covered-street seating) in the Endoji shopping arcade, near Nagoya Station. House beer plus rotating guest taps. Confirmed active — Instagram posting through mid-2026, hours 15:00–23:00 (22:00 LO) weekdays, open year-round
+- ☐ Tall Boys Brewing — Minami-ku, 5 min from Kasadera Station, 8 taps of house beer + guest pours, grilled cheese menu. Hours per their Instagram: Tue–Thu 6–10 PM, Fri–Sun 3–11 PM (closed Mon)
+- ☐ Tōshun Shuzō sake brewery tour — family-run, 160+ years, Edo-period storehouses built with timber once reserved for Nagoya Castle. ~3 hrs (1:30–4:30 PM), ends at JR Shin-Moriyama Station, ¥18,000/person for groups of 2–10. Request-based booking, book at least a week out. Nov–April is brewing season — should be seeing active fermentation on our Oct 31–Nov 2 dates. Booked via [Discover Nagoya Tours](https://discovernagoyatours.com/tours/2104.html)
 
 ## Takayama
 
@@ -35,11 +82,13 @@ Companion doc to [2026-fall-itinerary.md](./2026-fall-itinerary.md). Running lis
 
 - ☐ Sake brewery tastings — look for the cedar balls (sugidama) hanging outside breweries in old town
 - ☐ Hida beef — try skewered/grilled in old town
+- ☐ Nagoya → Takayama train ride itself — Hida Limited Express runs through a scenic mountain gorge, worth treating as part of the sightseeing rather than just transit
 
 ## Shirakawa-go
 
 ### Sites/Things to do
 
+- ☐ Ogimachi village is a UNESCO World Heritage Site — one of only three gassho-zukuri villages with the designation, alongside nearby Gokayama
 - ☐ Ogimachi Castle ruins viewpoint (Shiroyama observation deck) — overlook of the whole gassho-zukuri village
 - ☐ Walk Ogimachi village — thatched-roof farmhouses, rice paddies
 - ☐ Wada House — largest/most accessible gassho-zukuri house open to the public
@@ -50,7 +99,7 @@ Companion doc to [2026-fall-itinerary.md](./2026-fall-itinerary.md). Running lis
 
 ### Sites/Things to do
 
-- ☐ Kenrokuen Garden — one of Japan's "three great gardens," best early morning for light/crowds
+- ☐ Kenrokuen Garden — one of Japan's "three great gardens," best early morning for light/crowds. Yukitsuri (rope-work bracing the pine branches for snow) goes up starting ~Nov 1 each year, so it should already be in place for our Nov 6–7 visit
 - ☐ Higashi Chaya District — geisha teahouse district, tea houses, gold-leaf shops
 - ☐ 21st Century Museum of Contemporary Art — right next to Kenrokuen, includes the famous Swimming Pool installation
 - ☐ Nagamachi Samurai District — preserved samurai residences, earthen walls
@@ -58,8 +107,14 @@ Companion doc to [2026-fall-itinerary.md](./2026-fall-itinerary.md). Running lis
 
 ### Food
 
-- ☐ Omicho Market — kaisendon (seafood rice bowls), Kanazawa's "kitchen"
+- ☐ Omicho Market — kaisendon (seafood rice bowls), Kanazawa's "kitchen." Snow crab season (Kano Gani/Kobako Gani) opens Nov 6 — right as we arrive — so crab should be at its freshest for our Nov 6–7 stay. (The market's dedicated Crab Hot Pot Festival is Nov 14, which we'll miss, but the crab itself will already be in season)
 - ☐ Gold leaf — Kanazawa produces ~99% of Japan's gold leaf; gold-leaf ice cream is a local novelty
+
+### Festivals/Events during our dates (Nov 5–8)
+
+*Checked Aug 2026.*
+
+- ☐ Korinbo Tree Fantasy illumination — ~110,000 LEDs on the zelkova trees along Korinbo (Kanazawa's main shopping street), 5 PM–midnight, free. 2026–2027 season runs early Nov 2026–mid Feb 2027, so it's on for our whole stay
 
 ## Michelin-Star Restaurants
 

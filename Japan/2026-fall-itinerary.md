@@ -53,13 +53,13 @@ We liked Kanda/Asakusabashi in the past for being cheap but still on a main line
 | Neighborhood | Main line(s) | Price vs. Kanda/Asakusabashi | Vibe | Nearby draws |
 |---|---|---|---|---|
 | Kichijoji | Chuo Line (rapid) | Similar | Trendy but livable, cafes/bars | Inokashira Park, Ghibli Museum (advance tickets), live music bars |
-| Sugamo / Komagome | Yamanote (Komagome) | Cheaper | "Grandma's Harajuku," quirky | Rikugien Garden fall illumination (overlaps our dates), Jizo-dori shopping street |
+| Sugamo / Komagome | Yamanote (Komagome) | Cheaper | "Grandma's Harajuku," quirky | Rikugien Garden, Jizo-dori shopping street |
 | Yanaka / Nippori | Yamanote (Nippori) | Cheaper | Old shitamachi, temples | Yanaka Ginza, cat alley, Yanaka Cemetery walk |
 | Kuramae | Toei Asakusa / Oedo | Cheaper | Craft/artisan shops | Small cafes, leatherwork studios, riverside walk toward Asakusa |
 | Kiyosumi-shirakawa | Oedo / Hanzomon | Cheaper | Third-wave coffee scene | Blue Bottle's first Japan location, Kiyosumi Garden |
 | Nakameguro | Tokyu Toyoko, Hibiya | Higher | Stylish, canal-side cafes | Meguro River walk, boutiques, brunch spots |
 
-**Leaning toward:** Kichijoji or Sugamo/Komagome as the best match for cheap + well-connected + genuinely new — Sugamo has the extra pull of the Rikugien illumination lining up with our fall-foliage theme.
+**Leaning toward:** Kichijoji or Sugamo/Komagome as the best match for cheap + well-connected + genuinely new.
 
 ## Decisions needed
 
