@@ -71,6 +71,7 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 
 - ☐ Hatcho miso (red miso) — Nagoya/Aichi specialty, made in Okazaki with a centuries-old method; the base for the dishes below, worth trying in some form
   - ☐ Misokatsu (miso-glazed pork cutlet) — local specialty
+    - ☐ Yabaton — the well-known misokatsu chain, est. 1947. Flagship/original location is the Yaba-cho Honten in Osu (Naka Ward) — easy to fold into an Osu visit. Also has branches at Nagoya Station (Esca underground mall and the Meitetsu Department Store). Also try the curry bun (per a video recommendation)
   - ☐ Miso nikomi udon — udon simmered in red miso broth, often served in an individual clay pot
   - ☐ Miso oden — oden (daikon, eggs, konjac, fish cakes, tofu simmered in dashi) served with a red miso glaze/dip instead of the usual broth-only style
 - ☐ Tebasaki (fried chicken wings) — Nagoya specialty, Furaibo is the well-known chain
