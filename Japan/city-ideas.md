@@ -54,7 +54,9 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 ### Sites/Things to do
 
 - ☐ Nabana no Sato winter illumination — flower park in Kuwana (Mie), ~40 min from Nagoya via Kintetsu train + shuttle bus. 2026–2027 season confirmed to run Oct 17, 2026 – May 31, 2027, so it's on for our Oct 31–Nov 2 dates. Evening light display (8M+ LEDs, gold-light tunnel), plus flower dome/gardens and plenty of seating — good relaxed evening pairing with a Nagoya day
-- ☐ Osu Shopping Arcade — covered arcade, food stalls, retro/electronics shops, Osu Kannon Temple
+- ☐ Osu — neighborhood in Naka-ku, south of Sakae
+  - ☐ Osu Shopping Arcade — covered arcade, food stalls, retro/electronics shops
+  - ☐ Osu Kannon Temple
 - ☐ City views (Sakae) — Mirai Tower and Oasis 21 are right by each other, easy to pair
   - ☐ Chubu Electric Power MIRAI TOWER (formerly Nagoya TV Tower) — ¥1,300 for the observation decks: indoor Sky Deck at 90m (360° views, ceiling mirror display) + outdoor Sky Balcony at 100m (open-air). Night view is a designated Japan Night View Heritage site; sunset into early evening is the most photographed slot since the tower got LED illumination in 2020. Floors 1–3 (shops/restaurants) are free even without going up
   - ☐ Oasis 21 "Water Spaceship" — free glass rooftop deck, 14m up, 10:00–21:00. Water flows across the glass roof above the walkway; lit up with colored lights at night. Free alternative/pairing to Mirai Tower
@@ -72,6 +74,8 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
   - ☐ Miso nikomi udon — udon simmered in red miso broth, often served in an individual clay pot
   - ☐ Miso oden — oden (daikon, eggs, konjac, fish cakes, tofu simmered in dashi) served with a red miso glaze/dip instead of the usual broth-only style
 - ☐ Tebasaki (fried chicken wings) — Nagoya specialty, Furaibo is the well-known chain
+- ☐ Uiro — steamed rice flour cake, soft/chewy with delicate sweetness; Nagoya's been a major producer since the Edo period and it's considered a signature local wagashi. Osu Uiro (est. 1949, in the Osu Shopping Arcade) is the famous shop — good to grab while walking through Osu
+- ☐ Chita beef steak sushi — Chita beef (知多牛) is a branded wagyu-style beef from the Chita Peninsula south of Nagoya, known for being tender and high in oleic acid; served as seared beef steak nigiri at some sushi/steak spots around the city
 
 ### Drinks
 
