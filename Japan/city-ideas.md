@@ -54,15 +54,16 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 ### Sites/Things to do
 
 - ☐ Nabana no Sato winter illumination — flower park in Kuwana (Mie), ~40 min from Nagoya via Kintetsu train + shuttle bus. 2026–2027 season confirmed to run Oct 17, 2026 – May 31, 2027, so it's on for our Oct 31–Nov 2 dates. Evening light display (8M+ LEDs, gold-light tunnel), plus flower dome/gardens and plenty of seating — good relaxed evening pairing with a Nagoya day
-- ☐ Nagoya Castle — Honmaru Palace only; the main keep/tower has been closed to the public since 2018 for seismic reasons (wooden rebuild targeted ~2032). Palace alone is still worth it, just don't expect to go up the tower
 - ☐ Osu Shopping Arcade — covered arcade, food stalls, retro/electronics shops, Osu Kannon Temple
-- ☐ SCMAGLEV and Railway Park — maglev/shinkansen history museum, good if anyone's into trains
-- ☐ Legoland Japan — near the port, big time commitment if going all in
-- ☐ Toyota Commemorative Museum of Industry and Technology — Toyota's original plant, textile-to-automobile history
-- ☐ Hisaya-odori Park — long central park strip through Sakae, right below Nagoya TV Tower; good walk/rest stop between Sakae shopping and dinner
 - ☐ City views (Sakae) — Mirai Tower and Oasis 21 are right by each other, easy to pair
   - ☐ Chubu Electric Power MIRAI TOWER (formerly Nagoya TV Tower) — ¥1,300 for the observation decks: indoor Sky Deck at 90m (360° views, ceiling mirror display) + outdoor Sky Balcony at 100m (open-air). Night view is a designated Japan Night View Heritage site; sunset into early evening is the most photographed slot since the tower got LED illumination in 2020. Floors 1–3 (shops/restaurants) are free even without going up
   - ☐ Oasis 21 "Water Spaceship" — free glass rooftop deck, 14m up, 10:00–21:00. Water flows across the glass roof above the walkway; lit up with colored lights at night. Free alternative/pairing to Mirai Tower
+- ☐ Toyota Commemorative Museum of Industry and Technology — Toyota's original plant, textile-to-automobile history
+- ☐ Hisaya-odori Park — long central park strip through Sakae, right below Nagoya TV Tower; good walk/rest stop between Sakae shopping and dinner
+- ☐ Legoland Japan — near the port, big time commitment if going all in
+- ☐ Nagoya Castle — Honmaru Palace only; the main keep/tower has been closed to the public since 2018 for seismic reasons (wooden rebuild targeted ~2032). Palace alone is still worth it, just don't expect to go up the tower
+- ☐ SCMAGLEV and Railway Park — maglev/shinkansen history museum, good if anyone's into trains
+- ☐ Ghibli Park — Nagakute City, ~50–60 min from Nagoya Station (Higashiyama subway to Fujigaoka, transfer to Linimo maglev to Ai-Chikyuhaku-Kinen-Koen), ~¥670–710 one-way. Tickets ¥1,000–7,800, timed-entry, released online on the 10th of each month at 2:00 PM JST (through official Lawson Ticket English site or Klook for international buyers) — need to book well ahead of the trip, not something to plan day-of
 
 ### Food
 
