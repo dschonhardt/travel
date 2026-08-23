@@ -101,6 +101,7 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 - ☐ Sanmachi Suji old town — preserved Edo-era streets, sake breweries, merchant houses
 - ☐ Takayama morning markets (Miyagawa or Jinya-mae) — local produce, crafts, snacks
 - ☐ Takayama Jinya — former local government house, only one of its kind still standing in Japan
+- ☐ Hida Takayama Retro Museum (Showa-kan) — nostalgic recreation of Showa-era (1926–1989, mainly 1950s) Japan: a walkable retro townscape, recreated elementary school/hospital/barbershop, retro toys/pachinko machines and video games you can actually play, candy shop at the entrance. ¥1,000 adult admission, open year-round 10:00–17:00 (last entry 16:30)
 
 ### Food
 
