@@ -106,5 +106,6 @@ We liked Kanda/Asakusabashi in the past for being cheap but still on a main line
 - [ ] Kyoto/Osaka track: build out full day-by-day itinerary for Max/Adam/Jeff
 - [ ] Max's Nov 5 return: pin exact train + HND transfer timing
 - [ ] Adam/Jeff: decide Kansai extension vs. earlier Tokyo return, then rejoin logistics
-- [ ] Lodging picks per stop (including Kyoto/Osaka)
+- [x] Tokyo start block lodging: **Hotel LiVEMAX Asakusabashi-Ekimae** (~$58/night, Oct 27–31)
+- [ ] Lodging picks per stop (Nagoya, Takayama, Kanazawa, Kyoto/Osaka, Tokyo end block)
 - [ ] JR Pass / regional pass math — now that dates are fixed, price this out (note: two separate group tracks now, so this may need pricing per sub-group)
