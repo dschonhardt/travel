@@ -2,10 +2,10 @@
 
 **Who:** Dan, Jeff, Adam, Max
 
-**Group splits after Nagoya (Nov 1):**
-- **Dan** continues solo to Takayama → Shirakawa-go/Alps → Kanazawa, per the original route.
-- **Max, Adam, Jeff** go to Kyoto/Osaka instead — chosen specifically because it has fast, frequent Shinkansen back to Tokyo, which solves Max's early-flight problem cleanly (Takayama/Kanazawa would've been a much riskier connection to make a HND flight from).
-- **Adam and Jeff rejoin Dan in Tokyo** for the Nov 9–11 wind-down block, ahead of the group's Nov 11 flight home. Max flies out early (see below) and doesn't rejoin.
+**Group splits after Nagoya:**
+- **Dan** leaves Nagoya after just 1 night (Sun Nov 1) for a 2-night Takayama stay (old town + a Shirakawa-go/Kamikochi day trip), then heads to Osaka Tue Nov 3 to join the others. Kanazawa is dropped from this trip.
+- **Max, Adam, Jeff** stay in Nagoya 2 nights, then Nagoya → Kyoto/Osaka Mon Nov 2 — chosen specifically because it has fast, frequent Shinkansen back to Tokyo, which solves Max's early-flight problem cleanly.
+- **All four are back together in Kansai from Tue Nov 3** (once Dan arrives) and stay together through the Kansai leg. Max flies out early from there (see below); Dan, Adam, and Jeff continue on to Tokyo together for the Nov 9–11 wind-down block, ahead of the group's Nov 11 flight home.
 
 **Flights (booked):**
 - **Delta 121** — Mon Oct 26, 11:40 AM depart MSP → Tue Oct 27, 2:35 PM arrive Tokyo Haneda (HND)
@@ -33,79 +33,78 @@
 ## Route shape (approved)
 
 **Tokyo (start) → Nagoya → split:**
-- **Dan:** Nagoya → Takayama → Shirakawa-go/Alps → Kanazawa → Tokyo (end)
-- **Max, Adam, Jeff:** Nagoya → Kyoto/Osaka → (Max: Tokyo → home Nov 5) / (Adam, Jeff: → Tokyo, rejoin Dan for Nov 9–11)
+- **Dan:** Nagoya (1 night) → Takayama (2 nights, incl. Shirakawa-go/Kamikochi day trip) → Osaka, joining the others → Tokyo (end)
+- **Max, Adam, Jeff:** Nagoya (2 nights) → Kyoto/Osaka → (Max: Tokyo → home Nov 5) / (Adam, Jeff, and Dan once he arrives: → Tokyo together for Nov 9–11)
 
-Loop structure for Dan's leg — Nagoya and Kanazawa both have direct shinkansen to/from Tokyo, so no backtracking. Takayama–Shirakawa-go–Kanazawa corridor is prime fall-color territory. Kyoto/Osaka leg for the other three chosen largely because it has fast, frequent Shinkansen back to Tokyo, needed for Max's early flight.
+Dan's Takayama leg still hits the Shirakawa-go corridor via the day trip, but he no longer continues on to Kanazawa — from Takayama he backtracks through Nagoya to reach Osaka instead (no direct Takayama–Osaka train), folding into the Kyoto/Osaka track with the rest of the group a day after they arrive. Kyoto/Osaka leg chosen largely because it has fast, frequent Shinkansen back to Tokyo, needed for Max's early flight.
 
 ## Day skeleton (16 days — fully assigned)
 
-### Shared (Days 1–6)
+### Shared (Days 1–5)
 
 | Days | Dates | Location | Notes |
 |---|---|---|---|
 | 1–4 | Tue Oct 27 – Fri Oct 30 | Tokyo | Arrival day (land 2:35 PM) + mix of favorites (Akihabara, Asakusa, izakaya crawl) + new ground (Kamakura or Nikko day trip, an unvisited neighborhood — Kichijoji, Nakameguro, Yanaka). Optional: Tokyo Disneyland runs its Halloween event all of October, if anyone wants a taste of it |
 | 5 | Sat Oct 31 | Tokyo → Nagoya | Tokaido Shinkansen (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Evening in Nagoya — misokatsu, tebasaki wings |
-| 6 | Sun Nov 1 | Nagoya | Nagoya Castle, Osu shopping arcade, maybe SCMAGLEV railway museum. **Group splits here.** |
 
-### Dan's track — Takayama / Alps / Kanazawa (Days 7–16)
+**Group splits Day 6 (Sun Nov 1) — Dan has only 1 night in Nagoya; Max/Adam/Jeff have 2.**
+
+### Dan's track — Takayama → Osaka (Days 6–?)
 
 | Days | Dates | Location | Notes |
 |---|---|---|---|
-| 7 | Mon Nov 2 | Nagoya → Takayama | Hida Limited Express (~2.5hrs, ¥5,600–6,150 reserved ≈ $37–41 pp one-way), scenic mountain ride. Evening in Takayama old town |
-| 8 | Tue Nov 3 | Takayama | Sake breweries, morning market, old town |
-| 9 | Wed Nov 4 | Takayama (day trip) | **Extra day.** Currently Shirakawa-go round-trip (Nohi bus, ~50 min each way, frequent, ¥2,600 one-way / ~¥5,200 round-trip pp ≈ $17–35 pp) — but under reconsideration in favor of Kamikochi (or Kamikochi+Shinhotaka Ropeway) since Dan's now doing this leg solo and prefers mountain hiking over village sightseeing (see Decisions needed) |
-| 10 | Thu Nov 5 | Takayama → Kanazawa | Bus via the Shirakawa-go corridor, straight through this time (~2h15–2.5hrs total, ¥4,000–4,600 pp depending on through-fare vs. two separate tickets) |
-| 11–12 | Fri Nov 6 – Sat Nov 7 | Kanazawa | Kenrokuen Garden, Higashi Chaya district, Omicho Market, 21st Century Museum |
-| 13 | Sun Nov 8 | Kanazawa → Tokyo | Hokuriku Shinkansen Kagayaki (~2.5hrs, reserved seat mandatory, ¥14,380 ≈ $96 pp one-way) |
-| 14–16 | Mon Nov 9 – Wed Nov 11 | Tokyo | **Extra day added here.** Wind-down — favorites + anything missed. Adam and Jeff rejoin here. Nov 11 is departure day (flight 5:15 PM), so most of the day is still free |
+| 6 | Sun Nov 1 | Nagoya → Takayama | Hida Limited Express (~2.5hrs, ¥5,600–6,150 reserved ≈ $37–41 pp one-way), scenic mountain ride. Evening in Takayama old town |
+| 7 | Mon Nov 2 | Takayama (day trip) | Shirakawa-go or Kamikochi day trip — still deciding which (see Decisions needed). Otherwise sake breweries, morning market, old town on either side of it |
+| 8 | Tue Nov 3 | Takayama → Osaka | No direct train — backtrack via Hida Ltd Express to Nagoya (~2.5h), then Tokaido/Sanyo Shinkansen Nagoya → Shin-Osaka (~50 min). Joins Max/Adam/Jeff, who've been in Kansai since Nov 2 |
+| 9–13 | Wed Nov 4 – ? | Osaka/Kyoto | Merges into the Kansai leg with the group — see below |
 
 *Fares above are one-way, per person, standard/reserved seat as noted, using the same rough ¥150 = $1 rate as the restaurant list — recheck closer to the trip. Doesn't factor in JR Pass or regional pass savings — that's still open in the TODO below.*
 
-### Max/Adam/Jeff track — Kyoto/Osaka (Days 7–?)
+### Max/Adam/Jeff track — Nagoya → Kyoto/Osaka (Days 6–?)
+
+| Days | Dates | Location | Notes |
+|---|---|---|---|
+| 6 | Sun Nov 1 | Nagoya | 2nd night in Nagoya — Nagoya Castle, Osu shopping arcade, maybe SCMAGLEV railway museum |
+| 7 | Mon Nov 2 | Nagoya → Kyoto/Osaka | Tokaido/Sanyo Shinkansen. Dan joins the following day (Tue Nov 3) |
+| 8–13 | Tue Nov 3 – ? | Kyoto/Osaka | Merges into the Kansai leg with Dan — see below |
+
+### Kansai leg — all four together (Days 8–13, Tue Nov 3 onward)
 
 Not yet fleshed out — open TODO. Known constraints:
-- Starts Nagoya → Kyoto/Osaka on Nov 2 (Day 7), same as Dan's departure from Nagoya.
+- Dan arrives and joins the group Tue Nov 3; Max/Adam/Jeff have already been there since Mon Nov 2.
 - Max needs to be back at HND by Thu Nov 5, ~3:15 PM (for the 5:15 PM flight) — leaves a Kyoto/Osaka morning departure via Shinkansen (~2h15 to Tokyo + transfer to HND) as a comfortable buffer.
-- Adam and Jeff's plans between dropping Max at the airport/station (Nov 5) and rejoining Dan in Tokyo (Nov 9) are still open — could stay in Kansai a few more days, or head to Tokyo earlier.
+- Dan, Adam, and Jeff continue in Kansai after Max leaves (Thu Nov 5), then travel to Tokyo together in time for the Nov 9–11 wind-down block — exact departure date from Kansai still open.
 
-## Tokyo neighborhood options (for the bookend stays)
+### Tokyo end block (Days 14–16)
 
-We liked Kanda/Asakusabashi in the past for being cheap but still on a main line with easy access to Akiba and everywhere else. Options below for something new with the same profile — not just proximity to Kanda, but similarly priced/connected areas across the city.
-
-| Neighborhood | Main line(s) | Price vs. Kanda/Asakusabashi | Vibe | Nearby draws |
-|---|---|---|---|---|
-| Kichijoji | Chuo Line (rapid) | Similar | Trendy but livable, cafes/bars | Inokashira Park, Ghibli Museum (advance tickets), live music bars |
-| Sugamo / Komagome | Yamanote (Komagome) | Cheaper | "Grandma's Harajuku," quirky | Rikugien Garden, Jizo-dori shopping street |
-| Yanaka / Nippori | Yamanote (Nippori) | Cheaper | Old shitamachi, temples | Yanaka Ginza, cat alley, Yanaka Cemetery walk |
-| Kuramae | Toei Asakusa / Oedo | Cheaper | Craft/artisan shops | Small cafes, leatherwork studios, riverside walk toward Asakusa |
-| Kiyosumi-shirakawa | Oedo / Hanzomon | Cheaper | Third-wave coffee scene | Blue Bottle's first Japan location, Kiyosumi Garden |
-| Nakameguro | Tokyu Toyoko, Hibiya | Higher | Stylish, canal-side cafes | Meguro River walk, boutiques, brunch spots |
-
-**Leaning toward:** Kichijoji or Sugamo/Komagome as the best match for cheap + well-connected + genuinely new.
+| Days | Dates | Location | Notes |
+|---|---|---|---|
+| 14–16 | Mon Nov 9 – Wed Nov 11 | Tokyo | Wind-down — favorites + anything missed. Dan, Adam, and Jeff arrive together from Kansai. Nov 11 is departure day (flight 5:15 PM), so most of the day is still free |
 
 ## Decisions needed
 
-- **Kanazawa foliage:** typically peaks mid-to-late November, so Nov 6–7 is early — likely just starting to turn rather than full color. Worth knowing going in so expectations are set.
-- **Day 9 (Nov 4) swap — Shirakawa-go vs. Kamikochi:** Dan's doing the Alps leg solo now and prefers mountain hiking/scenery over a preserved-village walk. Leaning toward swapping to Kamikochi (flat alpine trails, Azusa River, ~1h45 via Nohi Bus through Hirayu Onsen) or combining with the Shinhotaka Ropeway. Note: even if swapped, Dan still passes through the Shirakawa-go corridor on the Day 10 Takayama→Kanazawa bus, just without stopping. Kamikochi closes mid-November, so Nov 4 is fine but near the tail end of the season.
-- **Kyoto/Osaka itinerary (Max/Adam/Jeff):** day-by-day plan not built out yet — needs its own skeleton, lodging, and food picks.
-- **Max's Nov 5 handoff:** confirm exact train and departure time from Kyoto/Osaka to make the 5:15 PM HND flight, and whether Adam/Jeff see him off or split off earlier that day.
-- **Adam/Jeff's path from Nov 5 to rejoining Dan in Tokyo Nov 9:** still open — stay in Kansai a few extra days, or head to Tokyo sooner.
+- **Takayama day trip (Mon Nov 2) — Shirakawa-go vs. Kamikochi:** Dan prefers mountain hiking/scenery over a preserved-village walk, so leaning toward Kamikochi (flat alpine trails, Azusa River, ~1h45 via Nohi Bus through Hirayu Onsen) or combining with the Shinhotaka Ropeway, over the Shirakawa-go round-trip (Nohi bus, ~50 min each way). Kamikochi closes mid-November, so Nov 2 is fine but near the tail end of the season. Note: since Kanazawa is dropped, this day trip is now Dan's only pass through the Shirakawa-go corridor if he picks that option — he won't see it otherwise.
+- **Kyoto/Osaka itinerary (all four):** day-by-day plan not built out yet — needs its own skeleton, lodging, and food picks. Now needs to account for Dan joining a day later than Max/Adam/Jeff.
+- **Max's Nov 5 handoff:** confirm exact train and departure time from Kyoto/Osaka to make the 5:15 PM HND flight, and who sees him off.
+- **Dan/Adam/Jeff's Kansai → Tokyo return date:** still open — how many nights in Kansai after Max leaves (Nov 5) before heading to Tokyo for the Nov 9–11 wind-down.
+- **Takayama → Osaka logistics (Dan, Tue Nov 3):** confirm the Nagoya backtrack timing (Hida Ltd Express + Shinkansen transfer) works to arrive in Osaka at a reasonable hour.
 
 ## Resolved
 - **Halloween (Oct 31, travel day to Nagoya):** No change needed. Kawasaki's Halloween Parade (the one legit organized event) falls Oct 25 — before arrival regardless. Shibuya's street gathering is now banned/policed by the city (outdoor drinking, loitering in costume), so there's no event there worth planning around or missing. Being in transit that day is fine as-is.
 - **Max's early departure (Nov 5, 5:15 PM from HND):** solved by routing Max (with Adam/Jeff) through Kyoto/Osaka instead of Takayama/Kanazawa — fast, frequent Shinkansen back to Tokyo makes the flight connection comfortable instead of risky.
+- **Nagoya split timing:** Dan leaves Nagoya after 1 night (Sun Nov 1); Max/Adam/Jeff stay 2 nights, leaving Mon Nov 2.
+- **Kanazawa dropped, Dan rejoins the group in Osaka instead:** Dan does Takayama (2 nights, incl. day trip) then heads to Osaka Tue Nov 3 to fold into the Kyoto/Osaka leg with Max/Adam/Jeff, rather than continuing on to Kanazawa solo. Whole group (minus Max after Nov 5) travels to Tokyo together for the Nov 9–11 wind-down.
 
 ## TODO — day-by-day detail
 - [ ] Tokyo start block: pick specific favorites + new neighborhood/day trip
 - [ ] Nagoya: firm up restaurant picks, castle/Osu timing
 - [ ] Takayama: sake brewery picks, old town walk route, morning market timing
-- [ ] Day 9 day trip: decide Shirakawa-go vs. Kamikochi/Shinhotaka, then book bus schedule/tickets
-- [ ] Kanazawa: Kenrokuen timing (best light), Higashi Chaya tea house picks, food (Omicho Market, Kanazawa curry, kaisendon)
+- [ ] Takayama day trip: decide Shirakawa-go vs. Kamikochi/Shinhotaka, then book bus schedule/tickets
+- [ ] Takayama → Osaka: pin exact train times for Dan's Tue Nov 3 backtrack via Nagoya
 - [ ] Tokyo end block: wind-down favorites + departure-day logistics (bags, last meal before HND)
-- [ ] Kyoto/Osaka track: build out full day-by-day itinerary for Max/Adam/Jeff
+- [ ] Kyoto/Osaka track: build out full day-by-day itinerary for all four, accounting for Dan joining a day late
 - [ ] Max's Nov 5 return: pin exact train + HND transfer timing
-- [ ] Adam/Jeff: decide Kansai extension vs. earlier Tokyo return, then rejoin logistics
+- [ ] Dan/Adam/Jeff: decide Kansai extension length, then Tokyo return date/logistics
 - [x] Tokyo start block lodging: **Hotel LiVEMAX Asakusabashi-Ekimae** (~$58/night, Oct 27–31)
-- [ ] Lodging picks per stop (Nagoya, Takayama, Kanazawa, Kyoto/Osaka, Tokyo end block)
+- [ ] Lodging picks per stop (Nagoya, Takayama, Kyoto/Osaka, Tokyo end block)
 - [ ] JR Pass / regional pass math — now that dates are fixed, price this out (note: two separate group tracks now, so this may need pricing per sub-group)
