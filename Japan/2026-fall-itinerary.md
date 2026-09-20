@@ -85,3 +85,5 @@ Still need: Kanazawa, Tokyo end block.
 - [x] Nagoya lodging: **Hotel LiVEMAX PREMIUM Nagoya Marunouchi** (Oct 31–Nov 2)
 - [x] Takayama lodging: **Hida Takayama Washington Hotel Plaza** (Nov 2–4)
 - [ ] Lodging picks per stop (Kanazawa, Tokyo end block)
+- [ ] Figure out absentee voting (Election Day is Tue Nov 3, while I'm in Japan)
+- [ ] Buy eSIM
