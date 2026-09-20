@@ -35,6 +35,18 @@ Jeff, Adam, and Max travel with Dan through Nagoya, then split off to Kyoto/Osak
 - **Thu Nov 5 (rejoin in Kanazawa):** Jeff and Adam arrive in Kanazawa to rejoin Dan. Max flies home from Tokyo the same day.
 - From Nov 5 on, Dan, Jeff, and Adam are together through Kanazawa and the Tokyo wind-down block.
 
+## Lodging (booked)
+
+| City | Hotel | Check in | Check out | Address |
+|---|---|---|---|---|
+| Tokyo | Hotel LiVEMAX Asakusabashi-Ekimae (3★) — ホテルリブマックス浅草橋駅前 | Tue Oct 27 (after 3:00 PM) | Sat Oct 31 (before 10:00 AM) | 1-1-14 Asakusabashi, Taito, Tokyo 111-0053 |
+| Nagoya | Natural Hot Spring Hotel LiVEMAX PREMIUM Nagoya Marunouchi (3★) — 天然温泉 ホテルリブマックスPREMIUM 名古屋丸の内 | Sat Oct 31 (after 3:00 PM) | Mon Nov 2 (before 10:00 AM) | 3 Chome-16-22 Marunouchi, Naka Ward, Nagoya, Aichi 460-0002 |
+| Takayama | Hida Takayama Washington Hotel Plaza (3★) | Mon Nov 2 | Wed Nov 4 | 5-20 Hanasato-cho, Takayama, Gifu 506-0026 — right across from JR Takayama Station |
+
+Nagoya pick is in Marunouchi (Naka Ward) — sits between Nagoya Station and Sakae, roughly a short walk/one subway stop from either, so it splits the difference discussed in [city-ideas.md](./city-ideas.md) rather than leaning fully toward the station or Sakae.
+
+Still need: Kanazawa, Tokyo end block.
+
 ## Day skeleton (16 days)
 
 | Days | Dates | Location | Notes |
@@ -54,7 +66,7 @@ Jeff, Adam, and Max travel with Dan through Nagoya, then split off to Kyoto/Osak
 
 - **Takayama day trip (Tue Nov 3) — Shirakawa-go vs. Kamikochi:** Dan prefers mountain hiking/scenery over a preserved-village walk, so leaning toward Kamikochi (flat alpine trails, Azusa River, ~1h45 via Nohi Bus through Hirayu Onsen) or combining with the Shinhotaka Ropeway, over the Shirakawa-go round-trip (Nohi bus, ~50 min each way). Kamikochi closes mid-November, so Nov 3 is fine but near the tail end of the season.
 - **Takayama → Kanazawa transport (Wed Nov 4):** pin down whether the direct highway bus (via Shirakawa-go, ~2h15) or the train via Toyama (~2h, more transfers) is the better fit — the bus option would also be a second look at Shirakawa-go if the day-trip decision above goes to Kamikochi instead.
-- **Lodging:** still need picks for Nagoya, Takayama, Kanazawa, and the Tokyo end block. See [city-ideas.md](./city-ideas.md) for Nagoya lodging thinking (Sakae area leaning ahead of the station).
+- **Lodging:** Tokyo start block and Nagoya are booked (see Lodging section above). Still need picks for Takayama, Kanazawa, and the Tokyo end block.
 - **JR Pass / regional pass math:** now that the route is fixed (Tokyo–Nagoya–Takayama–Kanazawa–Tokyo), worth pricing out against individual tickets.
 
 ## Resolved
@@ -69,5 +81,7 @@ Jeff, Adam, and Max travel with Dan through Nagoya, then split off to Kyoto/Osak
 - [ ] Takayama → Kanazawa: pick bus vs. train and pin exact times
 - [ ] Kanazawa: firm up sight/food picks and lodging
 - [ ] Tokyo end block: wind-down favorites + departure-day logistics (bags, last meal before HND)
-- [x] Tokyo start block lodging: **Hotel LiVEMAX Asakusabashi-Ekimae** (~$58/night, Oct 27–31)
-- [ ] Lodging picks per stop (Nagoya, Takayama, Kanazawa, Tokyo end block)
+- [x] Tokyo start block lodging: **Hotel LiVEMAX Asakusabashi-Ekimae** (Oct 27–31)
+- [x] Nagoya lodging: **Hotel LiVEMAX PREMIUM Nagoya Marunouchi** (Oct 31–Nov 2)
+- [x] Takayama lodging: **Hida Takayama Washington Hotel Plaza** (Nov 2–4)
+- [ ] Lodging picks per stop (Kanazawa, Tokyo end block)
