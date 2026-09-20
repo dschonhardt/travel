@@ -85,5 +85,5 @@ Still need: Kanazawa, Tokyo end block.
 - [x] Nagoya lodging: **Hotel LiVEMAX PREMIUM Nagoya Marunouchi** (Oct 31–Nov 2)
 - [x] Takayama lodging: **Hida Takayama Washington Hotel Plaza** (Nov 2–4)
 - [ ] Lodging picks per stop (Kanazawa, Tokyo end block)
-- [ ] Figure out absentee voting (Election Day is Tue Nov 3, while I'm in Japan)
+- [ ] Absentee voting (Election Day is Tue Nov 3, while I'm in Japan): ballot requested. Track it at mnvotes.org. When it arrives, fill it out, get the witness signature, and return it (City Hall or drop box) by Sat Oct 24. If it hasn't arrived by ~Oct 16–20, vote early in person at Inver Grove Heights City Hall (8150 Barbara Ave., Oct 16–24, weekdays 8–4:30, Sat Oct 24 9–3)
 - [ ] Buy eSIM
