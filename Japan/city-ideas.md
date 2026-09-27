@@ -49,6 +49,26 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 - ☐ Tokyo International Film Festival — Oct 26–Nov 4, 2026, screenings and public events around Hibiya/Ginza/Yurakucho/Marunouchi. Overlaps our whole first Tokyo block
 - ☐ Komazawa Olympic Park Ramen Festival — Oct 22–Nov 3, 2026, 36 shops from around Japan doing limited-edition bowls. Overlaps our whole first Tokyo block
 
+### Day Trips
+
+*Not done on the 2023 or 2025 trips — candidates for the Oct 27–30 or Nov 9–11 blocks. Autumn foliage timing noted where it's a real factor for our dates; double-check closer to the trip since peak dates vary year to year.*
+
+**Hiking:**
+
+- ☐ Nikko — Tobu Nikko Line limited express direct from Asakusa (~2 hrs), convenient since we're staying right there for the first block. Kegon Falls, Lake Chuzenji, and easy lakeside/marshland trails around Senjogahara; Toshogu Shrine (UNESCO) too if mixing in sightseeing. Famous for autumn color — the Irohazaka pass and Chuzenji area typically peak early-to-mid November, which lines up well with the Nov 9–11 block. Long day either way (early out, late back)
+- ☐ Okutama / Mount Mitake — ~2 hrs from Shinjuku (Chuo Line to Ome, transfer to Ome Line, then cable car). Cable car up to Musashi-Mitake Shrine, then trails out to Nanayo Falls or on to Mount Odake. Quieter and more forested than Takao, with river/gorge scenery in Okutama town itself. Foliage usually mid-to-late November, so may be a touch early for the Nov 9–11 dates but worth a look
+- ☐ Chichibu — Seibu Ikebukuro Line limited express (Red Arrow), ~1.5–2 hrs. Mount Buko or the ridge trails above Hitsujiyama Park for the hike, plus a small, laid-back mountain town with sake breweries below — good hike-and-town combo in one trip. Foliage typically peaks mid-November
+- ☐ Mount Tsukuba (Ibaraki) — ~1.5–2 hrs via Tsukuba Express + shuttle bus. Twin-peaked "sacred mountain" with a ropeway and cable car up either side and a connecting ridge trail between the peaks. Less touristy than Takao/Mitake, good views back toward Tokyo on a clear day; foliage typically mid-to-late November
+
+**Small towns/cities:**
+
+- ☐ Kamakura — ~1 hr from Tokyo Station. Great Buddha (Kotoku-in), the bamboo grove at Hokokuji, Hase-dera, the Enoden coastal train line, walkable temple-hopping streets. Easy to extend to Enoshima island (short causeway walk, seafood, shrine, hilltop lookout) for a fuller day
+- ☐ Sawara (Chiba) — "Little Edo" canal town via JR Narita Line, ~1.5–2 hrs, noticeably less touristy than Kawagoe (which we already did). Preserved Edo-era merchant houses along the Ono River, sightseeing boats, birthplace of Ino Tadataka (first person to map Japan)
+- ☐ Narita — Naritasan Shinshoji temple and the Omotesando approach street (eel restaurants, old shopfronts), ~1 hr via Keisei or JR. Short trip — easy as a half-day or paired with something else
+- ☐ Mito (Ibaraki) — ~1–1.5 hrs via JR Joban Line. Kairakuen, one of Japan's "three great gardens" — best known for plum blossoms (wrong season for us) but still a nice, uncrowded garden walk any time of year, in a city center that sees little tourist traffic
+- ☐ Atami — hot spring resort town on the coast, ~50 min via Tokaido Shinkansen. Public bathhouses/foot baths, ocean views, Atami Plum Garden — an easy, low-key onsen day trip
+- ☐ Odawara — castle town at the foot of Hakone (which we already did in 2025), ~35 min via Shinkansen. Odawara Castle, walkable town center — works as a standalone half-day or tacked onto a second Hakone-area visit
+
 ## Nagoya
 
 ### Sites/Things to do
