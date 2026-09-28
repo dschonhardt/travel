@@ -42,10 +42,11 @@ Jeff, Adam, and Max travel with Dan through Nagoya, then split off to Kyoto/Osak
 | Tokyo | Hotel LiVEMAX Asakusabashi-Ekimae (3★) — ホテルリブマックス浅草橋駅前 | Tue Oct 27 (after 3:00 PM) | Sat Oct 31 (before 10:00 AM) | 1-1-14 Asakusabashi, Taito, Tokyo 111-0053 |
 | Nagoya | Natural Hot Spring Hotel LiVEMAX PREMIUM Nagoya Marunouchi (3★) — 天然温泉 ホテルリブマックスPREMIUM 名古屋丸の内 | Sat Oct 31 (after 3:00 PM) | Mon Nov 2 (before 10:00 AM) | 3 Chome-16-22 Marunouchi, Naka Ward, Nagoya, Aichi 460-0002 |
 | Takayama | Hida Takayama Washington Hotel Plaza (3★) | Mon Nov 2 | Wed Nov 4 | 5-20 Hanasato-cho, Takayama, Gifu 506-0026 — right across from JR Takayama Station |
+| Kanazawa | Hotel Livemax Kanazawaekimae | Wed Nov 4 | Sat Nov 7 | |
 
 Nagoya pick is in Marunouchi (Naka Ward) — sits between Nagoya Station and Sakae, roughly a short walk/one subway stop from either, so it splits the difference discussed in [city-ideas.md](./city-ideas.md) rather than leaning fully toward the station or Sakae.
 
-Still need: Kanazawa, Tokyo end block.
+Still need: Tokyo end block.
 
 ## Day skeleton (16 days)
 
@@ -56,7 +57,7 @@ Still need: Kanazawa, Tokyo end block.
 | 6 | Sun Nov 1 | Nagoya | 2nd night — Nagoya Castle, Osu shopping arcade, maybe SCMAGLEV railway museum |
 | 7 | Mon Nov 2 | Nagoya → Takayama | Hida Limited Express (~2.5hrs, ¥5,600–6,150 reserved ≈ $37–41 pp one-way), scenic mountain ride. Evening in Takayama old town. **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
 | 8 | Tue Nov 3 | Takayama (day trip) | Shirakawa-go or Kamikochi day trip — still deciding which (see Decisions needed). Otherwise sake breweries, morning market, old town on either side of it |
-| 9 | Wed Nov 4 | Takayama → Kanazawa | Transport method still TBD — direct highway bus via Shirakawa-go (~2h15) or train via a Toyama transfer (~2h). See Decisions needed |
+| 9 | Wed Nov 4 | Takayama → Kanazawa | Train via Toyama — Hida Express to Toyama (~1.5 hrs), Shinkansen/Ainokaze to Kanazawa (~18–40 min). Skipping Shirakawa-go stop |
 | 10 | Thu Nov 5 | Kanazawa | Jeff and Adam arrive from Kyoto/Osaka to rejoin Dan. Max flies home from Tokyo today |
 | 11 | Fri Nov 6 | Kanazawa | Full day together — Kenrokuen Garden, Higashi Chaya District, Omicho Market |
 | 12 | Sat Nov 7 | Kanazawa → Tokyo | Travel day back to Tokyo |
@@ -65,7 +66,6 @@ Still need: Kanazawa, Tokyo end block.
 ## Decisions needed
 
 - **Takayama day trip (Tue Nov 3) — Shirakawa-go vs. Kamikochi:** Dan prefers mountain hiking/scenery over a preserved-village walk, so leaning toward Kamikochi (flat alpine trails, Azusa River, ~1h45 via Nohi Bus through Hirayu Onsen) or combining with the Shinhotaka Ropeway, over the Shirakawa-go round-trip (Nohi bus, ~50 min each way). Kamikochi closes mid-November, so Nov 3 is fine but near the tail end of the season.
-- **Takayama → Kanazawa transport (Wed Nov 4):** pin down whether the direct highway bus (via Shirakawa-go, ~2h15) or the train via Toyama (~2h, more transfers) is the better fit — the bus option would also be a second look at Shirakawa-go if the day-trip decision above goes to Kamikochi instead.
 - **Lodging:** Tokyo start block and Nagoya are booked (see Lodging section above). Still need picks for Takayama, Kanazawa, and the Tokyo end block.
 - **JR Pass / regional pass math:** now that the route is fixed (Tokyo–Nagoya–Takayama–Kanazawa–Tokyo), worth pricing out against individual tickets.
 
@@ -84,6 +84,7 @@ Still need: Kanazawa, Tokyo end block.
 - [x] Tokyo start block lodging: **Hotel LiVEMAX Asakusabashi-Ekimae** (Oct 27–31)
 - [x] Nagoya lodging: **Hotel LiVEMAX PREMIUM Nagoya Marunouchi** (Oct 31–Nov 2)
 - [x] Takayama lodging: **Hida Takayama Washington Hotel Plaza** (Nov 2–4)
-- [ ] Lodging picks per stop (Kanazawa, Tokyo end block)
+- [x] Kanazawa lodging: **Hotel Livemax Kanazawaekimae** (Nov 4–7)
+- [ ] Lodging picks per stop (Tokyo end block)
 - [ ] Absentee voting (Election Day is Tue Nov 3, while I'm in Japan): ballot requested. Track it at mnvotes.org. When it arrives, fill it out, get the witness signature, and return it (City Hall or drop box) by Sat Oct 24. If it hasn't arrived by ~Oct 16–20, vote early in person at Inver Grove Heights City Hall (8150 Barbara Ave., Oct 16–24, weekdays 8–4:30, Sat Oct 24 9–3)
 - [ ] Buy eSIM
