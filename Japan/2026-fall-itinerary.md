@@ -46,45 +46,63 @@ Jeff, Adam, and Max travel with Dan through Nagoya, then split off to Kyoto/Osak
 
 Nagoya pick is in Marunouchi (Naka Ward) — sits between Nagoya Station and Sakae, roughly a short walk/one subway stop from either, so it splits the difference discussed in [city-ideas.md](./city-ideas.md) rather than leaning fully toward the station or Sakae.
 
-Still need: Tokyo end block.
+Still need: Tokyo end block (Nov 7–11).
 
 ## Day skeleton (16 days)
 
 | Days | Dates | Location | Notes |
 |---|---|---|---|
-| 1–4 | Tue Oct 27 – Fri Oct 30 | Tokyo | Arrival day (land 2:35 PM) + mix of favorites (Akihabara, Asakusa, izakaya crawl) + new ground (Kamakura or Nikko day trip, an unvisited neighborhood — Kichijoji, Nakameguro, Yanaka). Optional: Tokyo Disneyland runs its Halloween event all of October, if anyone wants a taste of it |
+| 1 | Tue Oct 27 | Tokyo | Arrival (land 2:35 PM). Yuzu Lab Noodles dinner, Akihabara. See [days/2026-10-27.md](./days/2026-10-27.md) |
+| 2 | Wed Oct 28 | Tokyo | Gyudon breakfast, CAPPINESS Oshiage capybara cafe, Senso-ji, Akihabara, Hitachino Brewing Lab, Yuzu Lab again. See [days/2026-10-28.md](./days/2026-10-28.md) |
+| 3 | Thu Oct 29 | Tokyo | Not planned yet. [max-wishlist.md](./max-wishlist.md) has a ready-made west-side day: Shinjuku Gyoen, Meiji Jingu, Shibuya, ramen festival, Shinjuku izakaya crawl |
+| 4 | Fri Oct 30 | Tokyo (Kamakura day trip) | Kamakura + Enoshima via the Daibutsu Hiking Course, with a local food list. See [days/2026-10-30.md](./days/2026-10-30.md) |
 | 5 | Sat Oct 31 | Tokyo → Nagoya | Tokaido Shinkansen (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Evening in Nagoya — misokatsu, tebasaki wings |
 | 6 | Sun Nov 1 | Nagoya | 2nd night — Nagoya Castle, Osu shopping arcade, maybe SCMAGLEV railway museum |
-| 7 | Mon Nov 2 | Nagoya → Takayama | Hida Limited Express (~2.5hrs, ¥5,600–6,150 reserved ≈ $37–41 pp one-way), scenic mountain ride. Evening in Takayama old town. **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
-| 8 | Tue Nov 3 | Takayama (day trip) | Shirakawa-go or Kamikochi day trip — still deciding which (see Decisions needed). Otherwise sake breweries, morning market, old town on either side of it |
-| 9 | Wed Nov 4 | Takayama → Kanazawa | Train via Toyama — Hida Express to Toyama (~1.5 hrs), Shinkansen/Ainokaze to Kanazawa (~18–40 min). Skipping Shirakawa-go stop |
+| 7 | Mon Nov 2 | Nagoya → Takayama | Hida Limited Express (~2.5hrs, ¥5,600–6,150 reserved ≈ $37–41 pp one-way), scenic mountain ride. Afternoon/evening in Takayama: Jinya, Sanmachi Suji, sake breweries. See [days/2026-11-02.md](./days/2026-11-02.md). **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
+| 8 | Tue Nov 3 | Takayama (day trip) | Kamikochi day trip via Nohi Bus. Nov 3 is Culture Day (national holiday). The buses can't be reserved, so go early. See [days/2026-11-03.md](./days/2026-11-03.md) |
+| 9 | Wed Nov 4 | Takayama → Kanazawa | Train via Toyama — Hida Express to Toyama (~1.5 hrs), Shinkansen/Ainokaze to Kanazawa (~18–40 min). Skipping Shirakawa-go stop. Morning market before leaving. See [days/2026-11-04.md](./days/2026-11-04.md) |
 | 10 | Thu Nov 5 | Kanazawa | Jeff and Adam arrive from Kyoto/Osaka to rejoin Dan. Max flies home from Tokyo today |
 | 11 | Fri Nov 6 | Kanazawa | Full day together — Kenrokuen Garden, Higashi Chaya District, Omicho Market |
 | 12 | Sat Nov 7 | Kanazawa → Tokyo | Travel day back to Tokyo |
-| 13–16 | Sun Nov 8 – Wed Nov 11 | Tokyo | Wind-down — favorites + anything missed. Nov 11 is departure day (flight 5:15 PM), so most of the day is still free |
+| 13–16 | Sun Nov 8 – Wed Nov 11 | Tokyo | Wind-down — favorites + anything missed. Nikko day trip fits here (foliage typically peaks early-to-mid Nov). Nov 11 is departure day (flight 5:15 PM), so most of the day is still free |
 
 ## Decisions needed
 
-- **Takayama day trip (Tue Nov 3) — Shirakawa-go vs. Kamikochi:** Dan prefers mountain hiking/scenery over a preserved-village walk, so leaning toward Kamikochi (flat alpine trails, Azusa River, ~1h45 via Nohi Bus through Hirayu Onsen) or combining with the Shinhotaka Ropeway, over the Shirakawa-go round-trip (Nohi bus, ~50 min each way). Kamikochi closes mid-November, so Nov 3 is fine but near the tail end of the season.
-- **Lodging:** Tokyo start block and Nagoya are booked (see Lodging section above). Still need picks for Takayama, Kanazawa, and the Tokyo end block.
-- **JR Pass / regional pass math:** now that the route is fixed (Tokyo–Nagoya–Takayama–Kanazawa–Tokyo), worth pricing out against individual tickets.
+- **Tokyo end-block lodging (Nov 7–11, 4 nights):** the only stop not booked. Decide whether to stay in Asakusabashi again or move west (Shinjuku/Shibuya) for a different base.
+- **Nagoya days (Oct 31–Nov 1):** both unplanned, and the last days with all four of us. Tōshun sake brewery tour needs booking at least a week out. Ghibli Park tickets release months ahead, so check availability now if interested. Nabana no Sato illumination fits an evening.
 
 ## Resolved
+- **JR Pass:** doesn't make sense for this trip. Buy individual tickets and use Suica for local rides.
+- **Takayama day trip (Nov 3):** Kamikochi, over Shirakawa-go.
+- **Takayama → Kanazawa (Nov 4):** train via Toyama, over the highway bus.
+- **Lodging:** Tokyo start block, Nagoya, Takayama, and Kanazawa all booked. Only the Tokyo end block is left.
+- **Tokyo day trip in the first block:** Kamakura + Enoshima on Oct 30. Nikko saved for the Nov 8–11 block.
 - **Halloween (Oct 31, travel day to Nagoya):** No change needed. Kawasaki's Halloween Parade (the one legit organized event) falls Oct 25 — before arrival regardless. Shibuya's street gathering is now banned/policed by the city (outdoor drinking, loitering in costume), so there's no event there worth planning around or missing. Being in transit that day is fine as-is.
 - **Route finalized:** Dan goes Tokyo → Nagoya (2 nights) → Takayama (2 nights) → Kanazawa (3 nights) → Tokyo. Jeff/Adam/Max split off to Kyoto/Osaka after Nagoya; Jeff and Adam rejoin in Kanazawa Nov 5, Max flies home from Tokyo that day.
 
-## TODO — day-by-day detail
-- [ ] Tokyo start block: pick specific favorites + new neighborhood/day trip
-- [ ] Nagoya: firm up restaurant picks, castle/Osu timing
-- [ ] Takayama: sake brewery picks, old town walk route, morning market timing
-- [ ] Takayama day trip: decide Shirakawa-go vs. Kamikochi/Shinhotaka, then book bus schedule/tickets
-- [ ] Takayama → Kanazawa: pick bus vs. train and pin exact times
-- [ ] Kanazawa: firm up sight/food picks and lodging
-- [ ] Tokyo end block: wind-down favorites + departure-day logistics (bags, last meal before HND)
-- [x] Tokyo start block lodging: **Hotel LiVEMAX Asakusabashi-Ekimae** (Oct 27–31)
-- [x] Nagoya lodging: **Hotel LiVEMAX PREMIUM Nagoya Marunouchi** (Oct 31–Nov 2)
-- [x] Takayama lodging: **Hida Takayama Washington Hotel Plaza** (Nov 2–4)
-- [x] Kanazawa lodging: **Hotel Livemax Kanazawaekimae** (Nov 4–7)
-- [ ] Lodging picks per stop (Tokyo end block)
+## TODO — bookings (time-sensitive)
+- [ ] **Tokyo end-block lodging** (Nov 7–11)
+- [ ] **Reserve train seats** (individual tickets, no JR Pass):
+  - [ ] Sat Oct 31 Tokaido Shinkansen Tokyo → Nagoya (4 seats together)
+  - [ ] Mon Nov 2 Hida Express Nagoya → Takayama (Hida 3, ~9:43 AM)
+  - [ ] Wed Nov 4 Hida Express Takayama → Toyama
+  - [ ] Sat Nov 7 Hokuriku Shinkansen Kanazawa → Tokyo
+- [ ] **Ryotei Susaki** dinner, Mon Nov 2 (if doing it)
+- [ ] **CAPPINESS Oshiage** capybara cafe, Wed Oct 28, 10:15 AM slot
 - [ ] Absentee voting (Election Day is Tue Nov 3, while I'm in Japan): ballot requested. Track it at mnvotes.org. When it arrives, fill it out, get the witness signature, and return it (City Hall or drop box) by Sat Oct 24. If it hasn't arrived by ~Oct 16–20, vote early in person at Inver Grove Heights City Hall (8150 Barbara Ave., Oct 16–24, weekdays 8–4:30, Sat Oct 24 9–3)
 - [ ] Buy eSIM
+
+## TODO — day-by-day detail
+- [x] Tue Oct 27 (arrival), Wed Oct 28, Fri Oct 30 (Kamakura) planned
+- [ ] Thu Oct 29: fill in (start from the west-side day in max-wishlist.md)
+- [ ] Nagoya Oct 31–Nov 1: plan both days, restaurant picks, castle/Osu timing
+- [x] Takayama Nov 2–4 planned (old town, Kamikochi, morning market)
+- [ ] Kanazawa Nov 5–6: firm up sight/food picks (see kanazawa-map.csv); confirm Jeff and Adam's arrival time
+- [ ] Tokyo end block Nov 8–11: wind-down favorites, Nikko day trip, departure-day logistics (bags, last meal before HND)
+
+## Lodging (all stops)
+- [x] Tokyo start block: **Hotel LiVEMAX Asakusabashi-Ekimae** (Oct 27–31)
+- [x] Nagoya: **Hotel LiVEMAX PREMIUM Nagoya Marunouchi** (Oct 31–Nov 2)
+- [x] Takayama: **Hida Takayama Washington Hotel Plaza** (Nov 2–4)
+- [x] Kanazawa: **Hotel Livemax Kanazawaekimae** (Nov 4–7)
+- [ ] Tokyo end block (Nov 7–11)
