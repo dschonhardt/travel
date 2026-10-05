@@ -86,4 +86,5 @@ The Daibutsu Hiking Course, the Great Buddha, Hase-dera, and sunset on Enoshima.
 - [ ] **Kyoto/Osaka lodging:** where Jeff, Adam, and Max are staying Nov 2–4, and whether they agree to Kyoto first.
 - [ ] **Minoh Park vs. knife workshop** for Wed Nov 4. The workshop needs booking.
 - [ ] **Premium dinner in Osaka:** pick a place and book.
-- [ ] **Ramen festival hours:** confirm opening hours for Oct 29.
+- [x] **Ramen festival:** it runs Oct 30–Nov 3 (11:00 AM–8:00 PM), so the two days swapped: Kamakura is now Thu Oct 29 and the west-side day with the festival is Fri Oct 30. The Thu/Fri tables above are out of date; see [days/2026-10-29.md](./days/2026-10-29.md) and [days/2026-10-30.md](./days/2026-10-30.md).
+- [x] **teamLab Borderless:** skipped (Dan's call, Oct 1).
