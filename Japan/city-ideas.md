@@ -49,6 +49,77 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 - ☐ Kinji Used Clothing, Harajuku — one of the better thrift shops if you only want one reliable stop
 - ☐ The Deep — tiny jazz/soul bar with a grand piano and live singers, a quieter alternative to Golden Gai for a drink
 
+### New neighborhoods near the Ryogoku hotel (Nov 7–11)
+
+*Added Oct 11, 2026. Picked to match past favorites: old-Tokyo streets (Asakusa), stewed-offal izakaya (Hoppy Street), Hitachino-style beer and coffee, retro shopping, and cheap counter food. All are on the Toei Oedo Line or JR Sobu Line from Ryogoku, so 1–4 stops. Hours were checked Oct 2026 unless marked otherwise.*
+
+**Sumo note:** the Kyushu Basho runs Nov 8–22 in Fukuoka, so the sumo stables have left Tokyo. There's no morning practice to watch and nothing on at the Kokugikan. Ryogoku is still good for chanko nabe and the museums.
+
+- ☐ **Ryogoku (home base)**
+  - ☐ **Edo-Tokyo Museum** reopened Mar 31, 2026 after four years of renovation, with a bigger walk-through Edo streetscape and more interactive exhibits. Tue–Sun 9:30 AM–5:30 PM (Sat until 7:30 PM), **closed Mondays**. Right next to the hotel
+  - ☐ **Sumida Hokusai Museum**: small museum of the *Great Wave* artist, who was born in this neighborhood. 9:30 AM–5:30 PM, **closed Mondays**. ~10 min walk
+  - ☐ **Ryogoku Edo Noren**: food hall inside the station building, built around a replica sumo ring. Chanko nabe (Chanko Kirishima), sushi, monja and sake stands. ~10 AM–11 PM, hours vary by shop. Easy first-night or rainy-night dinner
+- ☐ **Kuramae** (Oedo Line, 1 stop): "Tokyo's Brooklyn," with old warehouses turned into workshops and cafes, just south of Asakusa. Pairs well with the Asakusa/Kappabashi area
+  - ☐ **Dandelion Chocolate**: bean-to-bar factory and cafe; you can watch the chocolate being made
+  - ☐ **Kakimori**: build your own notebook in a few minutes, plus custom-mixed ink next door. Good souvenir
+  - ☐ **Nui. Hostel & Bar Lounge**: on the Sumida River. Cafe 8 AM–6 PM, then a bar 6 PM–1 AM where travelers and locals mix
+- ☐ **Kiyosumi-Shirakawa** (Oedo Line, 2 stops): Tokyo's specialty-coffee neighborhood, with quiet streets and a garden. The closest match to the Hitachino taproom vibe, in coffee form
+  - ☐ **Blue Bottle Kiyosumi**: the chain's first shop outside the US, in a converted warehouse. 8 AM–7 PM
+  - ☐ **Allpress Espresso** roastery and cafe: New Zealand flat whites in a light-filled warehouse
+  - ☐ **Kiyosumi Garden**: Edo-era stroll garden with stepping stones across the pond. Small entry fee (hours not checked)
+  - ☐ **Museum of Contemporary Art Tokyo (MOT)** in Kiba Park. 10 AM–6 PM, last entry 30 min before close, **open until 8 PM on Fridays in November**
+- ☐ **Monzen-Nakacho** (Oedo Line, 3 stops): old Fukagawa shrine town with good cheap drinking alleys
+  - ☐ **Tomioka Hachimangu antique market**: held the 1st, 2nd, 4th and 5th Sundays, ~8 AM–3 PM, cancelled in rain. **Sun Nov 8 is the 2nd Sunday, the Japanese and Asian antiques day.** Strong pick for Nov 8. Not held when the 15th or 28th falls on a Sunday
+  - ☐ **Fukagawa Fudo-do**: temple next door, with a hall covered in Sanskrit characters and a fire ritual several times a day (times not checked)
+  - ☐ Tachinomi (standing bars) and izakaya along the shrine approach. Same vibe as Hoppy Street, with fewer tourists. Try **Fukagawa-meshi** (clam rice), the local dish
+- ☐ **Morishita** (Oedo Line, 1 stop, or ~15 min walk)
+  - ☐ **Yamariki Honkan**: famous nikomi (offal stew) simmered in Hatcho miso and port wine, made from the same pot for 40+ years. **The Hoppy Street stew, but the legendary version.** Mon–Sat 5:00–10:30 PM, **closed Sundays and holidays**. Reservations Mon–Fri for 2+ before 6 PM; no reservations Sat. Tel 03-3633-1638. The Shinkan branch is permanently closed
+- ☐ **Kinshicho and Kameido** (JR Sobu Line, 1–2 stops)
+  - ☐ **Kameido Gyoza Honten**: one dish only, plates of small crispy gyoza. Cheap, fast and a local legend. 11 AM–8 PM or until sold out, **closed Tuesdays**
+  - ☐ **Kameido Tenjin Shrine**: 1646 shrine with a turtle pond, arched bridges and a view of Skytree. Famous for spring wisteria, but nice and quiet in November
+  - ☐ Kinshicho has a dense, unpolished izakaya and bar scene south of the station. A good "Shinjuku at night without the crowds" option close to the hotel (not researched in detail)
+- ☐ **Tsukishima** (Oedo Line, 4 stops): **Monja Street**, with dozens of monjayaki shops (Tokyo's runny cousin of okonomiyaki, cooked on your table's griddle). Good group dinner with Jeff and Adam. Pair it with a walk to Tsukudajima's old fishing-village lanes (not checked)
+
+### New neighborhoods farther out, matched to past favorites
+
+*Not checked yet, so confirm hours before going.*
+
+- ☐ **Yanaka / Nezu / Sendagi ("Yanesen")** (JR to Nippori, ~20 min): **if you liked Asakusa.** Old-Tokyo district that largely survived the 1923 earthquake and the WWII bombing. Yanaka Ginza shopping street (menchi-katsu croquettes, "cat street"), Yanaka Cemetery, temple lanes, and Nezu Shrine's torii tunnel. Much quieter than Asakusa
+- ☐ **Shibamata** (Keisei Line, ~35–40 min): **if you liked Asakusa and retro arcades.** A Showa-era shopping street (kusa-dango, eel) leads to **Taishakuten temple**, which has amazing carved wood panels. **Shibamata Haikara Yokocho** has retro pinball, old candy and old-fashioned games. The setting of the *Tora-san* films. Good half day
+- ☐ **Kappabashi Kitchen Street** (between Ueno and Asakusa): restaurant-supply street with knives, ceramics and plastic food samples. Good for a Japanese knife, since the Sakai knife workshop is on the Osaka leg without Dan
+- ☐ **Jimbocho** (near Kanda, where Yuzu Lab is): **if you liked the Kanda ramen spot.** Tokyo's used-bookstore district, and also its curry capital. Stops: Bondy (European-style curry) and Kitchen Nankai (katsu curry)
+- ☐ **Kichijoji** (JR Chuo Line, past Koenji): **if you liked Omoide Yokocho.** **Harmonica Yokocho** is a tight grid of tiny bars and stalls. Add **Inokashira Park** (rowboats, autumn color by mid-Nov) and Satou's menchi-katsu. Easy to chain with Koenji and Nakano Broadway into one Chuo Line day
+- ☐ **Ningyocho** (one Hanzomon Line stop past Kiyosumi-Shirakawa): Edo-era merchant street with **Amazake Yokocho** (taiyaki, ningyo-yaki cakes, old shops). A short, easy add-on to a Kiyosumi coffee morning
+
+**Suggested pairings for the open Tokyo days:**
+- **Sun Nov 8:** Tomioka Hachimangu antique market (Monzen-Nakacho) in the morning → Kiyosumi-Shirakawa coffee and garden → Kuramae in the afternoon. Monja in Tsukishima or chanko in Ryogoku for dinner. Yamariki is closed Sundays
+- **Tue Nov 10:** Edo-Tokyo Museum in the morning, Yanesen or Shibamata in the afternoon, Yamariki nikomi for dinner. Kameido Gyoza is closed Tuesdays
+- **Wed Nov 11 (departure):** Kiyosumi coffee or Kuramae, then the Asakusa Line to HND. Both are on the airport route
+
+**Sources:** [Edo-Tokyo Museum reopening (japan-guide)](https://www.japan-guide.com/blog/thomas/260325.html) · [Edo-Tokyo Museum guide (Tokyo Weekender)](https://www.tokyoweekender.com/things-to-do-in-tokyo/edo-tokyo-museum-2026-reopening-guide/) · [Sumida Hokusai Museum (Tokyo Cheapo)](https://tokyocheapo.com/place/sumida-hokusai-museum/) · [Ryogoku Edo Noren (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/19471/) · [Kyushu Basho 2026](https://selfguidejapan.com/blog/grand-sumo-november-2026) · [Kuramae guide (Tokyo Weekender)](https://www.tokyoweekender.com/things-to-do-in-tokyo/kuramae-itinerary/) · [Kuramae shops (MATCHA)](https://matcha-jp.com/en/5824) · [Kiyosumi cafe guide (Tokyo Cheapo)](https://tokyocheapo.com/food-and-drink/cafe/kiyosumi-cafe-guide/) · [MOT Autumn Night Museum 2026](https://www.mot-art-museum.jp/en/news/2026/08/20260819170850/) · [Tomioka Hachimangu markets (Tokyo Cheapo)](https://tokyocheapo.com/events/tomioka-hachimangu-markets/) · [Yamariki Honkan (Tabelog)](https://tabelog.com/en/tokyo/A1312/A131201/13002992/) · [Kameido Gyoza Honten (Tabelog)](https://tabelog.com/en/tokyo/A1312/A131202/13003078/) · [Kameido Tenjin (Kanpai)](https://www.kanpai-japan.com/tokyo/kameido-tenjin) · [Shibamata (Kanpai)](https://www.kanpai-japan.com/tokyo/shibamata) · [Shibamata (MATCHA)](https://matcha-jp.com/en/16789)
+
+### Yokocho / izakaya alleys (like Omoide Yokocho)
+
+*Added Oct 11, 2026. Alleys with the same tiny-counter, yakitori-smoke feel. Checked against 2026 alley guides, but individual bars weren't checked. Omoide Yokocho itself is under redevelopment, and Shibuya Station construction surrounds Nonbei Yokocho, so check both before going.*
+
+**Closest match:**
+- ☐ **Nonbei Yokocho ("Drunkard's Alley"), Shibuya**: postwar alley by the tracks, with a few dozen bars that seat ~6 each. Fewer crowds and lower prices than Omoide Yokocho. Fits the Oct 30 Shibuya stop
+- ☐ **Harmonica Yokocho, Kichijoji**: small grid of tiny bars and stalls (see above). Chain it with Koenji and Nakano Broadway on one Chuo Line day
+- ☐ **Ameyoko / Ueno–Okachimachi under the tracks**: loud market street by day, standing bars and yakitori spilling onto the street at night. ~15 min from Ryogoku (Sobu Line to Akihabara, then north). **Easiest from the second hotel**
+
+**Under the tracks (gado-shita):**
+- ☐ **Yurakucho**: old izakaya in the brick arches under the JR line, with salarymen and yakitori smoke. **Sanchoku Yokocho** nearby is a renovated 2019 alley of 11 bars, each focused on one region's food and ingredients
+- ☐ **Kanda**: the same under-the-tracks style near Yuzu Lab and Hitachino. Easy to crawl before or after the Oct 28 dinner
+
+**Polished version:**
+- ☐ **Ebisu Yokocho**: ~20 izakaya stalls in a renovated indoor building. Lively and cleaner, less old-Tokyo
+
+**Near Ryogoku:** Monzen-Nakacho standing bars, Kinshicho izakaya, and Yamariki in Morishita. See [New neighborhoods near the Ryogoku hotel](#new-neighborhoods-near-the-ryogoku-hotel-nov-711).
+
+**Best from Ryogoku:** Ueno/Okachimachi or Yurakucho. Both are a short ride away and the closest to the Omoide Yokocho feel.
+
+**Sources:** [Tokyo Yokocho Guide 2026](https://nightlifetokyo.com/en/tokyo/guides/tokyo-yokocho-alleyway-bars) · [The Ondo: 9 best alley districts](https://theondo.net/tokyo-yokocho-guide-7-alleys/) · [GO TOKYO yokocho guide](https://www.gotokyo.org/en/story/guide/drink-and-dine-like-a-local-a-guide-to-exploring-yokocho-alleyways/index.html) · [Hotel Tavinos yokocho guide](https://hoteltavinos.com/en/blog/hamamatsucho-tokyo-yokocho/)
+
 ### Food
 
 ### Festivals/Events during our dates (Oct 27–30 & Nov 9–11)
