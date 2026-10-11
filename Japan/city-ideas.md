@@ -40,6 +40,15 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 
 ### Sites/Things to do
 
+*From an r/JapanTravel itinerary thread (Oct 2026). Commenter picks, not verified yet, so check hours before going.*
+
+- ☐ Koenji — vintage/thrift neighborhood on the JR Chuo Line, a few minutes west of Shinjuku. Less polished (and cheaper) than Shimokitazawa. Work the north-side shotengai (shopping streets); some shops carry real embroidered sukajan jackets if you dig
+  - ☐ Kosugi-yu — neighborhood sento (public bathhouse) in Koenji, cheap and tattoo friendly. Go in the evening when locals stop in after work
+- ☐ Nakano Broadway — retro shopping mall one stop past Koenji on the Chuo Line, easy to pair with it. Mandarake inside is packed with second-hand manga, figures, retro games and trading cards
+- ☐ Game Center Mikado, Takadanobaba — retro arcade that runs regular Street Fighter tournaments, fun to watch
+- ☐ Kinji Used Clothing, Harajuku — one of the better thrift shops if you only want one reliable stop
+- ☐ The Deep — tiny jazz/soul bar with a grand piano and live singers, a quieter alternative to Golden Gai for a drink
+
 ### Food
 
 ### Festivals/Events during our dates (Oct 27–30 & Nov 9–11)
@@ -179,7 +188,7 @@ Sources: [Nagoya Is Not Boring — Halloween 2026](https://www.nagoyaisnotboring
 - ☐ Kyoya — rustic old house near Sakurayama Hachimangu, Hida beef grilled at the table, hoba miso, local fish. Mid-range. 1-77 Oshin-machi, 11 AM–10 PM. **Closed Tue** → Mon Nov 2 dinner candidate
 - ☐ Suzuya — traditional merchant house, known for hoba miso steak and Hida beef sukiyaki. Classic first-timer pick
 - ☐ Maruaki — butcher-run, A5 Hida beef (yakiniku, sukiyaki, shabu-shabu). Upscale. 6-8 Tenman-machi, ~5 min from the station/hotel. 11 AM–9 PM (LO 8:30). Open Tuesdays → easy Nov 3 dinner after getting back from Kamikochi
-- ☐ Kitchen Hida — casual Hida beef steak, good-value sets. 1-66 Hon-machi. Closed Wed
+- ☐ Kitchen Hida — casual Hida beef steak, good-value sets. 1-66 Hon-machi. Lunch 11:30 AM–3:30 PM (LO 2:45), dinner 5:00–8:30 PM (LO 7:45). Closed Wed. **Tip (r/JapanTravel, Oct 2026):** they're known for a bottled Hida beef side dish (a commenter wrote it as 飛騨牛ハンバ具ー). Buy it at the counter on the way out after eating. Planned for Tue Nov 3 dinner
 - ☐ Bistro Kanzo — Hida beef done French-style, mid-range. 46 Ura-machi. Closed Wed
 - ☐ Shiki no Gochisou Mitsuiwa — kaiseki with Hida beef fillet/loin steak and seasonal seafood. ~¥6,000 basic dinner, ~¥10,000–20,000 for full kaiseki. ~4 min walk from the station. Dinner 5:00–9:30 PM, closes irregularly, reservations strongly recommended. **Top backup if Ryotei Susaki is full**
 - ☐ Hida Takayama Sakana — seasonal Hida kaiseki (autumn = mushrooms + A5 Hida beef), ~¥15,000–25,000. Reservation only. 1126-1 Echigo-machi. Less well-documented than Mitsuiwa
@@ -231,17 +240,75 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 - ☐ 21st Century Museum of Contemporary Art — right next to Kenrokuen, includes the famous Swimming Pool installation
 - ☐ Nagamachi Samurai District — preserved samurai residences, earthen walls
 - ☐ Kanazawa Castle Park — adjacent to Kenrokuen, free to walk grounds
+- ☐ Ishiura Shrine (石浦神社) — small shrine with a tunnel of red torii gates, like a mini Fushimi Inari. Right by the 21st Century Museum and Kenrokuen, so it's an easy add to that walk
+
+**More ideas (added Oct 11, 2026):**
+
+- ☐ Myoryuji "Ninja Temple" — Maeda-clan temple full of trick doors, hidden stairs and escape routes. Guided tour only (~40 min, mostly in Japanese with an English handout). **Reservation required, book at least a day ahead.** In Teramachi, south of the Sai River
+- ☐ Nishi Chaya + Teramachi — the smaller, quieter geisha district, and right next to it Teramachi, ~70 temples in a few blocks. Pairs with Myoryuji
+- ☐ Kazuemachi — the third and quietest geisha district, along the Asano River across from Higashi Chaya. Best at dusk when the lanterns come on; easy add to a Higashi Chaya visit
+- ☐ Nomura Samurai House (Nagamachi) — the one samurai residence worth paying to enter; its small garden is rated among Japan's best
+- ☐ Oyama Shrine — shrine to Maeda Toshiie with an odd stained-glass gate mixing Dutch, Chinese and Japanese styles. Between Omicho and Nagamachi
+- ☐ D.T. Suzuki Museum — minimalist Zen museum with a reflecting "water mirror" courtyard. Small and calm, ~45 min. Near the 21st Century Museum
+- ☐ Fukumitsuya Sake Brewery — Kanazawa's oldest brewery (1625). English-guided tour with 4 tastings, ~1 hr, **Oct–April, reservation required**
+- ☐ Make-your-own gold-leaf item or ring — several Higashi Chaya studios do short workshops (gold-leaf chopsticks/boxes are the classic)
+- ☐ Kanazawa Phonograph Museum — small museum of antique gramophones with live listening demos. Near Higashi Chaya
 
 ### Food
 
-- ☐ Omicho Market — kaisendon (seafood rice bowls), Kanazawa's "kitchen." Snow crab season (Kano Gani/Kobako Gani) opens Nov 6 — right as we arrive — so crab should be at its freshest for our Nov 6–7 stay. (The market's dedicated Crab Hot Pot Festival is Nov 14, which we'll miss, but the crab itself will already be in season)
+**Crab season — important timing.** Ishikawa's crab season opens at **midnight Nov 6**, but the boats land the catch overnight and the **first auction is ~3 AM Nov 7**. Kanazawa's tourism board says local crab hits Omicho and shops **from Nov 7**, which is our travel day out. So:
+- **Nov 4–6 (before local crab):** go to places that serve crab year-round (imported or tank-held live crab) or red snow crab (beni-zuwai), which is in season earlier
+- **Sat Nov 7 (opening day for local crab):** do a **crab lunch at Omicho** before an afternoon Shinkansen. This is the one shot at fresh **kobako gani** (female crab with roe, only in season to Dec 29) and blue-tagged **kano gani** (male)
+
+*Crab names:* **Kano gani** (加能ガニ) = male snow crab, blue tag with the landing port on it, big legs and crab miso. **Kobako gani** (香箱ガニ) = small female with inner and outer roe, the local favorite and much cheaper. **Kani-men** = kobako picked and repacked into its shell, served in Kanazawa oden in season.
+
+*Year-round crab (works Nov 4–6):*
+
+- ☐ Ichinokura, Katamachi (海鮮市場料理 いちの蔵) — live crab tank all year (Okhotsk crab before the local season), choose sashimi, charcoal-grilled or steamed. Whole crab ~¥18,000–26,000 by weight; crab-miso shell roast ~¥1,700. **Walk-ins OK**, counter seats. Also Kanazawa oden. 2F APA Katamachi Daisan Bldg, 1-6-13 Katamachi
+- ☐ Ajidokoro Takasaki (味処 髙﨑) — kappo restaurant famous for its **crab cream croquette** (~¥800, red snow crab, year-round), plus a live-crab tank where you pick your size. **Reservations required during crab season.** Near Kazuemachi
+
+*Crab from Nov 7 (local season):*
+
+- ☐ Omicho Market crab stalls — **Kawaki Shoten** (川木商店) is the market's oldest crab specialist and boils crab on site; several kaisendon shops add kobako to their bowls once the season opens. Go late morning before stalls sell out
+- ☐ Kourin Sushi (Omicho) — mentioned as an affordable way to try kobako gani as sushi
+- ☐ Daimyojaya — crab specialist with live blue-tag crab from Kanazawa Port; sells kano gani by the crab, crab kaiseki and crab shabu courses start Nov 7
+- ☐ Otome Sushi — serves kobako from Nov 7, but its status is unclear (see the Michelin table)
+- ☐ Kappo Takeshi (Sai River) — crab-only courses all season (sashimi + grilled, crab shabu, or premium with both), fixed price ¥20,900–26,400. Reservations recommended. Best fit if we ever do a Kanazawa dinner on/after Nov 7
+- ☐ Sake & Shokuyujin Minato — small, friendly bar-restaurant (solo-friendly) with whole boiled crab (~¥15,000) and crab-miso gratin. **Crab needs a reservation at least one day ahead.** 2-8 Kakinokibatake
+
+*Other Kanazawa food:*
+
+- ☐ Omicho Market — kaisendon (seafood rice bowls), Kanazawa's "kitchen." Also nodoguro (blackthroat seaperch) and amaebi (sweet shrimp)
 - ☐ Gold leaf — Kanazawa produces ~99% of Japan's gold leaf; gold-leaf ice cream is a local novelty
+- ☐ Kanazawa oden — local style with kani-men (in season), kuruma-fu and bai-gai sea snails. Year-round
+- ☐ Jibu-ni — duck stewed in a thick sweet-soy broth with wheat gluten, Kanazawa's classic local dish
 
-### Festivals/Events during our dates (Nov 5–8)
+Sources: [Kanazawa tourism — crab season and where to buy](https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html) · [Ishikawa crab season 2026](https://mande-ishikawa.com/ishikawa-kani-kaikin-2026/) · [First auction Nov 7, 3 AM (sato-umi)](https://sato-umi.com/kanougani-koubakogani-kaikin-2026/) · [Hoshino Resorts — 5 crab restaurants in Kanazawa](https://en.hoshinoresorts.com/guide/area/chubu/ishikawa/kanazawa/kani/) · [Visit Kanazawa — autumn guide](https://visitkanazawa.jp/en/kanazawa-101/detail_71.html) · [Daimyojaya (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/18440/)
 
-*Checked Aug 2026.*
+### Festivals/Events during our dates (Nov 4–7)
+
+*Checked Oct 11, 2026.*
 
 - ☐ Korinbo Tree Fantasy illumination — ~110,000 LEDs on the zelkova trees along Korinbo (Kanazawa's main shopping street), 5 PM–midnight, free. 2026–2027 season runs early Nov 2026–mid Feb 2027, so it's on for our whole stay
+- ☐ Kenrokuen yukitsuri — the snow-protection ropes go up from Nov 1, starting with the famous Karasaki pine and ~800 trees over 6 weeks. We'll see the crews working
+- ☐ **Kanazawa Castle + Kenrokuen autumn light-up — Sat Nov 7** (also Nov 14–15, 21–22, 28–29). Free night entry, foliage and yukitsuri lit up. That's our travel day, so it only works if we take a late Shinkansen to Tokyo (check the last train first)
+- ☐ Crab season opening — Nov 6 (local crab in shops from Nov 7, see Food). Omicho's crab hot-pot festival (kani-jiru) is later in the month, after we leave
+- Missed by a few days: Ishikawa Food Festival (first full weekend of November, date unconfirmed), Kanazawa Cosplay Festival (Nov 23)
+
+Sources: [Kanazawa tourism — autumn events 2026](https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html) · [Visit Kanazawa events](https://visitkanazawa.jp/en/event/index.html) · [Snow Monkey Resorts — Kanazawa in November](https://www.snowmonkeyresorts.com/news/kanazawa-in-november/)
+
+### Day Trips
+
+*Only Nov 5–6 are full days, and Nov 5 is Dan solo until Jeff and Adam arrive. So a half-day trip on Nov 5 fits best.*
+
+- ☐ **Gokayama (Ainokura)** — the quieter UNESCO gassho-zukuri village, a good substitute since we skipped Shirakawa-go. Hokuriku Shinkansen to Shin-Takaoka (~13 min), then the World Heritage Bus (~1 hr). Buses are infrequent, so check the timetable both ways. A day bus tour from Kanazawa Station also covers Gokayama + Shirakawa-go (8:00 AM–3:45 PM)
+- ☐ **Kaga Onsen** — four hot-spring towns ~40 min south by train; Yamanaka Onsen has the Kakusenkei gorge walk (foliage around early-mid Nov) and Yamashiro has a classic public bath (soyu). CAN Bus loop ¥820/day. Easy half day, and a good "soak after a lot of walking" option
+- ☐ **Eiheiji + Tojinbo (Fukui)** — Eiheiji is a working Zen training temple (founded 1244), 70+ buildings up a cedar-forest hillside; Tojinbo is dramatic basalt sea cliffs. Shinkansen to Fukui ~25 min, then bus. Full day if doing both
+- ☐ **Fukui Prefectural Dinosaur Museum (Katsuyama)** — one of the world's big dinosaur museums. Fukui + local train/bus. Full day, pairs with Eiheiji
+- ☐ **Takaoka** — on the way to Gokayama: Zuiryuji (National Treasure Zen temple), the Takaoka Great Buddha, and the Amaharashi coast with views of the Tateyama range across the bay on a clear day
+- ☐ **Noto Peninsula (Wajima)** — still rebuilding after the 2024 earthquake. The Wajima morning market reopened at a temporary site (Wai Wai Plaza, 8 AM–noon, closed 2nd/4th Wed). ~2–2.5 hrs each way, so it's really an overnight trip; not realistic for us this time
+
+Sources: [Kanazawa day trips (Japan Activity)](https://japanactivity.com/day-trips-from-kanazawa) · [Kaga Onsen day trip](https://kshouse.jp/articles/en/kanazawa-kaga-onsen/) · [Fukui day trip](https://www.kanazawastation.com/day-trip-from-kanazawa-to-fukui/) · [Gokayama access (Magical Trip)](https://www.magical-trip.com/media/kanazawa-to-gokayama-complete-guide-with-local-experiences-hidden-unesco-gems/) · [Visit Kanazawa — Gokayama/Shirakawa-go tour](https://visitkanazawa.jp/en/activities/detail_285.html) · [Noto recovery (TTG Asia, Jul 2026)](https://www.ttgasia.com/2026/07/28/noto-peninsula-tourism-rebuild-gathers-pace/) · [Wajima morning market (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/12712/) · [Kanazawa hidden spots (Hoshino Resorts)](https://en.hoshinoresorts.com/guide/area/chubu/ishikawa/kanazawa-kakurespot/)
 
 ## Michelin-Star Restaurants
 
