@@ -79,7 +79,7 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
   - ☐ Osu Kannon Temple
 - ☐ City views (Sakae) — Mirai Tower and Oasis 21 are right by each other, easy to pair
   - ☐ Chubu Electric Power MIRAI TOWER (formerly Nagoya TV Tower) — ¥1,300 for the observation decks: indoor Sky Deck at 90m (360° views, ceiling mirror display) + outdoor Sky Balcony at 100m (open-air). Night view is a designated Japan Night View Heritage site; sunset into early evening is the most photographed slot since the tower got LED illumination in 2020. Floors 1–3 (shops/restaurants) are free even without going up
-  - ☐ Oasis 21 "Water Spaceship" — free glass rooftop deck, 14m up, 10:00–21:00. Water flows across the glass roof above the walkway; lit up with colored lights at night. Free alternative/pairing to Mirai Tower
+  - ☐ Oasis 21 "Water Spaceship" — free glass rooftop deck, 14m up, 10:00–21:00. Water flows across the glass roof above the walkway; lit up with colored lights at night. Free alternative/pairing to Mirai Tower. **On Halloween (Oct 31) it closes at 5:00 PM** and the shops are closed all day (2025 rules). See Festivals/Events below
 - ☐ Toyota Commemorative Museum of Industry and Technology — Toyota's original plant, textile-to-automobile history
 - ☐ Hisaya-odori Park — long central park strip through Sakae, right below Nagoya TV Tower; good walk/rest stop between Sakae shopping and dinner
 - ☐ Legoland Japan — near the port, big time commitment if going all in
@@ -105,7 +105,30 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 - ☐ Y. Market Brewing Kitchen — main taproom, in Yanagibashi Market, ~7 min walk from Nagoya Station. Nagoya's original craft brewery, ~10 house beers on tap. (Skip the West Taproom near Kami Otai — weekends only, irregular closures around their brew schedule.)
 - ☐ Endoji Brewing — small taproom (~10 seats + covered-street seating) in the Endoji shopping arcade, near Nagoya Station. House beer plus rotating guest taps. Confirmed active — Instagram posting through mid-2026, hours 15:00–23:00 (22:00 LO) weekdays, open year-round
 - ☐ Tall Boys Brewing — Minami-ku, 5 min from Kasadera Station, 8 taps of house beer + guest pours, grilled cheese menu. Hours per their Instagram: Tue–Thu 6–10 PM, Fri–Sun 3–11 PM (closed Mon)
-- ☐ Tōshun Shuzō sake brewery tour — family-run, 160+ years, Edo-period storehouses built with timber once reserved for Nagoya Castle. ~3 hrs (1:30–4:30 PM), ends at JR Shin-Moriyama Station, ¥18,000/person for groups of 2–10. Request-based booking, book at least a week out. Nov–April is brewing season — should be seeing active fermentation on our Oct 31–Nov 2 dates. Booked via [Discover Nagoya Tours](https://discovernagoyatours.com/tours/2104.html)
+
+**More breweries (added Oct 8, 2026).** Hours are from 2024–2026 listings, so confirm before going. All are open on the weekend we're in Nagoya (Sat Oct 31–Sun Nov 1):
+
+- ☐ Craftbeer Koyoen Brewery / Nagoya Beer Garden Koyoen — Chikusa Ward, ~10 min walk from Fukiage Station (Sakuradori Line, same line as the hotel). Koyoen calls itself Japan's oldest beer garden (90+ years). It brews three beers on site, and the fermentation tanks are visible from the dining room. Eight taps and an Italian-leaning menu in the brewery restaurant; yakiniku hall next door. Brewery restaurant 11:30–22:00, open daily. The outdoor beer garden is a summer thing and may be closed by November
+- ☐ Myaa Brew (みゃーブリュー) — Imaike, Chikusa Ward, ~7 min walk from Imaike Station. Tiny brewpub (opened 2018) with six counter seats; house beers include an "Imaike IPA." Weekends 12:00–23:00, weekdays 18:00–23:00, closed Mondays. Imaike is a lively bar neighborhood, good for a crawl
+- ☐ Ozone Craft Brewery (BREWPUB OZONE) — Kita Ward, inside the Ozone shopping arcade, ~7 min walk from Ozone Station (Meijo Line, JR Chuo, Meitetsu Seto). Opened 2021. Weekends 13:00–22:00, weekdays 16:00–22:00, closed Mon–Tue
+- ☐ Crazy Stone Brewing — Mizuho Ward, ~5 min from Aratamabashi Station (Meijo/Sakuradori Lines). Brand-new microbrewery (opened Feb 2026) inside a Sichuan hot pot bar (Koushō), so beer and hot pot dinner in one stop. 11:00–14:30, 17:00–23:00
+- ☐ Y. Market Brewing West Taproom — the brewery itself, ~15–20 min walk from Kami-Otai Station (Meitetsu). 12:00–18:00, irregular closures. Out of the way. The Yanagibashi taproom above is easier
+- ☐ Totopia Brewery — Nagakute, out by Ghibli Park, with a taproom. Only worth it if we're out that way
+
+Sources: [beergirl.net Nagoya beer spots (2024)](https://beergirl.net/nagoya-beerbar_c/) · [Crazy Stone Brewing](https://beer-cruise.net/beer/260222.html) · [Ozone Craft Brewery](https://beer-cruise.net/beer/211211.html) · [Nagoya craft beer guide (Wander Japan with Me)](https://www.wanderjapanwithme.com/blog/finding-craft-beer-in-nagoya)
+
+ — family-run, 160+ years, Edo-period storehouses built with timber once reserved for Nagoya Castle. ~3 hrs (1:30–4:30 PM), ends at JR Shin-Moriyama Station, ¥18,000/person for groups of 2–10. Request-based booking, book at least a week out. Nov–April is brewing season — should be seeing active fermentation on our Oct 31–Nov 2 dates. Booked via [Discover Nagoya Tours](https://discovernagoyatours.com/tours/2104.html)
+
+### Festivals/Events during our dates (Oct 31–Nov 1)
+
+*Checked Oct 8, 2026. Halloween is Sat Oct 31, our first Nagoya night. Sakae is the costume-and-drinks area, and it's where we already have dinner (Furaibo) that night.*
+
+- ☐ Nagoya Halloween Bar Crawl — Fri Oct 30 and **Sat Oct 31**, Sakae. Pick up a wristband at **Second Home** (B1 Ark Shirakawa Park Bldg, 2-2-23 Sakae), Sat 2:00–11:00 PM. The wristband gets you specials at the participating bars (free entry, free drinks, or all-you-can-drink, depending on the bar). Guided route both nights, costume contest, costumes optional, English-friendly. One night: **¥3,500 pp through Oct 18**, then ¥5,000 until online sales close Oct 29. Easiest fit: join after the 7:30 PM tebasaki dinner. [Tickets](https://aichiconnection.com/halloween-bar-crawl-2026/)
+- ☐ Supernatural Halloween — Sat Oct 31, 8:00 PM–5:00 AM, Club MAGO + Live & Lounge VIO. Big costume party with DJs, aimed at the international crowd. 18+ with ID. ¥3,000 advance / ¥4,000 at the door. Pick this if the group wants a club night rather than bar-hopping. [Tickets](https://smallworldjpn.com/supernatural-halloween/)
+- ☐ Shooters Sports Bar & Grill — Halloween party Oct 30–31, opens 5:00 PM, event from 7:00 PM, ¥1,500 entry. Low-key American sports bar option
+- **Walking around to see costumes:** **Oasis 21** used to be where costumed crowds gathered, but the city now shuts it down for Halloween. In 2025 the rooftop and ground level closed from **5:00 PM on Oct 30–31**, and the shops were closed all day on the 31st. **Hisaya-odori Park** was also restricted from 5:00 PM on the 31st. People in costume still fill the Sakae streets around it in the evening, with police managing the crowd. The 2026 rules aren't announced yet, but they've gotten stricter each year. I couldn't find a Shibuya-style street-drinking ban for Nagoya, but I couldn't confirm either way, so drinking inside the bars on the crawl is the safer way to do it
+
+Sources: [Nagoya Is Not Boring — Halloween 2026](https://www.nagoyaisnotboring.com/halloween-in-nagoya/) · [Chunichi — Oasis 21 closures (2025)](https://www.chunichi.co.jp/article/1155748) · [Nagoya TV — Oasis 21 closures](https://www.nagoyatv.com/news/?id=027153) · [Tokai TV — Oasis 21 restrictions](https://www.tokai-tv.com/tokainews/feature/article_20241031_37131)
 
 ### Day Trips
 
