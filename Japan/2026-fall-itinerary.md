@@ -59,7 +59,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 4 | Fri Oct 30 | Tokyo | West-side day: Shinjuku Gyoen, Meiji Jingu, Harajuku, Shibuya, Shinjuku at night (ramen festival dropped). See [days/2026-10-30.md](./days/2026-10-30.md) |
 | 5 | Sat Oct 31 | Tokyo → Nagoya | Tokaido Shinkansen (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Afternoon in Osu (Yabaton misokatsu), sunset from Mirai Tower, tebasaki dinner in Sakae. See [days/2026-10-31.md](./days/2026-10-31.md) |
 | 6 | Sun Nov 1 | Nagoya | **Tentative:** Nagoya Castle, Nagashima Zombie Island (Halloween event at Spa Land), Nabana no Sato illumination + dinner. Tōshun sake tour is the alternative. See [days/2026-11-01.md](./days/2026-11-01.md) |
-| 7 | Mon Nov 2 | Nagoya → Takayama | Hida Limited Express (~2.5hrs, ¥5,600–6,150 reserved ≈ $37–41 pp one-way), scenic mountain ride. Afternoon/evening in Takayama: Sanmachi Suji, sake breweries. See [days/2026-11-02.md](./days/2026-11-02.md). **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
+| 7 | Mon Nov 2 | Nagoya → Takayama | **Hida 5, 9:39 AM (booked)**, arrives ~12:15 PM (¥6,140–6,340 reserved ≈ $41–42 pp one-way), scenic mountain ride. Afternoon/evening in Takayama: Sanmachi Suji, sake breweries. See [days/2026-11-02.md](./days/2026-11-02.md). **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
 | 8 | Tue Nov 3 | Takayama (day trip) | Kamikochi day trip via Nohi Bus. Nov 3 is Culture Day (national holiday). The buses can't be reserved, so go early. See [days/2026-11-03.md](./days/2026-11-03.md) |
 | 9 | Wed Nov 4 | Takayama → Kanazawa | Train via Toyama — Hida Express to Toyama (~1.5 hrs), Shinkansen/Ainokaze to Kanazawa (~18–40 min). Skipping Shirakawa-go stop. Morning market before leaving. See [days/2026-11-04.md](./days/2026-11-04.md) |
 | 10 | Thu Nov 5 | Kanazawa | Jeff and Adam arrive from Kyoto/Osaka to rejoin Dan. Max flies home from Tokyo today |
@@ -84,12 +84,12 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 - [x] **Tokyo end-block lodging** (Nov 7–11): APA Hotel & Resort Ryogoku Eki Tower
 - [ ] **Reserve train seats** (individual tickets, no JR Pass):
   - [ ] Sat Oct 31 Tokaido Shinkansen Tokyo → Nagoya (4 seats together)
-  - [ ] Mon Nov 2 Hida Express Nagoya → Takayama (Hida 3, ~9:43 AM)
+  - [x] Mon Nov 2 Hida Express Nagoya → Takayama (Hida 5, 9:39 AM, booked)
   - [ ] Wed Nov 4 Hida Express Takayama → Toyama
   - [ ] Sat Nov 7 Hokuriku Shinkansen Kanazawa → Tokyo
 - [ ] **Ryotei Susaki** dinner, Mon Nov 2 (if doing it)
-- [ ] **CAPPINESS Oshiage** capybara cafe, Wed Oct 28, 10:15 AM slot
-- [ ] Absentee voting (Election Day is Tue Nov 3, while I'm in Japan): ballot requested. Track it at mnvotes.org. When it arrives, fill it out, get the witness signature, and return it (City Hall or drop box) by Sat Oct 24. If it hasn't arrived by ~Oct 16–20, vote early in person at Inver Grove Heights City Hall (8150 Barbara Ave., Oct 16–24, weekdays 8–4:30, Sat Oct 24 9–3)
+- [x] **CAPPINESS Oshiage** capybara cafe, Wed Oct 28, 10:15 AM slot (booked)
+- [x] Absentee voting (Election Day is Tue Nov 3, while I'm in Japan): voted
 
 ## TODO — day-by-day detail
 - [x] Tue Oct 27 (arrival), Wed Oct 28, Thu Oct 29 (Kamakura), Fri Oct 30 (west-side day) planned. teamLab Borderless skipped
