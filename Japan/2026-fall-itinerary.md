@@ -58,7 +58,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 3 | Thu Oct 29 | Tokyo (Kamakura day trip) | Kamakura + Enoshima via the Daibutsu Hiking Course, with a local food list. See [days/2026-10-29.md](./days/2026-10-29.md) |
 | 4 | Fri Oct 30 | Tokyo | West-side day: Shinjuku Gyoen, Meiji Jingu, Harajuku, Shibuya, Shinjuku at night (ramen festival dropped). See [days/2026-10-30.md](./days/2026-10-30.md) |
 | 5 | Sat Oct 31 | Tokyo → Nagoya | Tokaido Shinkansen (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Afternoon in Osu (Yabaton misokatsu), sunset from Mirai Tower, tebasaki dinner in Sakae. See [days/2026-10-31.md](./days/2026-10-31.md) |
-| 6 | Sun Nov 1 | Nagoya | **Tentative:** Nagoya Castle, Nagashima Zombie Island (Halloween event at Spa Land), Nabana no Sato illumination + dinner. Tōshun sake tour is the alternative. See [days/2026-11-01.md](./days/2026-11-01.md) |
+| 6 | Sun Nov 1 | Nagoya | **Tentative:** Nagoya Castle in the morning. Afternoon and evening open (options: Tōshun sake tour, Nabana no Sato illumination). Zombie Island dropped. See [days/2026-11-01.md](./days/2026-11-01.md) |
 | 7 | Mon Nov 2 | Nagoya → Takayama | **Hida 5, 9:39 AM (booked)**, arrives ~12:15 PM (¥6,140–6,340 reserved ≈ $41–42 pp one-way), scenic mountain ride. Afternoon/evening in Takayama: Sanmachi Suji, sake breweries. See [days/2026-11-02.md](./days/2026-11-02.md). **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
 | 8 | Tue Nov 3 | Takayama (day trip) | Kamikochi day trip via Nohi Bus. Nov 3 is Culture Day (national holiday). The buses can't be reserved, so go early. Dinner at Kitchen Hida (6:00 PM, last order 7:45). See [days/2026-11-03.md](./days/2026-11-03.md) |
 | 9 | Wed Nov 4 | Takayama → Kanazawa | Train via Toyama — Hida Express to Toyama (~1.5 hrs), Shinkansen/Ainokaze to Kanazawa (~18–40 min). Skipping Shirakawa-go stop. Morning market before leaving. Afternoon solo: Omicho, Nagamachi, Korinbo lights, Ichinokura dinner. See [days/2026-11-04.md](./days/2026-11-04.md) |
@@ -66,13 +66,13 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 11 | Fri Nov 6 | Kanazawa | **Tentative.** Kenrokuen at opening, castle, Ishiura Shrine, 21st Century Museum, Omicho lunch, Myoryuji Ninja Temple + Nishi Chaya/Teramachi, optional Fukumitsuya brewery tour, Katamachi dinner. See [days/2026-11-06.md](./days/2026-11-06.md) |
 | 12 | Sat Nov 7 | Kanazawa → Tokyo | **Tentative.** Higashi Chaya in the morning, then the first day of local crab: Omicho crab lunch, then a ~1:30 PM Shinkansen (not booked). Late-train option for the castle/Kenrokuen light-up. Check in at APA Ryogoku, chanko nabe dinner. See [days/2026-11-07.md](./days/2026-11-07.md) |
 | 13 | Sun Nov 8 | Tokyo | **Not planned yet.** Candidates: Koenji / Nakano Broadway / Game Center Mikado (see Tokyo in [city-ideas.md](./city-ideas.md)). See [days/2026-11-08.md](./days/2026-11-08.md) |
-| 14 | Mon Nov 9 | Tokyo (Mt. Tsukuba day trip) | **Draft.** Mt. Tsukuba replaces Nikko (too far). Tsukuba Express from Akihabara + shuttle bus, Mt. Tsukuba Ticket. Swap with Nov 10 if the weather is better then. See [days/2026-11-09.md](./days/2026-11-09.md) |
+| 14 | Mon Nov 9 | Tokyo (Mt. Tsukuba day trip) | **Draft.** Mt. Tsukuba replaces Nikko (too far). Tsukuba Express from Akihabara + shuttle bus, paid with IC card. Hiking both ways. Swap with Nov 10 if the weather is better then. See [days/2026-11-09.md](./days/2026-11-09.md) |
 | 15 | Tue Nov 10 | Tokyo | **Not planned yet.** Wind-down — favorites + anything missed. See [days/2026-11-10.md](./days/2026-11-10.md) |
 | 16 | Wed Nov 11 | Tokyo (departure) | **Not planned yet.** Flight 5:15 PM from HND, so most of the day is free. Need a bag plan and last meal. See [days/2026-11-11.md](./days/2026-11-11.md) |
 
 ## Decisions needed
 
-- **Sun Nov 1 (Nagoya):** tentative plan is Nagoya Castle → Nagashima Zombie Island → Nabana no Sato illumination. Confirm with the group vs. the Tōshun sake brewery tour (needs booking at least a week out). Last full day with all four of us.
+- **Sun Nov 1 (Nagoya):** Nagoya Castle in the morning; afternoon and evening open (Zombie Island dropped). Options: Tōshun sake brewery tour (needs booking at least a week out) or Nabana no Sato illumination. Last full day with all four of us.
 - **Kanazawa (Nov 5–7):** tentative plan drafted. Confirm Jeff and Adam's arrival time, then book Myoryuji, Ajidokoro Takasaki and (optional) Fukumitsuya.
 - **Tokyo end block (Nov 8, 10, 11):** plan the open days.
 
@@ -99,7 +99,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 ## TODO — day-by-day detail
 - [x] Tue Oct 27 (arrival), Wed Oct 28, Thu Oct 29 (Kamakura), Fri Oct 30 (west-side day) planned. teamLab Borderless skipped
 - [x] Nagoya Oct 31 planned (Osu, Mirai Tower, tebasaki in Sakae)
-- [ ] Nagoya Nov 1: drafted but **tentative** — confirm Zombie Island + Nabana no Sato vs. Tōshun sake tour with the group
+- [ ] Nagoya Nov 1: castle in the morning; **afternoon and evening open** — decide with the group (Tōshun sake tour, Nabana no Sato, or a lighter day)
 - [x] Takayama Nov 2–4 planned (old town, Kamikochi, Kitchen Hida dinner, morning market)
 - [ ] Kanazawa Nov 5–7: **tentative** plan drafted; confirm Jeff and Adam's arrival time and book reservations
 - [ ] Tokyo Nov 8 and Nov 10: plan the wind-down days
