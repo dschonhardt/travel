@@ -315,7 +315,7 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 
 **More ideas (added Oct 11, 2026):**
 
-- ☐ Myoryuji "Ninja Temple" — Maeda-clan temple full of trick doors, hidden stairs and escape routes. Guided tour only (~40 min, mostly in Japanese with an English handout). **Reservation required, book at least a day ahead.** In Teramachi, south of the Sai River
+- ☐ Myoryuji "Ninja Temple" — Maeda-clan temple full of trick doors, hidden stairs and escape routes. Guided tour only (~40 min, mostly in Japanese with an English handout). **Reservation required, book at least a day ahead.** In Teramachi, south of the Sai River. *Confirmed Oct 14, 2026:* Ishikawa's official tourism site says "Advance reservations are required." **Booking is by phone only** (076-241-0888 per Japan Activity, unverified; up to 3 months ahead, no online booking). Tours roughly every 30 min, 9:00–16:00, ¥1,200 adults, irregular closing days. Walk-ins are rarely accepted, so don't count on one
 - ☐ Nishi Chaya + Teramachi — the smaller, quieter geisha district, and right next to it Teramachi, ~70 temples in a few blocks. Pairs with Myoryuji
 - ☐ Kazuemachi — the third and quietest geisha district, along the Asano River across from Higashi Chaya. Best at dusk when the lanterns come on; easy add to a Higashi Chaya visit
 - ☐ Nomura Samurai House (Nagamachi) — the one samurai residence worth paying to enter; its small garden is rated among Japan's best
@@ -324,6 +324,30 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 - ☐ Fukumitsuya Sake Brewery — Kanazawa's oldest brewery (1625). English-guided tour with 4 tastings, ~1 hr, **Oct–April, reservation required**
 - ☐ Make-your-own gold-leaf item or ring — several Higashi Chaya studios do short workshops (gold-leaf chopsticks/boxes are the classic)
 - ☐ Kanazawa Phonograph Museum — small museum of antique gramophones with live listening demos. Near Higashi Chaya
+
+**Shrines & temples (added Oct 14, 2026):** Ishiura, Oyama and Myoryuji are listed above. All the shrines below are free and open 24 hours (amulet counters ~9:00–17:00).
+
+*On the Fri Nov 6 Kenrokuen/castle route:*
+
+- ☐ **Kanazawa Shrine** (金沢神社) — vermilion shrine on the edge of Kenrokuen, dedicated to Sugawara no Michizane (god of learning, ancestor of the Maeda clan). Next to the **Kinjo Reitaku** spring, where the name "Kanazawa" ("marsh of gold") supposedly comes from. Look up at the ceiling painting in the main hall. A 2-minute add-on to Kenrokuen
+- ☐ **Ozaki Shrine** (尾崎神社) — "Kanazawa's Nikko Toshogu," dedicated to Tokugawa Ieyasu. Built in 1643 on the castle grounds as one of the earliest Toshogu shrines, moved here in 1878. Ornate vermilion and gold carvings, **known for autumn leaves**. 3 min from Kanazawa Castle Park, and easy to combine with Oyama Shrine
+- Route idea: Kenrokuen → Kanazawa Shrine → castle → Ozaki Shrine → Oyama Shrine → Omicho lunch. Add Ishiura on the 21st Century Museum side
+
+*Near Higashi Chaya (Sat Nov 7 morning):*
+
+- ☐ **Utatsuyama shrines** — Toyokuni Shrine (to Toyotomi Hideyoshi, 1616) sits halfway up Utatsuyama next to Atago Shrine and Utatsuyama Tenmangu, with a lookout over the city to the Sea of Japan. An uphill walk from Higashi Chaya; only if there's time before the crab lunch
+
+*In Teramachi / Nomachi (pairs with Myoryuji):*
+
+- ☐ **Hoshoji** (Zen, 1631) — original Edo gate and halls, plus a **temple café** serving matcha with gold leaf and Kanazawa sweets (10:00–16:00, closed Tue). A good break during the Teramachi walk
+- ☐ Kourinji (Zen, 1651) — "wish temple" with a twelve-zodiac garden and Daruma wish balls. Steps from Myoryuji
+- ☐ Houenji (1581) — Maeda family temple holding Toshiie's hair and self-portrait, with 4.5 m Nio guardian statues
+
+*Half-day option:*
+
+- ☐ **Shirayama Hime Shrine** (白山比咩神社, "Shirayama-san") — head shrine of ~3,000 Hakusan shrines across Japan, honoring sacred Mt. Hakusan. Cedar-forest approach, and autumn color in the area usually peaks **mid-Oct to early Nov**, so we may catch the tail end. Hokutetsu line from **Nomachi** to Tsurugi (~30 min, only 1–2 trains/hr), then a ~30 min walk, rental bike or taxi. Alternative to Kaga Onsen for Nov 5 if Dan wants a quieter solo morning
+
+Sources: [Magical Trip — 10 best Kanazawa shrines & temples](https://www.magical-trip.com/media/10-best-kanazawa-shrines-and-temples-complete-guide-to-japans-hidden-spiritual-gems-2025/) · [Kanazawa City — Ozaki Jinja cultural property](https://www4.city.kanazawa.lg.jp/soshikikarasagasu/bunkazaihogoka/gyomuannai/3/1/1/bunkazai_tagengo/1/21105.html) · [Visit Kanazawa — shrines](https://visitkanazawa.jp/en/kanazawa-101/detail_492.html) · [Oyama Shrine (Wikipedia)](https://en.wikipedia.org/wiki/Oyama_Shrine_(Kanazawa)) · [Go Central Japan — Shirayama Hime](https://go-centraljapan.jp/route/dragon/en/03.html) · [Snow Monkey Resorts — fall spots near Kanazawa](https://www.snowmonkeyresorts.com/smr/kanazawa/best-fall-spots-near-kanazawa/)
 
 ### Food
 
@@ -354,7 +378,54 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 - ☐ Kanazawa oden — local style with kani-men (in season), kuruma-fu and bai-gai sea snails. Year-round
 - ☐ Jibu-ni — duck stewed in a thick sweet-soy broth with wheat gluten, Kanazawa's classic local dish
 
-Sources: [Kanazawa tourism — crab season and where to buy](https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html) · [Ishikawa crab season 2026](https://mande-ishikawa.com/ishikawa-kani-kaikin-2026/) · [First auction Nov 7, 3 AM (sato-umi)](https://sato-umi.com/kanougani-koubakogani-kaikin-2026/) · [Hoshino Resorts — 5 crab restaurants in Kanazawa](https://en.hoshinoresorts.com/guide/area/chubu/ishikawa/kanazawa/kani/) · [Visit Kanazawa — autumn guide](https://visitkanazawa.jp/en/kanazawa-101/detail_71.html) · [Daimyojaya (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/18440/)
+*In season Nov 4–7 (added Oct 14, 2026):*
+
+| Delicacy | Our dates | Where |
+|---|---|---|
+| Nodoguro (blackthroat seaperch) | ✅ Peak (Sep–Dec) | Itaru (salt-grilled/simmered), Aenokoto (nodoguro rice bowls), sushi at Komatsu Yasuke / Tobi / Morimori |
+| Amaebi + gasu-ebi (sweet shrimp; gasu-ebi barely leaves Kanazawa) | ✅ Peak (Sep–Nov) | Any sushi counter, Omicho kaisendon |
+| Kobako gani / kano gani | ⚠️ Nov 7 only | Omicho crab stalls, Morimori kobako gunkan (see crab section above) |
+| Kaga vegetables (Kaga lotus root, Gorojima Kintoki sweet potato) | ✅ Autumn crop | Kaiseki menus (Ryori Komatsu, Kanazawa Hirayama, Oryori Kifune), Tempura Koizumi, Omicho snacks. Hotel Kanazawa autumn afternoon tea (through Nov 30) uses both |
+| Kanazawa oden | ✅ Season starting (winter peak); kani-men only once local crab is in | Akadama Honten, Kuroyuri, Miyuki, Ippukuya (Omicho) |
+| Jibu-ni | ✅ Year-round, best when cold | Kagaya, kaiseki courses |
+| Buri (yellowtail) | 🔸 Early, fattest Dec–Feb | Fine as sushi, don't plan around it |
+| Kabura-zushi (yellowtail fermented between turnip) | 🔸 Mostly winter/New Year; made from Nov, hit or miss | Ask at Omicho or Shijimaya Honpo |
+| Autumn sake (hiyaoroshi) | ✅ | Fukumitsuya brewery tour |
+
+*Tabelog top picks within budget (scores checked Oct 14, 2026; 3.5 = good, 4.0+ = elite; dinner pp):*
+
+- ☐ **Komatsu Yasuke** — sushi, **4.29**, ¥10–15k. Highest-rated sushi in town, right by the station (near our hotel). Best value at the top tier; **top pick for Fri Nov 6 dinner, book now**
+- ☐ **Hamaguri Zaka Maekawa** — yakitori, **4.28**, ¥10–15k. Top 5 in Kanazawa, a break from seafood
+- ☐ **Tempura Koizumi** — tempura, **4.11**, ¥15–20k. Splurge
+- ☐ Tobi — sushi, 3.97, ¥15–20k. Cheaper alternative to Otome/Kibatani
+- ☐ Ryori Komatsu — kaiseki, 3.97, ¥15–20k
+- ☐ **Kanazawa Hirayama** — Japanese, 3.87, ¥8–10k. High score for the price
+- ☐ **Oryori Kifune** — Japanese, 3.83, ¥8–10k dinner / **¥3–4k lunch** (value kaiseki lunch, Kaga vegetables + jibu-ni)
+- ☐ Sushi-ya Kozakura — sushi, 3.81, ¥20–30k, near the station
+- ☐ Kabuna — creative seafood izakaya, 3.75, ¥6–8k. Good group dinner
+- ☐ 333 — yakitori, 3.74, ¥6–8k, near the station
+- ☐ Kanazawa Sushi Yojiro — sushi, 3.77, ¥4–5k lunch
+- ☐ Teuchi Soba Koyori — handmade soba, 3.76, ¥2–3k lunch
+- ☐ Menya Taiga — ramen/tsukemen, 3.73, ~¥1.5k, near the hotel
+- ☐ Amanatto Kawamura — traditional sweets, 3.73, under ¥1k
+- Over budget: Kataori (4.70) and Kisanuki (4.57), both ¥40–50k
+
+*Traveler favorites (repeat picks across guides/forums; Reddit not checked — it blocks fetching):*
+
+- ☐ **Morimori Sushi** (Omicho + near station) — conveyor-belt, sets from ~¥1,100. Get nodoguro, Hokuriku shrimp, kobako gunkan (from Nov 7). Go before noon or after 2 PM
+- ☐ **Itaru** (Katamachi) — seafood izakaya, bucket sashimi platter, nodoguro salt-grilled or simmered. Fits the Katamachi dinner
+- ☐ Fuwari — charcoal-grill izakaya in an old house, 3 min from Omicho, known for horse-mackerel pressed sushi
+- ☐ **Kuroyuri** — oden since 1955, near the station
+- ☐ Akadama Honten (Katamachi) — oden, long-running broth
+- ☐ Miyuki — oden since 1967
+- ☐ Ippukuya (Omicho) — cheap oden, a meal under ¥1,000
+- ☐ Aenokoto — nodoguro rice bowls, popular with locals
+- ☐ Kagaya — for jibu-ni
+- ☐ Maimon Sushi (Kanazawa Station) — pre-Shinkansen meal on Nov 7
+
+*Skip:* gold-leaf soft serve is mostly for tourists. Lean toward Amanatto Kawamura or Higashi Chaya teahouse sweets instead.
+
+Sources: [Kanazawa tourism — crab season and where to buy](https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html) · [Ishikawa crab season 2026](https://mande-ishikawa.com/ishikawa-kani-kaikin-2026/) · [First auction Nov 7, 3 AM (sato-umi)](https://sato-umi.com/kanougani-koubakogani-kaikin-2026/) · [Hoshino Resorts — 5 crab restaurants in Kanazawa](https://en.hoshinoresorts.com/guide/area/chubu/ishikawa/kanazawa/kani/) · [Visit Kanazawa — autumn guide](https://visitkanazawa.jp/en/kanazawa-101/detail_71.html) · [Daimyojaya (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/18440/) · [Tabelog — Kanazawa by score](https://tabelog.com/en/ishikawa/A1701/rstLst/?SrtT=rt) · [Visit Kanazawa — cuisine](https://visitkanazawa.jp/en/kanazawa-101/detail_248.html) · [Visit Kanazawa — Kaga vegetables](https://visitkanazawa.jp/en/trip-ideas/detail_514.html) · [Fun Japan — Kanazawa seafood](https://www.fun-japan.jp/en/articles/13845) · [Tabimania — seasonal food guide](https://tabimaniajapan.com/culture/food-culture/kanazawa-food-guide-7-must-eat-delicacies-and-the-best-time-to-visit) · [Umami Info — kaburazushi](https://www.umamiinfo.com/japaneseumami2/localcuisine/category-03/ishikawa/kaburazushi.html) · [Centrip — 6 must-eats](https://centrip-japan.com/article/1121.html) · [Maddy's Avenue — 18 restaurants](https://maddysavenue.com/where-to-eat-in-kanazawa-japan/) · [Magical Trip — Miyuki oden](https://www.magical-trip.com/media/ultimate-guide-to-miyuki-kanazawa-historic-oden-restaurant-since-1967-best-menu-access-info/) · [Hotel Kanazawa autumn tea](https://haveagood-holiday.com/en/articles/hotel-kanazawa-autumn-afternoon-tea-konku)
 
 ### Festivals/Events during our dates (Nov 4–7)
 
@@ -373,13 +444,22 @@ Sources: [Kanazawa tourism — autumn events 2026](https://www.kanazawa-kankouky
 *Only Nov 5–6 are full days, and Nov 5 is Dan solo until Jeff and Adam arrive. So a half-day trip on Nov 5 fits best.*
 
 - ☐ **Gokayama (Ainokura)** — the quieter UNESCO gassho-zukuri village, a good substitute since we skipped Shirakawa-go. Hokuriku Shinkansen to Shin-Takaoka (~13 min), then the World Heritage Bus (~1 hr). Buses are infrequent, so check the timetable both ways. A day bus tour from Kanazawa Station also covers Gokayama + Shirakawa-go (8:00 AM–3:45 PM)
-- ☐ **Kaga Onsen** — four hot-spring towns ~40 min south by train; Yamanaka Onsen has the Kakusenkei gorge walk (foliage around early-mid Nov) and Yamashiro has a classic public bath (soyu). CAN Bus loop ¥820/day. Easy half day, and a good "soak after a lot of walking" option
+- ☐ **Kaga Onsen** — hot-spring towns south of Kanazawa: ~20 min by Hokuriku Shinkansen to Kaga Onsen Station (~40 min on the IR Ishikawa local). The **CAN Bus** loops from the station (Mountain route: Natadera, Yamashiro, Yamanaka; Sea route: Katayamazu and the coast). **1-day pass price unclear**: the official sheet says ¥1,000, our Nov 5 notes say ¥1,100, so check at the station. Buses are infrequent, so plan around the timetable. **Planned for Thu Nov 5** (see [days/2026-11-05.md](./days/2026-11-05.md)). Public baths are nude, and the one private day-use bath (Ohanami Kyubei, Yamanaka) is closed Thursdays
+  - ☐ **Natadera Temple** — halls built into rock cliffs, caves, a pagoda and a garden known for autumn color (early-mid color in early Nov)
+  - ☐ **Yamashiro Onsen** — bathhouse square, **Rosanjin's Iroha Soan** (cottage where the potter-chef Rosanjin lived), **Kutani pottery** shops (Yamashiro is Kutani ware's hometown)
+    - ☐ **Kosoyu** — reconstructed Meiji-era public bathhouse on the square. Worth seeing from outside (bathing is nude)
+    - ☐ **Kutani Porcelain Art Museum** — history of Kutani ware, if the pottery shops hook you
+  - ☐ **Yamanaka Onsen** — **Kakusenkei Gorge** walk along the Daishoji River (foliage early-mid Nov), from Kurotani Bridge to the cypress **Korogi Bridge**. Then **Yuge Kaido**, the main street, for Yamanaka lacquerware shops and snacks
+    - ☐ **Ayatori Bridge** — red-purple S-shaped bridge on the same gorge walk; make sure the walk reaches it
+    - ☐ **Woodturning workshop** (e.g. Mokume) — make your own bowl in the Yamanaka lacquerware tradition
+  - ☐ **Yunokuni no Mori** — traditional crafts village with gold-leaf, pottery and lacquer workshops. Entry ~¥550, workshops extra (unconfirmed)
+  - ☐ **Katayamazu Onsen** (Sea route, opposite direction) — houseboat cruises on Lake Shibayamagata and a glass-walled lakeside bathhouse with a café. A separate outing, not an add-on to the Mountain route
 - ☐ **Eiheiji + Tojinbo (Fukui)** — Eiheiji is a working Zen training temple (founded 1244), 70+ buildings up a cedar-forest hillside; Tojinbo is dramatic basalt sea cliffs. Shinkansen to Fukui ~25 min, then bus. Full day if doing both
 - ☐ **Fukui Prefectural Dinosaur Museum (Katsuyama)** — one of the world's big dinosaur museums. Fukui + local train/bus. Full day, pairs with Eiheiji
 - ☐ **Takaoka** — on the way to Gokayama: Zuiryuji (National Treasure Zen temple), the Takaoka Great Buddha, and the Amaharashi coast with views of the Tateyama range across the bay on a clear day
 - ☐ **Noto Peninsula (Wajima)** — still rebuilding after the 2024 earthquake. The Wajima morning market reopened at a temporary site (Wai Wai Plaza, 8 AM–noon, closed 2nd/4th Wed). ~2–2.5 hrs each way, so it's really an overnight trip; not realistic for us this time
 
-Sources: [Kanazawa day trips (Japan Activity)](https://japanactivity.com/day-trips-from-kanazawa) · [Kaga Onsen day trip](https://kshouse.jp/articles/en/kanazawa-kaga-onsen/) · [Fukui day trip](https://www.kanazawastation.com/day-trip-from-kanazawa-to-fukui/) · [Gokayama access (Magical Trip)](https://www.magical-trip.com/media/kanazawa-to-gokayama-complete-guide-with-local-experiences-hidden-unesco-gems/) · [Visit Kanazawa — Gokayama/Shirakawa-go tour](https://visitkanazawa.jp/en/activities/detail_285.html) · [Noto recovery (TTG Asia, Jul 2026)](https://www.ttgasia.com/2026/07/28/noto-peninsula-tourism-rebuild-gathers-pace/) · [Wajima morning market (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/12712/) · [Kanazawa hidden spots (Hoshino Resorts)](https://en.hoshinoresorts.com/guide/area/chubu/ishikawa/kanazawa-kakurespot/)
+Sources: [Kanazawa day trips (Japan Activity)](https://japanactivity.com/day-trips-from-kanazawa) · [Kaga Onsen day trip](https://kshouse.jp/articles/en/kanazawa-kaga-onsen/) · [Fun Japan — Kaga's hot springs](https://www.fun-japan.jp/en/articles/10372) · [Visit Kaga — hot springs (PDF)](https://visitkaga.jp/files/download/en/hotspring.pdf) · [Kaga travel guide 2025 (PDF)](https://visitkaga.jp/files/download/en/kaga-travel-guide-2025.pdf) · [Taiken — Yamanaka Onsen](https://taiken.co/single/yamanaka-onsen-a-hidden-treasure-in-the-mountainside-of-ishikawa/) · [Fukui day trip](https://www.kanazawastation.com/day-trip-from-kanazawa-to-fukui/) · [Gokayama access (Magical Trip)](https://www.magical-trip.com/media/kanazawa-to-gokayama-complete-guide-with-local-experiences-hidden-unesco-gems/) · [Visit Kanazawa — Gokayama/Shirakawa-go tour](https://visitkanazawa.jp/en/activities/detail_285.html) · [Noto recovery (TTG Asia, Jul 2026)](https://www.ttgasia.com/2026/07/28/noto-peninsula-tourism-rebuild-gathers-pace/) · [Wajima morning market (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/12712/) · [Kanazawa hidden spots (Hoshino Resorts)](https://en.hoshinoresorts.com/guide/area/chubu/ishikawa/kanazawa-kakurespot/)
 
 ## Michelin-Star Restaurants
 
