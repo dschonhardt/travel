@@ -120,6 +120,30 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 
 **Sources:** [Tokyo Yokocho Guide 2026](https://nightlifetokyo.com/en/tokyo/guides/tokyo-yokocho-alleyway-bars) · [The Ondo: 9 best alley districts](https://theondo.net/tokyo-yokocho-guide-7-alleys/) · [GO TOKYO yokocho guide](https://www.gotokyo.org/en/story/guide/drink-and-dine-like-a-local-a-guide-to-exploring-yokocho-alleyways/index.html) · [Hotel Tavinos yokocho guide](https://hoteltavinos.com/en/blog/hamamatsucho-tokyo-yokocho/)
 
+### More finds for the open end-block days (Nov 7–11)
+
+*Added Oct 16, 2026. Not already in this file, and each one matches a past favorite. Hours for the bars and sento come from listing sites, not the venues, so check before going.*
+
+- ☐ **Tori-no-Ichi fair, Ootori Shrine + Chokokuji (Senzoku, north of Asakusa)**: **if you liked Asakusa at night.** Old-Tokyo "rooster day" fair, ~100 stalls selling **kumade** (decorated bamboo good-luck rakes) and ~800 food stalls. Runs midnight to midnight on **Sat Nov 7** and Thu Nov 19, 2026 (no third rooster day this year). Free. **Fits the evening of Nov 7, after check-in.** Full notes in [Festivals/Events](#festivalsevents-during-our-dates-oct-2730--nov-911)
+- ☐ **Beer Club Popeye, Ryogoku** (2-18-7 Ryogoku, 1–2 min from JR Ryogoku): **if you liked Hitachino Brewing Lab.** One of Tokyo's original craft beer bars, with 70–100 taps (mostly Japanese) and some house beer brewed nearby. Happy hour 5–8 PM. **Closed Sundays.** Sources disagree on Mondays. Roughly Mon–Fri 5 PM–midnight, Sat from 3 PM. Busy, so reserve (03-3633-2120)
+- ☐ **Daikokuyu sento** (3-12-14 Yokokawa, Sumida, between Kinshicho and Oshiage): **if you liked the Kosugi-yu idea.** Tattoo-friendly neighborhood bath, ~¥550. Open into the next morning (to ~10 AM): Mon and Wed–Fri from 3 PM, Sat from 2 PM, Sun from 1 PM. **Closed Tuesdays.** Best after the Tsukuba hike on Mon Nov 9, or Sun Nov 8
+- ☐ **Tsukiji Outer Market** (Oedo Line to Tsukijishijo, ~15 min): **if you liked gyudon breakfasts and counter food.** Grazing breakfast: tamagoyaki, seafood skewers, donburi. Go 7–11 AM, since most shops wind down by ~2 PM. **Closed Sundays and some Wednesdays**, so Tue Nov 10 is the day, not Nov 8 or 11
+- ☐ **Akihabara Hokoten**: Chuo-dori closes to cars on Sundays, **1–5 PM Oct–Mar**, from Manseibashi to Sotokanda 5-chome. Cancelled in bad weather. Fits **Sun Nov 8** for a busier, more fun Akihabara
+- ☐ **Akabane senbero bars** (JR Saikyo/Utsunomiya Line, ~30 min): **if you liked Hoppy Street.** "Senbero" means getting drunk on ¥1,000. Standing bars that open from noon:
+  - ☐ **Tachinomi Ikoi** (main store, ~3 min from the station): old-school and full of regulars, busy even at weekday lunch. Beer ~¥390, motsuni (offal stew) ~¥110
+  - ☐ **Maruken Suisan**: oden shop with a standing counter. Listed as 10 AM–9 PM, closed the 3rd Wed of the month (listing may be out of date)
+  - ☐ **Sakura Shoten 603**: 24-hour standing bar ~1 min from the station, with a ¥100 menu
+- ☐ **Kita-Senju** (Hibiya Line, ~25 min): **if you liked Omoide Yokocho.** **Nomiya Yokocho** is a Showa-era drinking alley that hasn't been swamped by tourists, plus **Beer-Ma**, a standing bar for bottled craft beer (hours not checked)
+- ☐ **Sangenjaya: Sankaku Chitai** (Tokyu Den-en-toshi Line, ~45 min, farthest on this list): **if you liked Golden Gai.** Postwar black-market triangle of tiny bars and yakitori, mostly a younger local crowd and few tourists. **Yakushu Bar** is a 6-seat herbal-spirits counter behind a small door with a green light. Only worth it if you're on the west side anyway
+
+**Day fit:**
+- **Sat Nov 7:** chanko in Ryogoku, then Tori-no-Ichi
+- **Sun Nov 8:** Akihabara Hokoten in the afternoon, Daikokuyu in the evening. Popeye and Yamariki are closed
+- **Mon Nov 9:** Daikokuyu after Tsukuba. Popeye only if it turns out to be open Mondays
+- **Tue Nov 10:** Tsukiji breakfast, then senbero in Akabane in the afternoon or Popeye in the evening. Daikokuyu is closed
+
+**Sources:** [Tori-no-Ichi 2026 (Real Japan Guide)](https://real-japan-guide.com/?p=2698) · [Tori-no-Ichi 2026 (Self Guide Japan)](https://selfguidejapan.com/blog/tori-no-ichi-2026) · [Popeye (Time Out)](https://www.timeout.com/tokyo/bars-and-pubs/popeye) · [Popeye (GLT Japan)](https://www.gltjp.com/en/directory/item/10027/) · [Popeye (Beer Girl)](https://beergirl.net/en-tokyo-beerbar_c/) · [Daikoku-yu (Time Out)](https://www.timeout.com/tokyo/things-to-do/daikoku-yu) · [Tsukiji Outer Market (GO TOKYO)](https://www.gotokyo.org/en/spot/65/index.html) · [Tsukiji (Kanpai)](https://www.kanpai-japan.com/tokyo/tsukiji-outer-market) · [Akihabara Hokoten (GO TOKYO)](https://www.gotokyo.org/en/spot/55/index.html) · [Akabane standing bars (Have a Good Holiday)](https://haveagood-holiday.com/en/articles/219655) · [Maruken Suisan (Time Out)](https://www.timeout.com/tokyo/bars-and-pubs/maruken-suisan) · [Kita-Senju guide (Tokyo Weekender)](https://www.tokyoweekender.com/2020/08/kita-senju-area-guide-culture-cuisine-and-skateboarding/) · [Sankaku Chitai (Time Out)](https://www.timeout.com/tokyo/restaurants/sankaku-chitai) · [Yakushu Bar (Time Out)](https://www.timeout.com/tokyo/bars-and-pubs/yakushu-bar-sangenjaya)
+
 ### Food
 
 ### Festivals/Events during our dates (Oct 27–30 & Nov 9–11)
@@ -128,6 +152,14 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 
 - ☐ Tokyo International Film Festival — Oct 26–Nov 4, 2026, screenings and public events around Hibiya/Ginza/Yurakucho/Marunouchi. Overlaps our whole first Tokyo block
 - ☐ Komazawa Olympic Park Ramen Festival (Tokyo Ramen Festa) — **Oct 30–Nov 3, 2026** (rechecked Oct 1; earlier note said Oct 22), 11:00 AM–8:00 PM, ¥1,100 a bowl, last year at Komazawa. Planned for Fri Oct 30 lunch (Kamakura moved to Thu Oct 29 to make room)
+- ☐ **Tori-no-Ichi (rooster-day fair), Ootori Shrine + Chokokuji, Senzoku** — **Sat Nov 7, 2026** (also Nov 19, after we leave). *Added Oct 16; dates from guides that say they match the official sites, but one listing still says "not confirmed," so recheck at torinoichi.jp the week before.*
+  - **What it is:** an Edo-era merchants' fair for luck and business success, held on the "rooster days" of November. Stalls sell **kumade**, bamboo rakes loaded with masks, coins and gold that "rake in" fortune. When someone buys one, the stall crew does a loud rhythmic hand-clap (**tejime**) to seal the deal. Fun to watch, and you don't need to buy or join in
+  - **Scale:** ~100 kumade stalls and ~800 food stalls (yakisoba, takoyaki, yakitori, grilled squid, chocolate bananas, hot sake in paper cups). Lanterns lighting up the rakes after dark is the big draw
+  - **Hours:** runs nonstop for 24 hours from midnight, opening with a taiko drum. Some stalls near Chokokuji open ~7 PM the night before and keep going to ~2 AM after. Free, no booking
+  - **Crowds:** peak is ~7–11 PM. 3–5 PM is calmer but less atmospheric. It's on a Saturday, so expect it to be packed in the evening. Allow 1.5–2 hrs plus queue time to reach the shrine
+  - **Getting there from Ryogoku (~25–30 min):** JR Sobu Line to Akihabara, then the Hibiya Line to **Iriya, Exit 3** (~7 min walk). TX Asakusa Station is ~8 min away. Asakusa Line/Ginza Line Asakusa is a 20+ min walk. Traffic restrictions, so no taxis to the door
+  - **Tips:** bring cash (small rakes are ~¥1,000–3,000; big business rakes run ¥30,000+). Travel light, since the lanes get packed. It goes ahead in rain unless there's a safety risk
+  - **Smaller alternative:** **Hanazono Shrine** in Shinjuku holds its own Tori-no-Ichi the same days, with an eve fair on Nov 6. It's easier for first-timers and pairs with Golden Gai, but it's farther from Ryogoku
 
 ### Day Trips
 
