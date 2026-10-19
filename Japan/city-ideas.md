@@ -19,6 +19,8 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 - ☐ Ramen
   - ☐ Kyushu Jangara Ramen
   - ☐ Yuzu ramen shop in Kanda
+- ☐ Udon
+  - ☐ **Mensho Kamayoshi**: Adam and Jeff swear by the **beef curry udon**. Location and hours not found online yet, so get the branch/address from them
 - ☐ Gyudon Breakfast
   - ☐ Matsuya
   - ☐ Yoshinoya
