@@ -377,7 +377,7 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 
 *In Teramachi / Nomachi (pairs with Myoryuji):*
 
-- ☐ **Hoshoji** (Zen, 1631) — original Edo gate and halls, plus a **temple café** serving matcha with gold leaf and Kanazawa sweets (10:00–16:00, closed Tue). A good break during the Teramachi walk
+- ☐ **Hoshoji** (Zen, 1631) — original Edo gate and halls, plus a **temple café** serving matcha with gold leaf and Kanazawa sweets (10:00–16:00, **last order 15:00**, closed Tue). Doesn't fit after the 2:30 Myoryuji tour
 - ☐ Kourinji (Zen, 1651) — "wish temple" with a twelve-zodiac garden and Daruma wish balls. Steps from Myoryuji
 - ☐ Houenji (1581) — Maeda family temple holding Toshiie's hair and self-portrait, with 4.5 m Nio guardian statues
 
@@ -389,7 +389,7 @@ Sources: [Magical Trip — 10 best Kanazawa shrines & temples](https://www.magic
 
 ### Food
 
-**Crab season — important timing.** Ishikawa's crab season opens at **midnight Nov 6**, but the boats land the catch overnight and the **first auction is ~3 AM Nov 7**. Kanazawa's tourism board says local crab hits Omicho and shops **from Nov 7**, which is our travel day out. So:
+**Crab season — important timing.** Ishikawa's crab season opens **Nov 6** (boats go out at midnight), and the **first auction is ~7:30 PM Nov 6** (the "Kani-1 Grand Prix" at the Kanazawa market, per 2025). Rough weather can push the opening back (2023's slipped to Nov 9). Kanazawa's tourism board says local crab hits Omicho and shops **from Nov 7**, which is our travel day out. So:
 - **Nov 4–6 (before local crab):** go to places that serve crab year-round (imported or tank-held live crab) or red snow crab (beni-zuwai), which is in season earlier
 - **Sat Nov 7 (opening day for local crab):** do a **crab lunch at Omicho** before an afternoon Shinkansen. This is the one shot at fresh **kobako gani** (female crab with roe, only in season to Dec 29) and blue-tagged **kano gani** (male)
 
@@ -431,7 +431,7 @@ Sources: [Magical Trip — 10 best Kanazawa shrines & temples](https://www.magic
 | Jibu-ni | ✅ Year-round, best when cold | Kagaya, kaiseki courses |
 | Buri (yellowtail) | 🔸 Early, fattest Dec–Feb | Fine as sushi, don't plan around it |
 | Kabura-zushi (yellowtail fermented between turnip) | 🔸 Mostly winter/New Year; made from Nov, hit or miss | Ask at Omicho or Shijimaya Honpo |
-| Autumn sake (hiyaoroshi) | ✅ | Ask for it in the Fukumitsuya Higashi flight (Sat Nov 7) |
+| Autumn sake (hiyaoroshi) | ✅ | Order it at a sake bar in the evenings; no sake flight is planned |
 
 *Tabelog top picks within budget (scores checked Oct 14, 2026; 3.5 = good, 4.0+ = elite; dinner pp):*
 
@@ -476,20 +476,20 @@ Sources: [Kanazawa tourism — crab season and where to buy](https://www.kanazaw
 
 - ☐ **Oriental Brewing Higashiyama** (3-2-22 Higashiyama, by the Asanogawa Bridge, 1 min from Higashi Chaya). Kanazawa's best-known craft brewery (founded 2016, a gold medal and category champion at IBC 2017). The taproom is in an old ice merchant's office, with the brewhouse behind the bar. ~8 taps, plus Kanazawa-style pizza. 11:00 AM–10:00 PM (last drink order 9:30), open daily. **Best stop: it pairs with Higashi Chaya (Sat Nov 7 morning) or a Kazuemachi evening**
 - ☐ **Oriental Brewing Kanazawa Station** (inside the station, 2F) and **Bistro Oriental** (Cross Gate Kanazawa, 2F, near the station). Good for a pint before the Shinkansen on Nov 7, and they sell bottles to take away
-- ☐ **Taproom BREW CLASSIC** (1-3-3 Katamachi). Award-winning brewery (the brewery itself, near Kanazawa Port, is closed to visitors); farmhouse-style ales get the most praise. 6 taps, cans to go. **Short hours:** Wed–Fri 11 AM–3 PM, Sat/Sun/holidays 1–9 PM, closed Mon–Tue. Only a lunch-time pint on Fri Nov 6 fits our dates
+- ☐ **Taproom BREW CLASSIC** (1-3-3 Katamachi). Award-winning brewery (the brewery itself, near Kanazawa Port, is closed to visitors); farmhouse-style ales get the most praise. 6 taps, cans to go. **Hours:** Wed–Sun 1–9 PM, closed Mon–Tue. Open into the evening, so it fits any of our Kanazawa days (Wed Nov 4 to Sat Nov 7)
 
 **Craft beer bars:**
 
 - ☐ **Craft Beer Bar Sink** (Nomachi, 2 min from Nishi Chaya). Opened 2025, 7 counter seats, ~50 beers from around Japan. From 1 PM. **Right on the Fri Nov 6 route after Myoryuji**
 - ☐ **Craft Beer Dive Futa's** (near the 21st Century Museum, just off Korinbo). 8 rotating taps from Japan and abroad, served in Kutani pottery made by the owner's father. Good bar snacks (empanadas, open gyoza). A favorite with locals
-- ☐ **Korinbo Jibiruba** (Korinbo, near Katamachi). One of Kanazawa's first craft beer bars (2013): wood walls covered in beer stickers, kegs for furniture, ever-changing taps, fish and chips. Large pours are pricey (~¥1,700)
+- ☐ **Korinbo Jibiruba** (Korinbo, near Katamachi). One of Kanazawa's first craft beer bars (2013): wood walls covered in beer stickers, kegs for furniture, ever-changing taps, fish and chips. Large pours are pricey (~¥1,700). **Weekdays 6 PM–midnight, Sat/Sun/holidays from 3 PM, closed Mondays, cash only**
 - ☐ **Craft Beer Mugibatake** (quieter side of Korinbo). 6 taps, all Japanese craft beer, no table charge
 - ☐ **TRI STAR Beer Restaurant**. ~15 taps, a full meal menu
 - ☐ **CHE** (just off Shin-Tatemachi street). Tiny, mostly Belgian imports, vintage décor. Pricey
 
 **Where they're in the plan:**
 
-- **Wed Nov 4 (Dan solo):** BREW CLASSIC ~2 PM (optional; only open Wed–Fri 11–3), Korinbo Jibiruba before dinner
+- **Wed Nov 4 (Dan solo):** BREW CLASSIC ~2 PM (optional; Wed–Sun 1–9 PM), Korinbo Jibiruba after dinner (opens 6 PM weekdays)
 - **Thu Nov 5:** Futa's after dinner (Mugibatake as backup)
 - **Fri Nov 6:** Sink after Nishi Chaya; TRI STAR or CHE after dinner
 - **Sat Nov 7:** Oriental Brewing Kanazawa Station before the train. (Higashiyama taproom skipped: it opens at 11:00, and the crab lunch comes first)
