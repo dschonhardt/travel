@@ -342,23 +342,23 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 ### Sites/Things to do
 
 - ☐ Kenrokuen Garden — one of Japan's "three great gardens," best early morning for light/crowds. Yukitsuri (rope-work bracing the pine branches for snow) goes up starting ~Nov 1 each year, so it should already be in place for our Nov 6–7 visit
-- ☐ Higashi Chaya District — geisha teahouse district, tea houses, gold-leaf shops
-- ☐ 21st Century Museum of Contemporary Art — right next to Kenrokuen, includes the famous Swimming Pool installation
-- ☐ Nagamachi Samurai District — preserved samurai residences, earthen walls
 - ☐ Kanazawa Castle Park — adjacent to Kenrokuen, free to walk grounds
-- ☐ Ishiura Shrine (石浦神社) — small shrine with a tunnel of red torii gates, like a mini Fushimi Inari. Right by the 21st Century Museum and Kenrokuen, so it's an easy add to that walk
-
-**More ideas (added Oct 11, 2026):**
-
-- ☐ Myoryuji "Ninja Temple" — Maeda-clan temple full of trick doors, hidden stairs and escape routes. Guided tour only (~40 min, mostly in Japanese with an English handout). **Reservation required, book at least a day ahead.** In Teramachi, south of the Sai River. *Confirmed Oct 14, 2026:* Ishikawa's official tourism site says "Advance reservations are required." **Booking is by phone only** (076-241-0888 per Japan Activity, unverified; up to 3 months ahead, no online booking). Tours roughly every 30 min, 9:00–16:00, ¥1,200 adults, irregular closing days. Walk-ins are rarely accepted, so don't count on one
-- ☐ Nishi Chaya + Teramachi — the smaller, quieter geisha district, and right next to it Teramachi, ~70 temples in a few blocks. Pairs with Myoryuji
+- ☐ Higashi Chaya District — geisha teahouse district, tea houses, gold-leaf shops
 - ☐ Kazuemachi — the third and quietest geisha district, along the Asano River across from Higashi Chaya. Best at dusk when the lanterns come on; easy add to a Higashi Chaya visit
-- ☐ Nomura Samurai House (Nagamachi) — the one samurai residence worth paying to enter; its small garden is rated among Japan's best
+- ☐ Nishi Chaya + Teramachi — the smaller, quieter geisha district, and right next to it Teramachi, ~70 temples in a few blocks. Pairs with Myoryuji
+- ☐ Myoryuji "Ninja Temple" — Maeda-clan temple full of trick doors, hidden stairs and escape routes. Guided tour only (~40 min, mostly in Japanese with an English handout). **Reservation required, book at least a day ahead.** In Teramachi, south of the Sai River. **Booking is by phone only** (+81-76-241-0888, English OK; no online or email booking). Ways to book without a phone in Japan are in the [Nov 6 TODO](./days/2026-11-06.md). Tours roughly every 30 min, 9:00–16:00, ¥1,200 adults, irregular closing days. Walk-ins only if there's space
+- ☐ Nagamachi Samurai District — preserved samurai residences, earthen walls
+- ☐ Nomura Samurai House (Nagamachi) — the one samurai residence worth paying to enter; its small garden is rated among Japan's best. Last entry 4:00 PM Oct–Mar
+- ☐ Ishiura Shrine (石浦神社) — small shrine with a tunnel of red torii gates, like a mini Fushimi Inari. Right next to Kenrokuen, so it's an easy add to that walk
 - ☐ Oyama Shrine — shrine to Maeda Toshiie with an odd stained-glass gate mixing Dutch, Chinese and Japanese styles. Between Omicho and Nagamachi
-- ☐ D.T. Suzuki Museum — minimalist Zen museum with a reflecting "water mirror" courtyard. Small and calm, ~45 min. Near the 21st Century Museum
-- ☐ Fukumitsuya Sake Brewery — Kanazawa's oldest brewery (1625). English-guided tour with 4 tastings, ~1 hr, **Oct–April, reservation required**
-- ☐ Make-your-own gold-leaf item or ring — several Higashi Chaya studios do short workshops (gold-leaf chopsticks/boxes are the classic)
-- ☐ Kanazawa Phonograph Museum — small museum of antique gramophones with live listening demos. Near Higashi Chaya
+- ☐ Fukumitsuya Sake Brewery — Kanazawa's oldest brewery (1625), junmai only. Guided Brewery Course (90 min, ¥3,300, bilingual guide) runs **Mon/Fri/Sat at 3:00 PM, Nov–Mar**; book at [reserva.be/fukumitsuya](https://reserva.be/fukumitsuya). The Premium Sake Tasting is also ¥3,300 (45 min, 11:00 daily). **Cheaper pick: Fukumitsuya Higashi** (1-14-9 Higashiyama, in Higashi Chaya), their shop with a drinking counter. Order a flight (~¥1,500 for 3 per an old review), no booking. Planned for Fri Nov 6
+- ☐ Make-your-own gold-leaf item — ~1 hr, from ~¥1,000–2,000. **Kinpakuya Sakuda** (chopsticks, plates, mirrors, boxes, or your own design), **HAKUICHI** (boxes, mirrors, plum plates; walk-ins if space) — both in Higashi Chaya — or **Kanazawa Katani** (between Omicho and Higashi Chaya)
+
+**Probably skipping:**
+
+- 21st Century Museum of Contemporary Art — right next to Kenrokuen, includes the famous Swimming Pool installation
+- D.T. Suzuki Museum — minimalist Zen museum with a reflecting "water mirror" courtyard. Small and calm, ~45 min. Near the 21st Century Museum
+- Kanazawa Phonograph Museum — small museum of antique gramophones with live listening demos. Near Higashi Chaya
 
 **Shrines & temples (added Oct 14, 2026):** Ishiura, Oyama and Myoryuji are listed above. All the shrines below are free and open 24 hours (amulet counters ~9:00–17:00).
 
@@ -366,7 +366,7 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 
 - ☐ **Kanazawa Shrine** (金沢神社) — vermilion shrine on the edge of Kenrokuen, dedicated to Sugawara no Michizane (god of learning, ancestor of the Maeda clan). Next to the **Kinjo Reitaku** spring, where the name "Kanazawa" ("marsh of gold") supposedly comes from. Look up at the ceiling painting in the main hall. A 2-minute add-on to Kenrokuen
 - ☐ **Ozaki Shrine** (尾崎神社) — "Kanazawa's Nikko Toshogu," dedicated to Tokugawa Ieyasu. Built in 1643 on the castle grounds as one of the earliest Toshogu shrines, moved here in 1878. Ornate vermilion and gold carvings, **known for autumn leaves**. 3 min from Kanazawa Castle Park, and easy to combine with Oyama Shrine
-- Route idea: Kenrokuen → Kanazawa Shrine → castle → Ozaki Shrine → Oyama Shrine → Omicho lunch. Add Ishiura on the 21st Century Museum side
+- Route idea: Kenrokuen → Kanazawa Shrine → castle → Ozaki Shrine → Oyama Shrine → Omicho lunch. Add Ishiura on the Kenrokuen side
 
 *Near Higashi Chaya (Sat Nov 7 morning):*
 
@@ -456,11 +456,36 @@ Sources: [Magical Trip — 10 best Kanazawa shrines & temples](https://www.magic
 - ☐ Ippukuya (Omicho) — cheap oden, a meal under ¥1,000
 - ☐ Aenokoto — nodoguro rice bowls, popular with locals
 - ☐ Kagaya — for jibu-ni
-- ☐ Maimon Sushi (Kanazawa Station) — pre-Shinkansen meal on Nov 7
+- ☐ Maimon Sushi (Kanazawa Station) — conveyor-belt sushi in the station. Planned for Dan's late lunch on arrival, Nov 4
 
 *Skip:* gold-leaf soft serve is mostly for tourists. Lean toward Amanatto Kawamura or Higashi Chaya teahouse sweets instead.
 
 Sources: [Kanazawa tourism — crab season and where to buy](https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html) · [Ishikawa crab season 2026](https://mande-ishikawa.com/ishikawa-kani-kaikin-2026/) · [First auction Nov 7, 3 AM (sato-umi)](https://sato-umi.com/kanougani-koubakogani-kaikin-2026/) · [Hoshino Resorts — 5 crab restaurants in Kanazawa](https://en.hoshinoresorts.com/guide/area/chubu/ishikawa/kanazawa/kani/) · [Visit Kanazawa — autumn guide](https://visitkanazawa.jp/en/kanazawa-101/detail_71.html) · [Daimyojaya (GOOD LUCK TRIP)](https://www.gltjp.com/en/directory/item/18440/) · [Tabelog — Kanazawa by score](https://tabelog.com/en/ishikawa/A1701/rstLst/?SrtT=rt) · [Visit Kanazawa — cuisine](https://visitkanazawa.jp/en/kanazawa-101/detail_248.html) · [Visit Kanazawa — Kaga vegetables](https://visitkanazawa.jp/en/trip-ideas/detail_514.html) · [Fun Japan — Kanazawa seafood](https://www.fun-japan.jp/en/articles/13845) · [Tabimania — seasonal food guide](https://tabimaniajapan.com/culture/food-culture/kanazawa-food-guide-7-must-eat-delicacies-and-the-best-time-to-visit) · [Umami Info — kaburazushi](https://www.umamiinfo.com/japaneseumami2/localcuisine/category-03/ishikawa/kaburazushi.html) · [Centrip — 6 must-eats](https://centrip-japan.com/article/1121.html) · [Maddy's Avenue — 18 restaurants](https://maddysavenue.com/where-to-eat-in-kanazawa-japan/) · [Magical Trip — Miyuki oden](https://www.magical-trip.com/media/ultimate-guide-to-miyuki-kanazawa-historic-oden-restaurant-since-1967-best-menu-access-info/) · [Hotel Kanazawa autumn tea](https://haveagood-holiday.com/en/articles/hotel-kanazawa-autumn-afternoon-tea-konku)
+
+### Craft Beer
+
+*Added Oct 19, 2026. Hours are from 2025–2026 listings, so check before going. Small bars change hours often. The Oriental Brewing Korinbo taproom from older guides appears to be closed.*
+
+**Breweries with taprooms:**
+
+- ☐ **Oriental Brewing Higashiyama** (3-2-22 Higashiyama, by the Asanogawa Bridge, 1 min from Higashi Chaya). Kanazawa's best-known craft brewery (founded 2016, a gold medal and category champion at IBC 2017). The taproom is in an old ice merchant's office, with the brewhouse behind the bar. ~8 taps, plus Kanazawa-style pizza. 11:00 AM–10:00 PM (last drink order 9:30), open daily. **Best stop: it pairs with Higashi Chaya (Sat Nov 7 morning) or a Kazuemachi evening**
+- ☐ **Oriental Brewing Kanazawa Station** (inside the station, 2F) and **Bistro Oriental** (Cross Gate Kanazawa, 2F, near the station). Good for a pint before the Shinkansen on Nov 7, and they sell bottles to take away
+- ☐ **Taproom BREW CLASSIC** (1-3-3 Katamachi). Award-winning brewery (the brewery itself, near Kanazawa Port, is closed to visitors); farmhouse-style ales get the most praise. 6 taps, cans to go. **Short hours:** Wed–Fri 11 AM–3 PM, Sat/Sun/holidays 1–9 PM, closed Mon–Tue. Only a lunch-time pint on Fri Nov 6 fits our dates
+
+**Craft beer bars:**
+
+- ☐ **Craft Beer Bar Sink** (Nomachi, 2 min from Nishi Chaya). Opened 2025, 7 counter seats, ~50 beers from around Japan. From 1 PM. **Right on the Fri Nov 6 route after Myoryuji**
+- ☐ **Craft Beer Dive Futa's** (near the 21st Century Museum, just off Korinbo). 8 rotating taps from Japan and abroad, served in Kutani pottery made by the owner's father. Good bar snacks (empanadas, open gyoza). A favorite with locals
+- ☐ **Korinbo Jibiruba** (Korinbo, near Katamachi). One of Kanazawa's first craft beer bars (2013): wood walls covered in beer stickers, kegs for furniture, ever-changing taps, fish and chips. Large pours are pricey (~¥1,700)
+- ☐ **Craft Beer Mugibatake** (quieter side of Korinbo). 6 taps, all Japanese craft beer, no table charge
+- ☐ **TRI STAR Beer Restaurant**. ~15 taps, a full meal menu
+- ☐ **CHE** (just off Shin-Tatemachi street). Tiny, mostly Belgian imports, vintage décor. Pricey
+
+**Crawl idea (Fri Nov 6 evening):** Sink (after Teramachi) → Futa's or Jibiruba in Korinbo → jibu-ni dinner in Katamachi. All within ~15 min on foot.
+
+**To buy:** Kanazawa Brewery (Saigawa and Asanogawa, 11% ABV beers brewed with sake yeast) has no taproom; look for it in liquor shops. **HACHIBAN** is Kanazawa's craft gin (award-winning; the distillery is closed to visitors), sold in local shops.
+
+Sources: [Visit Kanazawa: craft beer and gin](https://visitkanazawa.jp/en/trip-ideas/detail_489.html) · [Japan Beer Times: Kanazawa (Jul 2026)](https://www.japanbeertimes.com/2026/07/kanazawa/) · [BrewHub: Kanazawa craft beer guide (2026)](https://brewhub.jp/beer/kanazawa-craft-beer-guide/) · [Oriental Brewing Higashiyama (Gurunavi)](https://r.gnavi.co.jp/8jtn3hzh0000/) · [Beer Tengoku: Oriental Brewing Higashiyama](https://beertengoku.com/?p=20821) · [Beer Tengoku: Korinbo Jibiruba](https://beertengoku.com/?p=20825) · [Beer Tengoku: Mugibatake](https://beertengoku.com/?p=20817) · [Beer Tengoku: Futa's](https://beertengoku.com/?p=20813) · [Japan Cheapo: Kanazawa craft beer bars](https://japancheapo.com/food-and-drink/kanazawa-craft-beer-bars/) · [Japan Rail Club: Kanazawa Brewery](https://www.japanrailclub.com/kanazawa-brewery-city-of-crafts/)
 
 ### Festivals/Events during our dates (Nov 4–7)
 
