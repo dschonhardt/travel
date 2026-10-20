@@ -421,11 +421,11 @@ Sources: [Magical Trip — 10 best Kanazawa shrines & temples](https://www.magic
 | Amaebi + gasu-ebi (sweet shrimp; gasu-ebi barely leaves Kanazawa) | ✅ Peak (Sep–Nov) | Any sushi counter, Omicho kaisendon |
 | Kobako gani / kano gani | ⚠️ Nov 7 only | Omicho crab stalls, Morimori kobako gunkan (see crab section above) |
 | Kaga vegetables (Kaga lotus root, Gorojima Kintoki sweet potato) | ✅ Autumn crop | Kaiseki menus (Ryori Komatsu, Kanazawa Hirayama, Oryori Kifune), Tempura Koizumi, Omicho snacks. Hotel Kanazawa autumn afternoon tea (through Nov 30) uses both |
-| Kanazawa oden | ✅ Season starting (winter peak); kani-men only once local crab is in | Akadama Honten, Kuroyuri, Miyuki, Ippukuya (Omicho) |
+| Kanazawa oden | ✅ Season starting (winter peak); kani-men only once local crab is in | Akadama Honten, Kuroyuri, Miyuki, Ippukuya (Omicho). Group is skipping it (Dan may try some at Ichinokura on Nov 4) |
 | Jibu-ni | ✅ Year-round, best when cold | Kagaya, kaiseki courses |
 | Buri (yellowtail) | 🔸 Early, fattest Dec–Feb | Fine as sushi, don't plan around it |
 | Kabura-zushi (yellowtail fermented between turnip) | 🔸 Mostly winter/New Year; made from Nov, hit or miss | Ask at Omicho or Shijimaya Honpo |
-| Autumn sake (hiyaoroshi) | ✅ | Fukumitsuya brewery tour |
+| Autumn sake (hiyaoroshi) | ✅ | Ask for it in the Fukumitsuya Higashi flight (Sat Nov 7) |
 
 *Tabelog top picks within budget (scores checked Oct 14, 2026; 3.5 = good, 4.0+ = elite; dinner pp):*
 
