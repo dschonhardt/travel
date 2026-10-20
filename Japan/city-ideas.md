@@ -481,7 +481,12 @@ Sources: [Kanazawa tourism — crab season and where to buy](https://www.kanazaw
 - ☐ **TRI STAR Beer Restaurant**. ~15 taps, a full meal menu
 - ☐ **CHE** (just off Shin-Tatemachi street). Tiny, mostly Belgian imports, vintage décor. Pricey
 
-**Crawl idea (Fri Nov 6 evening):** Sink (after Teramachi) → Futa's or Jibiruba in Korinbo → jibu-ni dinner in Katamachi. All within ~15 min on foot.
+**Where they're in the plan:**
+
+- **Wed Nov 4 (Dan solo):** BREW CLASSIC ~2 PM (optional; only open Wed–Fri 11–3), Korinbo Jibiruba before dinner
+- **Thu Nov 5:** Futa's after dinner (Mugibatake as backup)
+- **Fri Nov 6:** Sink after Nishi Chaya; TRI STAR or CHE after dinner
+- **Sat Nov 7:** Oriental Brewing Kanazawa Station before the train. (Higashiyama taproom skipped: it opens at 11:00, and the crab lunch comes first)
 
 **To buy:** Kanazawa Brewery (Saigawa and Asanogawa, 11% ABV beers brewed with sake yeast) has no taproom; look for it in liquor shops. **HACHIBAN** is Kanazawa's craft gin (award-winning; the distillery is closed to visitors), sold in local shops.
 
