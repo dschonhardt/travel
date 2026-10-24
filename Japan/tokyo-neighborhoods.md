@@ -4,7 +4,7 @@ Companion to [city-ideas.md](./city-ideas.md) and [2026-fall-itinerary.md](./202
 
 **🟢 Adam** = a spot on Adam's list (full notes under Adam's picks in [city-ideas.md](./city-ideas.md)). **📅** = only on during our dates.
 
-*Started Oct 23, 2026. Updated Oct 23 with research on events and closures for Nov 7–11. Each item says how far it was checked: **official** = the venue or organizer's own page, **listing** = a guide or listing site, **not checked** = from memory or an old source. Confirm hours before going.*
+*Started Oct 23, 2026. Updated Oct 23 with research on events and closures for Nov 7–11. Oct 24: added Funabashi + Makuhari (Chiba) for Adam's Sapporo pick. Each item says how far it was checked: **official** = the venue or organizer's own page, **listing** = a guide or listing site, **not checked** = from memory or an old source. Confirm hours before going.*
 
 **Left out because we've been:** Akihabara, Asakusa, Kanda, Shinjuku, Harajuku, Shibuya, Ikebukuro, Odaiba/Toyosu (teamLab), Suidobashi (Tokyo Dome), the Tokyo Tower area, and Oshiage (Skytree). **Not sure:** Ueno/Ameyoko, Ginza, Roppongi. Let me know if any of those are new and should go in.
 
@@ -57,16 +57,17 @@ Ranked against what's been a hit on past trips: **yokocho and standing bars** (O
 | 11 | [Kinshicho + Kameido](#kinshicho--kameido) | East | 1–2 stops | Gyoza, gritty izakaya, two great sento and a brewery, all next to the hotel | | 📅 chrysanthemums | Any evening |
 | 12 | [Nakameguro + Daikanyama](#nakameguro--daikanyama) | West | ~40 min | Hop Fest this weekend, Baird Beer taproom and a river walk | | 📅 Hop Fest Sat 7–Sun 8 | Sat Nov 7 or Sun Nov 8 |
 | 13 | [Yanaka / Nezu / Sendagi](#yanaka--nezu--sendagi-yanesen) | North | ~20 min | The quiet version of Asakusa's old Tokyo | | | Any |
-| 14 | [Shibamata](#shibamata) | North-east | ~35–40 min | Showa-era town with a retro arcade, Asakusa vibes, but a half day | | | Sun Nov 8 |
-| 15 | [Tsukishima](#tsukishima) | East | 4 stops | Monjayaki and a legendary beef nikomi izakaya | | | Any dinner except Sun |
-| 16 | [Kiyosumi-Shirakawa](#kiyosumi-shirakawa) | East | 2 stops | Coffee, a brewpub and a garden. An easy departure-day morning | | 📅 Art Week to Nov 8 | Wed Nov 11 |
-| 17 | [Takadanobaba](#takadanobaba) | North-west | ~35 min | Game Center Mikado, cheap yakitori and ramen | | 📅 Waseda-sai Sat 7–Sun 8 | Sun Nov 8 |
-| 18 | [Nogata](#nogata) | West (Chuo) | ~45 min | Mainly the ramen. Pair it with Koenji | 🟢 | | Tue Nov 10 |
-| 19 | [Jimbocho](#jimbocho) | Central | ~15 min | Curry lunch, a 1909 beer hall and used books. Mostly closed Sundays | | | Tue Nov 10 or Wed Nov 11 |
-| 20 | [Kuramae](#kuramae) | East | 1 stop | Workshops and chocolate, more shopping than eating and drinking | | | Wed Nov 11 |
-| 21 | [Ogikubo](#ogikubo) | West (Chuo) | ~45 min | Old-school ramen. The Akiyoshi branch Adam named isn't on the chain's list | | | Tue Nov 10 |
-| 22 | [Ningyocho](#ningyocho) | East | ~15 min | Short sweets stop and the oyakodon originator, an add-on to Kiyosumi | | | Wed Nov 11 |
-| 23 | [Togoshi Ginza](#togoshi-ginza) | South-west | ~45 min | Snack street plus a black-water hot-spring sento, but far | | | Sun Nov 8 morning |
+| 14 | [Funabashi + Makuhari (Chiba)](#funabashi--makuhari-chiba) | East (Chiba) | ~40–60 min | Adam's Sapporo pick: lamb and Black Label at the brewery's beer garden (no tours), bay sunset, Costco | 🟢 | | Mon Nov 9 or Tue Nov 10 evening |
+| 15 | [Shibamata](#shibamata) | North-east | ~35–40 min | Showa-era town with a retro arcade, Asakusa vibes, but a half day | | | Sun Nov 8 |
+| 16 | [Tsukishima](#tsukishima) | East | 4 stops | Monjayaki and a legendary beef nikomi izakaya | | | Any dinner except Sun |
+| 17 | [Kiyosumi-Shirakawa](#kiyosumi-shirakawa) | East | 2 stops | Coffee, a brewpub and a garden. An easy departure-day morning | | 📅 Art Week to Nov 8 | Wed Nov 11 |
+| 18 | [Takadanobaba](#takadanobaba) | North-west | ~35 min | Game Center Mikado, cheap yakitori and ramen | | 📅 Waseda-sai Sat 7–Sun 8 | Sun Nov 8 |
+| 19 | [Nogata](#nogata) | West (Chuo) | ~45 min | Mainly the ramen. Pair it with Koenji | 🟢 | | Tue Nov 10 |
+| 20 | [Jimbocho](#jimbocho) | Central | ~15 min | Curry lunch, a 1909 beer hall and used books. Mostly closed Sundays | | | Tue Nov 10 or Wed Nov 11 |
+| 21 | [Kuramae](#kuramae) | East | 1 stop | Workshops and chocolate, more shopping than eating and drinking | | | Wed Nov 11 |
+| 22 | [Ogikubo](#ogikubo) | West (Chuo) | ~45 min | Old-school ramen. The Akiyoshi branch Adam named isn't on the chain's list | | | Tue Nov 10 |
+| 23 | [Ningyocho](#ningyocho) | East | ~15 min | Short sweets stop and the oyakodon originator, an add-on to Kiyosumi | | | Wed Nov 11 |
+| 24 | [Togoshi Ginza](#togoshi-ginza) | South-west | ~45 min | Snack street plus a black-water hot-spring sento, but far | | | Sun Nov 8 morning |
 
 ---
 
@@ -93,7 +94,7 @@ JR Yamanote one stop from Shibuya. From Ryogoku, ~35–40 min on the Hibiya Line
 
 **On our dates:** 📅 **YEBISU Marché**, Sun Nov 8, 11:00–17:00 at Château Plaza ([official](https://gardenplace.jp/event/)). Weekday food trucks at Clock Plaza (Mon–Fri 11:30–14:30). The Christmas illumination starts Nov 14, after we leave.
 
-- ☐ **Yebisu Brewery Tokyo** 🟢 (Adam's "Sapporo Beer Factory") — museum and taproom at Yebisu Garden Place. Weekends 11:00–19:00 (last entry 18:30), weekdays 12:00–20:00, **closed Tuesdays**, cashless only, entry free. The "YEBISU the JOURNEY" tour (~45 min, 20 people, in Japanese) **must be booked online**. Altered hours Nov 18–21 don't affect us ([official](https://www.sapporobeer.jp/brewery/y_museum/))
+- ☐ **Yebisu Brewery Tokyo** — museum and taproom at Yebisu Garden Place. Weekends 11:00–19:00 (last entry 18:30), weekdays 12:00–20:00, **closed Tuesdays**, cashless only, entry free. The "YEBISU the JOURNEY" tour (~45 min, 20 people, in Japanese) **must be booked online**. Altered hours Nov 18–21 don't affect us ([official](https://www.sapporobeer.jp/brewery/y_museum/))
 - ☐ **Ebisu Yokocho** — ~20 izakaya stalls in one covered building. Most stalls open ~17:00 until 3–5 AM. Not confirmed open every day ([Japan Journeys](https://japanjourneys.jp/tokyo/ebisu/dining/ebisu-yokocho/))
 - ☐ **AFURI Ebisu** — the original shop of the yuzu-shio ramen chain. Daily 11:00–5:00 AM, until the soup runs out. **If you liked the yuzu ramen in Kanda** ([listing](https://www.gltjp.com/ja/directory/item/17221/))
 - ☐ **buri** — classic standing bar 3 min from the station, open late ([guide](https://www.correc.co.jp/matchlife/encounter/371608))
@@ -377,6 +378,39 @@ Keisei Line, ~35–40 min. Good half day. **If you liked Asakusa and retro arcad
 - ☐ **Shibamata Haikara Yokocho** — retro pinball, old candy and games, ~10:00–18:00 with irregular closures. **Toy museum upstairs is open Sat/Sun only** ([official](https://www.haikarayokotyo.com/))
 - ☐ **Tora-san Museum** — 9:00–17:00, closed 3rd Tuesday (Nov 17), so open on our dates
 - ☐ **Yagiri no Watashi** — tiny hand-rowed ferry across the Edo River. **Runs daily through November**, ~10:00–16:00, ¥300 ([Maruchiba](https://maruchiba.jp/spot/detail_10042.html))
+
+### Funabashi + Makuhari (Chiba)
+
+Over the Chiba line on Tokyo Bay. Sobu local from Ryogoku straight to **Tsudanuma** (~35–40 min), then the beer garden's free shuttle bus. **For Adam's "Sapporo Beer Factory"** ([his map pin](https://maps.app.goo.gl/jtcx5PQhByGmaA1D7)). An evening trip: dinner is the reason to go.
+
+**On our dates:** nothing found. Funabashi racecourse's night racing is Nov 2–6, before we're back in Tokyo ([official](https://www.f-keiba.com/)).
+
+- ☐ **Sapporo Beer Chiba Brewery** 🟢 — 2 Takasecho, Funabashi. **No factory tours**: Sapporo lists Chiba under "other factories (no factory tours)" ([official](https://www.sapporobeer.jp/brewery/))
+- ☐ **Sapporo Beer Chiba Beer Garden** 🟢 — the brewery's beer restaurant on the grounds, run by Ginza Lion, with a Tokyo Bay view. Mon–Thu 12:00–21:00, Fri 12:00–22:00, Sat 11:00–22:00, Sun 11:00–21:00 (Google Maps). Jingisukan Lamb Set (6 cuts), wagyu yakiniku and seafood hamayaki sets, 100-min all-you-can-drink with Black Label, and an all-you-can-eat jingisukan option. **Book online** (phones closed), 2-hr seating, 100% fee for same-day cancels. Free first-come shuttle (~50 seats) from JR Shin-Narashino (~10 min), Keisei Tsudanuma (~20 min) or JR Tsudanuma (~25 min); timetable not checked ([Tabelog](https://tabelog.com/en/chiba/A1202/A120201/12000122/))
+- ☐ **Funabashi Sanbanze Seaside Park** — tidal flats and a sandy beach for sunset over the bay with Tokyo's lights, and Mt. Fuji on clear days. 9:00–17:00 (Google Maps), free. Sunset is ~4:40 PM. Diamond Fuji is late October, so we miss it. Awkward to reach: Keisei bus from Keisei Funabashi to "Funabashi Kaihin Koen" (ride time not checked), with no easy link on to the beer garden. The beer garden has its own bay view, so skip this unless someone really wants the beach ([Funabashi City](https://www.city.funabashi.lg.jp/funabashistyle/en/003/p042829.html))
+- ☐ **Costco Makuhari** — 1-4 Toyosuna, Mihama-ku. 10:00–20:00 daily (Google Maps). Near JR Makuhari-Toyosuna on the Keiyo Line, one stop from Shin-Narashino (walk not checked). US membership card works. Japan-only snacks, sake and food court items
+- ☐ **AEON Mall Makuhari New City** — next to Costco at 1-1 Toyosuna. 10:00–21:00 daily (Google Maps). One of Japan's biggest malls (~350 shops, renovated 2023–24), split into Grand, Ekimae, Active and Pet malls. Mostly a big suburban mall, so it's a filler while others do Costco, not a reason to go. The more unusual bits: a **namco arcade**, the **Yoshimoto comedy theater** (Japanese-language manzai), the **Active Mall** (outdoor and sports brands, a climbing wall and a 3-on-3 court) and the **Pet Mall** (people bring dogs in strollers). Directly connected to Makuhari-Toyosuna station ([GLT Japan](https://www.gltjp.com/en/directory/item/11847/) · [att-japan](https://att-japan.net/en/aeon-makuhari_asm/))
+- ☐ **Nakayama Hokekyo-ji** — head temple of Nichiren Buddhism's Nakayama branch, 2-10-1 Nakayama, Ichikawa. 9:00–16:00 (Google Maps), free. Its Important Cultural Properties include the five-story pagoda, the soshi-do hall with its rare double-gabled roof, the Hokke-do and the four-legged gate. A bronze seated Buddha (Nakayama Daibutsu) sits on the grounds. Stone-paved approach from Keisei Nakayama (~5 min), or ~10 min from JR Shimousa-Nakayama on the Sobu local line (walk not checked). The antique market only runs during the April and November festivals, and the November date wasn't found ([tabi-mag](https://tabi-mag.jp/hokekyouji))
+- ☐ **Funabashi Beer Brewery (Nishi-Funabashi)** — brewpub 1 min from Nishi-Funabashi station, the transfer on the way home. Tue–Fri 16:00–23:00, Sat–Sun 14:00–23:00, **closed Mondays** (Google Maps). House Funabashi Ale, plus Funabashi Black, a stout made with honbinos clams. Glasses from ¥550 ([Gurunavi](https://r.gnavi.co.jp/kaa9mjuv0000/))
+- ☐ **Honbinos clams** — Funabashi's local shellfish, a big hard clam from the Sanbanze flats (Chiba-brand seafood since 2017). **Sanbanze Minatoya**, the fishermen's co-op shop at Funabashi port (1-22-1 Hinode): 10:30–15:00, **closed Tue and Wed** (Google Maps). To eat them: **Ikkyu Funabashi** (izakaya 1 min from Funabashi station, clam fry and sake-steamed clams) or **Funabashi-ya** in Nishi-Funabashi (clam kushiage). Hours for both not checked ([Funabashi City](https://www.city.funabashi.lg.jp/funabashistyle/jp/005/p042569.html) · [Maruchiba](https://maruchiba.jp/gourmet/spot/detail_11072.html))
+- ☐ **Funabashi Daijingu (Ohi Shrine)** — the city's main shrine, by Keisei Funabashi Ohjingu-shita, open 24 hours (Google Maps). An old wooden lighthouse stands on the grounds (not checked)
+- ☐ **LaLaport Tokyo-Bay + IKEA Tokyo-Bay** — giant mall and IKEA at Minami-Funabashi, if anyone wants to shop (not checked)
+- **Not worth it this trip:** Chiba City (Port Tower, the suspended monorail) is another 20–30 min past Makuhari for not much. Makuhari Messe has nothing on Nov 9–10, and its trade shows start Nov 11 ([tradefairdates](https://www.tradefairdates.com/Makuhari+Messe-ZS852.html))
+
+**A day out here (best Tue Nov 10 or Sun Nov 8; on Mon Nov 9 the brewpub is closed).** Times are rough, and the train times are estimates, not checked.
+
+| Est. time | What |
+|---|---|
+| 11:30 AM | Sobu local from Ryogoku to **Shimousa-Nakayama** (~25 min) |
+| 12:00 PM | Walk to **Hokekyo-ji**: approach, pagoda, soshi-do, daibutsu (~1 hr). Lunch on the way, or just a snack to save room |
+| 1:30 PM | Sobu local to Nishi-Funabashi, then the Musashino/Keiyo Line to **Makuhari-Toyosuna** (~30 min) |
+| 2:15 PM | **Costco** and/or **AEON Mall** (~2 hrs). Food court snack if hungry |
+| 4:15 PM | Keiyo Line one stop to **Shin-Narashino**, then the shuttle (~10 min) to the beer garden |
+| 4:30 PM | **Chiba Beer Garden**: sunset over the bay (~4:40), then jingisukan and Black Label. 2-hr seating, so book ~4:30 online |
+| 6:45 PM | Shuttle back to Shin-Narashino, then the Keiyo/Musashino Line to **Nishi-Funabashi** for a nightcap at **Funabashi Beer Brewery** (open to 11 PM, not Mondays) |
+| ~8:45 PM | Sobu local back to Ryogoku (~25 min) |
+
+**Shorter version (evening only):** leave Ryogoku ~3:00 PM, Costco, then the beer garden at sunset and home. ~4 hrs total.
 
 ---
 
