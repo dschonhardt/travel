@@ -8,6 +8,8 @@ Companion doc to [2026-fall-itinerary.md](./2026-fall-itinerary.md). Running lis
 
 *(leave blank — filling in last)*
 
+**New neighborhoods, one section each with things to do:** [tokyo-neighborhoods.md](./tokyo-neighborhoods.md)
+
 ### Past things to re-do (from 2025 & 2023 itineraries)
 
 Pulled from the green/yellow highlights in the old itinerary docs — green = loved, do again; yellow = liked but lower priority.
@@ -145,6 +147,31 @@ Pulled from the green/yellow highlights in the old itinerary docs — green = lo
 - **Tue Nov 10:** Tsukiji breakfast, then senbero in Akabane in the afternoon or Popeye in the evening. Daikokuyu is closed
 
 **Sources:** [Tori-no-Ichi 2026 (Real Japan Guide)](https://real-japan-guide.com/?p=2698) · [Tori-no-Ichi 2026 (Self Guide Japan)](https://selfguidejapan.com/blog/tori-no-ichi-2026) · [Popeye (Time Out)](https://www.timeout.com/tokyo/bars-and-pubs/popeye) · [Popeye (GLT Japan)](https://www.gltjp.com/en/directory/item/10027/) · [Popeye (Beer Girl)](https://beergirl.net/en-tokyo-beerbar_c/) · [Daikoku-yu (Time Out)](https://www.timeout.com/tokyo/things-to-do/daikoku-yu) · [Tsukiji Outer Market (GO TOKYO)](https://www.gotokyo.org/en/spot/65/index.html) · [Tsukiji (Kanpai)](https://www.kanpai-japan.com/tokyo/tsukiji-outer-market) · [Akihabara Hokoten (GO TOKYO)](https://www.gotokyo.org/en/spot/55/index.html) · [Akabane standing bars (Have a Good Holiday)](https://haveagood-holiday.com/en/articles/219655) · [Maruken Suisan (Time Out)](https://www.timeout.com/tokyo/bars-and-pubs/maruken-suisan) · [Kita-Senju guide (Tokyo Weekender)](https://www.tokyoweekender.com/2020/08/kita-senju-area-guide-culture-cuisine-and-skateboarding/) · [Sankaku Chitai (Time Out)](https://www.timeout.com/tokyo/restaurants/sankaku-chitai) · [Yakushu Bar (Time Out)](https://www.timeout.com/tokyo/bars-and-pubs/yakushu-bar-sangenjaya)
+
+### Adam's picks
+
+*Places Adam wants to go. Looked up Oct 23, 2026 on listing sites, not the venues' own pages, so check hours before going. Almost all of them are on the west side, so they're grouped into Sun Nov 8 (Shinjuku/Shimokitazawa/Shibuya/Ebisu) and Tue Nov 10 (Chuo Line).*
+
+- ☐ **Nogata Hope** — ramen. Flagship at 2-58-4 Nogata, Nakano (Nogata Station on the Seibu Shinjuku Line, or ~15 min walk north from JR Koenji). Tonkotsu with a triple soup base, ~¥740. Cash-only counter. Open 11 AM to ~3 AM (sources say 3 or 4 AM; Sundays to ~2 AM). **Tue Nov 10**, with Koenji
+- ☐ **Udon Shin** — 2-20-16 Yoyogi, Shibuya (~5 min from Shinjuku South Exit). 11 AM–10 PM, closes when the udon runs out. Queues of 1–3 hrs without a booking. **TableCheck reservation is ¥2,000 pp, non-refundable**, and no-shows are ¥3,000 pp. Cash only. **Sun Nov 8 lunch**
+- ☐ **Yakitori no Meimon Akiyoshi** — Fukui yakitori chain. **Use the Nakano branch** (5-54-3 Nakano, 03-3385-0071): open daily, weekdays 17:00–22:30, weekends 16:00–22:00. The Ogikubo branch isn't on the [official store list](https://www.akiyoshi.co.jp/shop/tokyo/index.html), and **Shinkoiwa is closed Tuesdays**. Other Tokyo branches: Ueno, Ikebukuro, Shibuya, Ginza, Kanda, Korakuen. **Tue Nov 10 dinner**
+- ☐ **Shimokita Senrogai Open Space** (Shimokita Senrogai Akichi) — open lot on the old rail line in Shimokitazawa, with a rotating line-up of food trucks plus the permanent Akichi Cafe & Bar. Truck hours aren't posted, so check their Instagram that week. **Sun Nov 8**, with Shimokitazawa thrift shops and Bonus Track
+- ☐ **Kanoya, Shinjuku** — Adam might go solo ("it's nothing special at all lol"). Cheap standing soba/udon counter by Shinjuku's south-east exit (Kanoya Shinjuku Tonanguchi). Hours not found. A quick stop before Udon Shin on Nov 8 or whenever passing Shinjuku
+- ☐ **Weird Japanese pizza** — corn mayo or something similar. **Pizza-La** and **Domino's Japan** both do mayo, corn, teriyaki-chicken and potato pizzas. Easiest as delivery to the APA after the Tsukuba hike on **Mon Nov 9**
+- ☐ **Sapporo Beer Factory** — the Sapporo Beer Museum is in Sapporo (done in 2025). The Tokyo version is **Yebisu Brewery Tokyo** (Sapporo's Yebisu brand) at Yebisu Garden Place in Ebisu: museum and taproom free, tastings ~¥1,100, paid tours (Japanese only, book ahead) and an English audio guide. Weekdays 12–8 PM, **weekends 11 AM–7 PM, closed Tuesdays**, no cash. **Sun Nov 8**. Ask Adam which one he meant
+- ☐ **Beer Boy** — when in Shibuya Parco. Standing craft beer bar in Shibuya Parco B1, ~10 rotating taps. 11 AM–11:30 PM. **Sun Nov 8**
+
+**Sources:** [Nogata Hope (Time Out)](https://www.timeout.com/tokyo/restaurants/nogata-hope) · [Nogata ramen (Hamoni)](https://hamoni.jp/en/area/tokyo/nakano/nogata/shops/ramen) · [Udon Shin (GLT Japan)](https://www.gltjp.com/en/directory/item/14443/) · [Udon Shin reservations (TableCheck)](https://www.tablecheck.com/es/shops/udonshin/reserve) · [Akiyoshi Tokyo branches (FooTinder)](https://en.footinder.app/places/65465fa57e1610b80f168482) · [Shimokita Senrogai Akichi (GLT Japan)](https://www.gltjp.com/en/directory/item/18257/) · [Shimokita Senrogai (Time Out)](https://www.timeout.com/tokyo/things-to-do/shimokita-senrogai) · [Stand-up soba ranking (Tabelog)](https://tabelog.com/en/rstLst/RC010408/) · [Yebisu Brewery Tokyo (Sapporo)](https://sapporobeer.jp/english/brewery/y_museum) · [Yebisu Brewery reopening (japan-guide)](https://japan-guide.com/blog/raina/240510.html) · [Beer Boy Shibuya (Beer Tengoku)](https://beertengoku.com/2020/02/19/tachinomi-beer-boy-shibuya-in-shibuya-tokyo/) · [Beer Boy (Japan Journeys)](https://japanjourneys.jp/lifestyle/dining/bars/beer-boy-kichijoji-shibuya-nakameguro/)
+
+### New finds for the end block (Oct 23)
+
+*Not already in this file. Checked Oct 23, 2026 against guides, not official pages.*
+
+- ☐ **Shimokitazawa**: not done on past trips. Thrift and vintage shops, small live-music bars, plus **Bonus Track** and **Reload**, two low-rise shopping strips built along the old buried rail line. Senrogai (Adam's food trucks) sits between them. ~8 min from Shinjuku on the Odakyu Line
+- ☐ **Tokyo Mega Illumination, Oi Racecourse**: lights, light shows and horses at the racecourse. **2026–27 is billed as the final season** (racecourse redevelopment). Runs Oct 31, 2026–Jan 10, 2027, **only on non-racing days**, 4:30–9 PM (last entry 8 PM). Last season's tickets were ~¥800 on weekdays and ~¥1,300–1,600 on weekends. Check the official calendar to see whether Nov 8 or 10 is a light-up day. Tokyo Monorail to Oi Keibajo-mae, ~40 min from Ryogoku
+- ☐ **Shinjuku Gyoen Chrysanthemum Exhibition**: Nov 1–15, 9 AM–4:30 PM. We're at the garden on Oct 30, a couple of days too early, but it's a 5-min walk from Udon Shin on Nov 8
+
+**Sources:** [Tokyo Mega Illumination 2026–27 (Real Japan Guide)](https://real-japan-guide.com/?p=3370) · [Final season (Have a Good Holiday)](https://www.haveagood-holiday.com/en/articles/tokyo-mega-illumination-2026-2027-final-season) · [Tokyo Mega Illumination prices (Tokyo Cheapo)](https://tokyocheapo.com/events/tokyo-mega-illumination/) · [Tokyo November events (Magical Trip)](https://www.magical-trip.com/media/tokyo-in-november-2024-highlights-events-festivals/)
 
 ### Food
 
