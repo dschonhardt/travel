@@ -67,7 +67,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 12 | Sat Nov 7 | Kanazawa → Tokyo | Higashi Chaya (sake-lees soft serve at Fukumitsuya Higashi) and Kazuemachi in the morning, then the first day of local crab: Omicho crab lunch, then Kagayaki 534 at 1:50 PM (not booked). Check in at APA Ryogoku, chanko nabe dinner. See [days/2026-11-07.md](./days/2026-11-07.md) |
 | 13 | Sun Nov 8 | Tokyo | **Draft.** Ryogoku and Kameido on foot, no museums (Kyu-Yasuda Garden, Sumida River walk, Edo Noren brunch, Ekoin and the 47 Ronin site, Kameido Tenjin chrysanthemums, Kameido Gyoza), then **Hop Fest** in Daikanyama (18:00 session) and late bites at Ebisu Yokocho. See [days/2026-11-08.md](./days/2026-11-08.md) |
 | 14 | Mon Nov 9 | Tokyo (Mt. Tsukuba day trip) | **Draft.** Mt. Tsukuba replaces Nikko (too far). Tsukuba Express from Akihabara + shuttle bus, paid with IC card. Hiking both ways. Swap with Nov 10 if the weather is better then. See [days/2026-11-09.md](./days/2026-11-09.md) |
-| 15 | Tue Nov 10 | Tokyo | **Draft.** Chuo Line day: Kichijoji (Inokashira Park, Harmonica Yokocho), Nogata Hope ramen, Koenji thrift, Nakano Broadway, Akiyoshi yakitori in Nakano. See [days/2026-11-10.md](./days/2026-11-10.md) |
+| 15 | Tue Nov 10 | Tokyo | **Draft (Oct 24).** Slow Chuo Line day after the hike: Nakano Broadway, Nogata Hope ramen, Koenji thrift, Kosugi-yu sento, Harmonica Yokocho in Kichijoji at night, Akiyoshi yakitori in Nakano. See [days/2026-11-10.md](./days/2026-11-10.md) |
 | 16 | Wed Nov 11 | Tokyo (departure) | **Draft.** Bags at the APA, Kiyosumi-Shirakawa coffee and garden, last meal at Yuzu Lab Noodles (Akihabara), leave for HND ~1:45 PM. See [days/2026-11-11.md](./days/2026-11-11.md) |
 
 ## Decisions needed
