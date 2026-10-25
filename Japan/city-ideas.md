@@ -319,12 +319,12 @@ Sources: [Nagoya Is Not Boring — Halloween 2026](https://www.nagoyaisnotboring
 
 *Hida beef (sit-down):*
 
-- ☐ Kyoya — rustic old house near Sakurayama Hachimangu, Hida beef grilled at the table, hoba miso, local fish. Mid-range. 1-77 Oshin-machi, 11 AM–10 PM. **Closed Tue** → Mon Nov 2 dinner candidate
+- ☐ Kyoya — rustic old house near Sakurayama Hachimangu, Hida beef grilled at the table, hoba miso, local fish. Mid-range. 1-77 Oshin-machi, Mon 11 AM–2 PM and 5–8 PM (Google). **Closed Tue** → Mon Nov 2 dinner candidate
 - ☐ Suzuya — traditional merchant house, known for hoba miso steak and Hida beef sukiyaki. Classic first-timer pick
 - ☐ Maruaki — butcher-run, A5 Hida beef (yakiniku, sukiyaki, shabu-shabu). Upscale. 6-8 Tenman-machi, ~5 min from the station/hotel. 11 AM–9 PM (LO 8:30). Open Tuesdays → easy Nov 3 dinner after getting back from Kamikochi
 - ☐ Kitchen Hida — casual Hida beef steak, good-value sets. 1-66 Hon-machi. Lunch 11:30 AM–3:30 PM (LO 2:45), dinner 5:00–8:30 PM (LO 7:45). Closed Wed. **Tip (r/JapanTravel, Oct 2026):** they're known for a bottled Hida beef side dish (a commenter wrote it as 飛騨牛ハンバ具ー). Buy it at the counter on the way out after eating. Planned for Tue Nov 3 dinner
 - ☐ Bistro Kanzo — Hida beef done French-style, mid-range. 46 Ura-machi. Closed Wed
-- ☐ Shiki no Gochisou Mitsuiwa — kaiseki with Hida beef fillet/loin steak and seasonal seafood. ~¥6,000 basic dinner, ~¥10,000–20,000 for full kaiseki. ~4 min walk from the station. Dinner 5:00–9:30 PM, closes irregularly, reservations strongly recommended. **Top backup if Ryotei Susaki is full**
+- ☐ Shiki no Gochisou Mitsuiwa — kaiseki with Hida beef fillet/loin steak and seasonal seafood. ~¥6,000 basic dinner, ~¥10,000–20,000 for full kaiseki. ~4 min walk from the station. Dinner 5:00–8:30 PM (Google), closes irregularly, reservations strongly recommended. **Top backup if Ryotei Susaki is full**
 - ☐ Hida Takayama Sakana — seasonal Hida kaiseki (autumn = mushrooms + A5 Hida beef), ~¥15,000–25,000. Reservation only. 1126-1 Echigo-machi. Less well-documented than Mitsuiwa
 
 *Casual / other:*
@@ -342,12 +342,12 @@ Takayama has seven historic breweries, nearly all within a few minutes' walk of 
 
 *Checked Oct 2026. Sources disagree on some hours, closed days and tasting prices (noted below), so treat these as approximate. Mon Nov 2 should be fine for all of them. Nov 3 is a holiday and some may be closed.*
 
-- ☐ **Hirase Sake Brewery** (平瀬酒造) — oldest in Gifu, brewing since 1623; brand **Kusudama**. 20+ sakes to taste, three old earthen storehouses out back, and sarubobo-print cups that make good souvenirs. 82 Kamiichinomachi. ~9 AM–5 PM. ⚠️ One source says closed Sundays; tasting listed as free *or* ¥1,000 per 30 min (likely changed recently). Tours ~¥4,000 incl. tasting
-- ☐ **Harada Sake Brewery** (原田酒造場) — since 1855; brand **Sansha**. Known for ginjo made with flower yeast. ~¥500 tasting cup gets you ~10 sakes. Get the **daiginjo sake soft serve** (~¥400). Irori hearth seating. 10 Kamisannomachi. ~8:30/9 AM–5/6 PM, open daily. Probably the best one-stop tasting
+- ☐ **Hirase Sake Brewery** (平瀬酒造) — oldest in Gifu, brewing since 1623; brand **Kusudama**. 20+ sakes to taste, three old earthen storehouses out back, and sarubobo-print cups that make good souvenirs. 82 Kamiichinomachi. 9 AM–4:30 PM (Google). ⚠️ One source says closed Sundays; tasting listed as free *or* ¥1,000 per 30 min (likely changed recently). Tours ~¥4,000 incl. tasting
+- ☐ **Harada Sake Brewery** (原田酒造場) — since 1855; brand **Sansha**. Known for ginjo made with flower yeast. ~¥500 tasting cup gets you ~10 sakes. Get the **daiginjo sake soft serve** (~¥400). Irori hearth seating. 10 Kamisannomachi. 9 AM–6 PM (Google), open daily. Probably the best one-stop tasting
 - ☐ **Funasaka Sake Brewery** (舩坂酒造店) — 200+ years; brands **Miyama Giku**, **Hida no Jingoro**. The biggest, most "theme park" stop: courtyard, shop, an on-site restaurant (Hida beef), and an *ochoko gacha* coin machine for tastings (~¥150/coin). 105 Kamininomachi. Open daily, ~8:30 AM–6 PM (tasting windows may be limited to ~10–12 and 1–4)
 - ☐ **Kawashiri Sake Brewery** (川尻酒造場) — small, traditional; brands **Hida Masamune** / **Tenon**. Tiny production, mostly sold only in Takayama, so a good place to buy a bottle you won't find at home. Tasting ~¥500 sake / ¥330 plum wine. 68 Kamininomachi. 8 AM–5 PM, open daily
-- ☐ **Hirata Sake Brewery** (平田酒造場) — brand **Suiou** (aged 10+ years, won national awards), also the novelty "Meteor" sake. Paid coin-dispenser tastings (~¥250/coin). Small and chatty, and also runs the Hirata folk museum. 43 Kamininomachi. ⚠️ Closed days conflict (Tuesdays vs weekends/holidays), so plan it for **Mon Nov 2**
-- ☐ **Niki Sake Brewery** (二木酒造) — ginjo specialist, **Tama no I** daiginjo. Lovely old machiya building (used for TV filming). Paid tasting. 40 Kamininomachi. 8 AM–5 PM, closes occasionally
+- ☐ **Hirata Sake Brewery** (平田酒造場) — brand **Suiou** (aged 10+ years, won national awards), also the novelty "Meteor" sake. Paid coin-dispenser tastings (~¥250/coin). Small and chatty, and also runs the Hirata folk museum. 43 Kamininomachi. 10 AM–4:30 PM (Google; noon open on Tuesdays). ⚠️ Closed days conflict (Tuesdays vs weekends/holidays), so plan it for **Mon Nov 2**
+- ☐ **Niki Sake Brewery** (二木酒造) — ginjo specialist, **Tama no I** daiginjo. Lovely old machiya building (used for TV filming). Paid tasting. 40 Kamininomachi. 9 AM–4 PM (Google), closes occasionally
 - ☐ **Oita Sake Brewery** (老田酒造店) — brand **Onikoroshi** ("demon killer"), a dry sake with a ~300-year history. Free tasting, plus a shop/café in the renovated original building. 67 Kamisannomachi. 9 AM–5 PM, closes occasionally
 
 **Bonus (not sake):** ☐ **Hida Craft** — small fruit-liqueur maker opened 2022 (award-winning **LEMONIQ** lemon liqueur, yuzu cello), free tastings before you buy. Weekdays ~10 AM–4 PM only, call ahead.

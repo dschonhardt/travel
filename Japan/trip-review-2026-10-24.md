@@ -44,9 +44,9 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 
 - **Oct 27/28:** ~~Yuzu Lab is booked as a meal three times (Oct 27, Oct 28, Nov 11).~~ **Done (Oct 25):** dropped from Oct 27; kept Oct 28 and Nov 11. Also fixed (Oct 25): leave for CAPPINESS at 9:40, and Oshiage → Asakusa is 2 stops. Kyushu Jangara's Akihabara main shop is **closed for renovation** from Sep 30 (official notice).
 - **Oct 29:** **Done (Oct 25):** ~~Tobiccho closes at **8 PM** on Thursdays, not 9. Buy the ¥1,550 Sea Candle + Night set. The trip home is ~1h40, so you'll be back around 9 PM.~~ Also added the noon weather-cancellation check, and train times from Yahoo Transit: 7:41 AM out (Kita-Kamakura 8:39), 7:41 PM monorail + 8:13 Yokosuka Line back (hotel ~9:10 PM).
-- **Oct 30:** reorder the evening: Metropolitan Government Building at sunset, the 6 PM projection show, Omoide Yokocho, Kabukicho, Golden Gai last. Leave Shibuya by 3:40.
-- **Oct 31 / Nov 1:** the Nagoya hotel is ~250 m from **Hisaya-odori** station, not Marunouchi, so route both Nagoya days from there. The last Nabana bus is ~10 PM, not 11. Buy the Kintetsu set ticket for Nabana (¥3,670). The "others do a museum during Nabana" idea doesn't work, because the museums close at 4:30–5:30.
-- **Nov 2:** sake breweries: do Niki, Hirase and Hirata first (they close 4:00–4:30), Harada and Funasaka last (open to 6).
+- **Oct 30:** **Done (Oct 25):** ~~reorder the evening: Metropolitan Government Building at sunset, the 6 PM projection show, Omoide Yokocho, Kabukicho, Golden Gai last. Leave Shibuya by 3:40.~~ Also fixed the Maisen and Beer Boy hours.
+- **Oct 31 / Nov 1:** **Done (Oct 25):** Hisaya-odori routing, the 10 PM last bus and the set ticket. Still open: the museum idea. ~~the Nagoya hotel is ~250 m from **Hisaya-odori** station, not Marunouchi, so route both Nagoya days from there. The last Nabana bus is ~10 PM, not 11. Buy the Kintetsu set ticket for Nabana (¥3,670).~~ The "others do a museum during Nabana" idea doesn't work, because the museums close at 4:30–5:30.
+- **Nov 2:** **Done (Oct 25):** ~~sake breweries: do Niki, Hirase and Hirata first (they close 4:00–4:30), Harada and Funasaka last (open to 6).~~ Also fixed the Mitsuiwa/Kyoya hours and the Hisaya-odori route to Nagoya Station. Still open: dinner booking, Hida 3 seat.
 - **Nov 3 (Kamikochi):** **the 6:00 and 8:10 buses don't run in November.** The first bus is **7:00** (arrives 8:25), so line up by 6:30 and buy breakfast the night before. Taisho Pond is ~60 min from Kappa Bridge, so get off the morning shuttle at Taishoike and walk back toward Kappa Bridge. Kitchen Hida's last order is 7:45 (Google); have the hotel confirm the booking. Foliage will be past peak. Option: leave on the 3:00 bus, soak at Hirayu no Mori, and still reach Takayama at 5:31.
 - **Nov 4:** **Showa-kan opens at 10:00, not 9:00**, so swap in Takayama Jinya (opens 8:45) or do Showa-kan as a 10:00 sprint. **The 2026 Korinbo Tree Fantasy start date isn't announced**; it may not be lit on Nov 4–5. Make curry a late lunch and Ichinokura the dinner.
 - **Nov 5:** every connection checks out. Mugibatake is closed Sun–Thu, so use Korinbo Jibiruba as the beer backup. The CAN Bus website is down; confirm on 0761-72-6678.
@@ -66,9 +66,9 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 ## Hours that conflict with the day files (Google says otherwise)
 
 - ~~Yuzu Lab and Hitachino are **open on Sundays** per Google; the trip notes say they're closed.~~ **Fixed (Oct 25)** in the Oct 28 day file, food.csv and alcohol-and-bars.csv.
-- Maisen closes at 9 PM, not 10:45. Beer Boy is open 11:30–10:30.
+- ~~Maisen closes at 9 PM, not 10:45. Beer Boy is open 11:30–10:30.~~ **Fixed (Oct 25)** in the Oct 30 day file.
 - Asahi Honten (Enoshima) is **open on Thursdays** per Google, 9–6; the plan says closed (that came from a blog).
-- Mitsuiwa closes at 8:30, not 9:30. Kyoya on Monday is 11–2 and 5–8.
+- ~~Mitsuiwa closes at 8:30, not 9:30. Kyoya on Monday is 11–2 and 5–8.~~ **Fixed (Oct 25)** in the Nov 2 day file, city-ideas.md and food.csv.
 - Kitama closes at 8 PM Friday. Kitchen Hida's last order is 7:45 (the 8:30 came from Hot Pepper).
 - Champion Curry closes at 3:30, not 4:00.
 
@@ -364,6 +364,7 @@ Daylight: sunset in Fujisawa is ~4:47 PM, so the hike (9:45–11:15) is well wit
 **Verdict:** Solid. Every stop is open on a Friday and the sunset anchor works. The only real problem is the evening order: it crosses Shinjuku Station twice (west to east to west to east). Swapping two blocks fixes that and gets you into Omoide Yokocho before the Friday rush. Fun: **8/10**. It's nearly all from the "do again" list (Meiji, Harajuku/Cat St, Shinjuku at night) plus Adam's Beer Boy.
 
 ### Must fix
+- **Done (Oct 25):** all three items below are applied to the Oct 30 day file.
 - **Reorder the evening to cut out the backtrack.** Kabukicho and Golden Gai are on the east side, while TMG and Omoide Yokocho are on the west. As written you go TMG (W), Kabukicho (E), Omoide (W), Golden Gai (E), which is ~45 min of walking through crowds. Suggested order:
   - ~5:30 PM: come down from the TMG deck.
   - 6:00 PM: watch the free **TOKYO Night & Light** projection mapping on Tower 1's east wall from Citizens' Plaza. The official timetable shows late-October shows at 18:00, 18:30, 19:00, and so on.
@@ -431,7 +432,7 @@ Daylight: sunset in Fujisawa is ~4:47 PM, so the hike (9:45–11:15) is well wit
 ### Must fix
 - **Book the Shinkansen today (SmartEX).** It's a Saturday on a holiday-adjacent weekend, and the group needs 4 seats together. The D/E (Fuji-side) pairs only seat 2 across, so book **two D/E pairs, one row behind the other** (e.g. 8D/E + 9D/E). If anyone's bag is over 160 cm total, book the last-row "oversized baggage" seats, or the bag can incur a ¥1,000 fee.
 - **Book Furaibo Sakae now.** Online at furaibo.jp/sakae (linked from the official store page) or by phone at 052-241-8016. It's Halloween Saturday night and the shop often has a queue.
-- **The hotel's nearest station is Hisaya-odori, not Marunouchi.** On Google Maps the hotel (3-16-22 Marunouchi) is ~250 m (~3–4 min) from **Hisaya-odori Station** and ~700 m (~9 min) from Marunouchi Station. Fixes:
+- **Done (Oct 25)** for Oct 31 and Nov 1. **The hotel's nearest station is Hisaya-odori, not Marunouchi.** On Google Maps the hotel (3-16-22 Marunouchi) is ~250 m (~3–4 min) from **Hisaya-odori Station** and ~700 m (~9 min) from Marunouchi Station. Fixes:
   - From Nagoya Station, ride the Sakuradori Line **3 stops to Hisaya-odori**, not 2 to Marunouchi.
   - After dropping bags, walk back to Hisaya-odori and take the **Meijo Line 2 stops to Yaba-cho**.
   - **Mirai Tower → hotel is a ~5 min walk.** The tower stands at Hisaya-odori; no train needed.
@@ -486,6 +487,7 @@ Sunset in Nagoya on Oct 31 is ~4:58 PM, so a 4:30 PM tower entry is right.
 **Verdict:** Solid. Every venue is open on a Sunday at the planned times, the legs are realistic, and the pace suits the morning after Halloween. A few things need fixing: the last-bus note is wrong for a Sunday, buy the Kintetsu set ticket so you skip the Nabana ticket-window line, and the "others do a museum" idea doesn't fit the timing. Fun: **7.5/10**. It could reach 8.5 if the last group evening ends together.
 
 ### Must fix
+- **Done (Oct 25):** the last-bus and set-ticket items below, plus the Hisaya-odori routing. The museum item is still open.
 - **The last bus back from Nabana is ~10:00 PM, not ~11:00 PM.** Google shows Nabana open **10 AM–10 PM on Sundays**. On the official bus timetable the 22:25 and 23:00 buses run only on days the park is open until 23:00, so on a 22:00-close day the last bus is **22:00**. The 8:30 PM plan still has plenty of slack. Fix the Plan row and the Travel bullet.
 - **Buy the "Nabana no Sato Illumination Kintetsu Train & Bus Discount Set Ticket" at Kintetsu Nagoya** (the limited-express ticket counter): **¥3,670** for the round-trip Kintetsu train, the round-trip direct bus, admission and the ¥1,000 voucher. That's ¥310 cheaper than buying each separately. More importantly, the official site warns the Nabana ticket window can take **30+ min** to get through at peak. If you skip the set ticket, buy admission ahead at a FamilyMart or 7-Eleven (¥2,500, vs ¥2,700 at the window). This also settles the price TODO: **¥2,500 is confirmed for Oct 17–Nov 20, 2026** (official fee page).
 - **The museums don't fit "the others do a museum while Dan's at Nabana."** Google shows the Toyota Commemorative Museum at 9:30 AM–4:30 PM and SCMAGLEV at 10 AM–5:30 PM. Both close before Dan even leaves for Nabana. If the others want a museum, it has to replace Atsuta Jingu in the afternoon. That means the group splits right after lunch and you lose the last group afternoon. Decide which (see Open questions). SCMAGLEV fits best if they skip Atsuta: Aonami Line from Nagoya Station, ~25 min, open until 5:30.
@@ -545,6 +547,7 @@ Sunset in Nagoya on Oct 31 is ~4:58 PM, so a 4:30 PM tower entry is right.
 **Verdict:** Solid. Monday is a good day for Takayama, since most closures there are Tuesday or Wednesday, and every venue I checked is open on a Monday. Two things still need fixing: dinner isn't booked, and three of the hours in the plan are wrong (Kyoya, Mitsuiwa, and the order of the sake breweries). Fun rating: **8/10**, and 9 with a booked dinner and the hotel onsen added.
 
 ### Must fix
+- **Done (Oct 25):** the backup dinner hours and the brewery order below, plus the Hisaya-odori route to Nagoya Station. Still open: the dinner booking and the Hida 3 seat.
 - **Dinner isn't booked, and the Susaki cancellation window has nearly passed.** The free-cancellation cutoff is 48 hrs, and some byFood listings say 1 week. Decide **today (Oct 24)** and call +81-577-32-0023 or book on byFood/Gurunavi. Ask specifically about a **party of 1**. Ryotei seat guests in private tatami rooms, and I found no solo policy anywhere, so don't assume they take one. If they say no, book **Mitsuiwa** for 6:00–6:30 PM.
 - **Several backup dinner hours in the plan are wrong** (from Google):
   - **Mitsuiwa** is **5–8:30 PM**, not 9:30. Arrive by ~7.
