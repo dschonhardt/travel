@@ -54,7 +54,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | Days | Dates | Location | Notes |
 |---|---|---|---|
 | 1 | Tue Oct 27 | Tokyo | Arrival (land 2:35 PM). Standing sushi near the hotel, Akihabara. See [days/2026-10-27.md](./days/2026-10-27.md) |
-| 2 | Wed Oct 28 | Tokyo | Gyudon breakfast, CAPPINESS Oshiage capybara cafe, Senso-ji, Akihabara, Hitachino Brewing Lab, Yuzu Lab Noodles dinner. See [days/2026-10-28.md](./days/2026-10-28.md) |
+| 2 | Wed Oct 28 | Tokyo | Gyudon breakfast, CAPPINESS Oshiage capybara cafe, Senso-ji, Akihabara, Hitachino Brewing Lab, Yuzu Lab Noodles dinner, optional Kanda under-the-tracks nightcap. See [days/2026-10-28.md](./days/2026-10-28.md) |
 | 3 | Thu Oct 29 | Tokyo (Kamakura day trip) | Kamakura + Enoshima via the Daibutsu Hiking Course, with a local food list. See [days/2026-10-29.md](./days/2026-10-29.md) |
 | 4 | Fri Oct 30 | Tokyo | West-side day: Shinjuku Gyoen, Meiji Jingu, Harajuku, Shibuya, Shinjuku at night (ramen festival dropped). See [days/2026-10-30.md](./days/2026-10-30.md) |
 | 5 | Sat Oct 31 | Tokyo → Nagoya | **Tokaido Shinkansen (booked)** (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Afternoon in Osu (Yabaton misokatsu), sunset from Mirai Tower, tebasaki dinner in Sakae. See [days/2026-10-31.md](./days/2026-10-31.md) |

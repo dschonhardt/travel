@@ -42,7 +42,7 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 
 ## Biggest plan fixes (by day)
 
-- **Oct 27/28:** Yuzu Lab is booked as a meal three times (Oct 27, Oct 28, Nov 11). Swap the Oct 28 dinner for a Kanda under-the-tracks izakaya crawl near Hitachino. Kyushu Jangara's Akihabara main shop is **closed for renovation** from Sep 30 (official notice).
+- **Oct 27/28:** ~~Yuzu Lab is booked as a meal three times (Oct 27, Oct 28, Nov 11).~~ **Done (Oct 25):** dropped from Oct 27; kept Oct 28 and Nov 11. Also fixed (Oct 25): leave for CAPPINESS at 9:40, and Oshiage → Asakusa is 2 stops. Kyushu Jangara's Akihabara main shop is **closed for renovation** from Sep 30 (official notice).
 - **Oct 29:** Tobiccho closes at **8 PM** on Thursdays, not 9. Buy the ¥1,550 Sea Candle + Night set. The trip home is ~1h40, so you'll be back around 9 PM.
 - **Oct 30:** reorder the evening: Metropolitan Government Building at sunset, the 6 PM projection show, Omoide Yokocho, Kabukicho, Golden Gai last. Leave Shibuya by 3:40.
 - **Oct 31 / Nov 1:** the Nagoya hotel is ~250 m from **Hisaya-odori** station, not Marunouchi, so route both Nagoya days from there. The last Nabana bus is ~10 PM, not 11. Buy the Kintetsu set ticket for Nabana (¥3,670). The "others do a museum during Nabana" idea doesn't work, because the museums close at 4:30–5:30.
@@ -60,12 +60,12 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 ## Where the reviewers disagree
 
 - **Kamikochi bus time:** the whole-trip review suggests the 6:00 AM bus. The Nov 3 reviewer checked the 2026 Nohi timetable: **the 6:00 runs only Jul 18–Oct 12. Use the 7:00.**
-- **Oct 28 dinner:** the whole-trip review suggests Kyushu Jangara Akihabara. **It's closed for renovation** (Oct 27 reviewer, official notice). Use the Kanda izakaya crawl or the Harajuku Jangara on Oct 30.
+- **Oct 28 dinner:** *(Resolved Oct 25: Yuzu Lab stays on Oct 28.)* The whole-trip review suggests Kyushu Jangara Akihabara. **It's closed for renovation** (Oct 27 reviewer, official notice). Use the Kanda izakaya crawl or the Harajuku Jangara on Oct 30.
 - **Takayama hotel bath:** the Nov 2 reviewer suggests "the hotel's onsen". The whole-trip reviewer found it's a large public bath but **not natural hot-spring water** (from hotel listings).
 
 ## Hours that conflict with the day files (Google says otherwise)
 
-- Yuzu Lab and Hitachino are **open on Sundays** per Google; the trip notes say they're closed.
+- ~~Yuzu Lab and Hitachino are **open on Sundays** per Google; the trip notes say they're closed.~~ **Fixed (Oct 25)** in the Oct 28 day file, food.csv and alcohol-and-bars.csv.
 - Maisen closes at 9 PM, not 10:45. Beer Boy is open 11:30–10:30.
 - Asahi Honten (Enoshima) is **open on Thursdays** per Google, 9–6; the plan says closed (that came from a blog).
 - Mitsuiwa closes at 8:30, not 9:30. Kyoya on Monday is 11–2 and 5–8.
@@ -93,7 +93,7 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 2. **Confirm the Kanazawa Livemax booking is for 3 guests from Nov 5** (Nov 4 for 1, Nov 5–6 for 3). Livemax rooms are tiny and often 1–2 person only. The itinerary says "the room needs to sleep 3" but nowhere says the booking was changed. If it wasn't, fix it now. Kanazawa is busy on Fri/Sat at crab-season opening.
 3. **Forward the big bags (takkyubin) and travel the Alps leg with a daypack.** On **Sun Nov 1 morning**, send Dan's suitcase from the Nagoya Livemax front desk (Yamato/Sagawa, roughly ¥2,000–3,000 per bag) to **Hotel Livemax Kanazawaekimae** "to hold for guest arriving Nov 4". Nagoya → Kanazawa is next-day delivery. Then the Hida 5, the Takayama hotel, the Kamikochi day and the 9-minute Toyama transfer (Hida 3 → Tsurugi 23) all happen with a small bag. Repeat on **Fri Nov 6 morning** from Kanazawa to **APA Ryogoku** (arrives Sat Nov 7 evening). That frees the Higashi Chaya/crab morning from lockers and bag-schlepping. Confirm by phone that both hotels accept pre-arrival parcels.
 4. **Make Kamikochi on Culture Day holiday-proof.** Nov 3 closes a 4-day weekend for many locals (Sat Oct 31–Tue Nov 3, with Mon a common bridge day). Take the **6:00 AM bus**. Get off at **Taisho-ike** (the stop before the terminal) at ~7:15. Walk the classic Taisho Pond → Tashiro Pond → Kappa Bridge route in morning mist and light (~1 hr). Grab the return seiriken at the terminal on arrival (~8:30), then reach Myojin and Kamonjigoya right at its 10:00 opening. Target the **3:00 PM bus back, not 4:00**, because holiday return queues can eat an hour. Dress for near-freezing mornings.
-5. **Don't eat at Yuzu Lab on Oct 27, Oct 28 *and* Nov 11.** Keep it as the bookends (Oct 27 and Nov 11). Swap the **Oct 28 dinner** for **Kyushu Jangara Akihabara** (a green "do again" item that isn't scheduled anywhere) or a Kanda gado-shita izakaya crawl right next to Hitachino.
+5. *(Resolved Oct 25: Yuzu Lab dropped from Oct 27; kept Oct 28 and Nov 11.)* **Don't eat at Yuzu Lab on Oct 27, Oct 28 *and* Nov 11.** Keep it as the bookends (Oct 27 and Nov 11). Swap the **Oct 28 dinner** for **Kyushu Jangara Akihabara** (a green "do again" item that isn't scheduled anywhere) or a Kanda gado-shita izakaya crawl right next to Hitachino.
 6. **Nov 9 evening is empty, so put Yamariki Honkan there.** It's the "legendary Hoppy Street stew" and is Mon–Sat only, closed Sundays and holidays. Morishita is 1 stop from Ryogoku. It takes reservations Mon–Fri before 6 PM for 2+, so book ~6:00 PM (03-3633-1638). Follow with **Daikokuyu** sento (open Mondays, closed Tuesdays) for the hiking legs. Back from Tsukuba by ~5:00, this is a perfect fit.
 7. **Give the group a proper last night on Sun Nov 1.** Right now Dan goes alone to Nabana on the last night with all four. Either pitch Nabana to the group (it's a group-friendly evening with a ¥1,000 food/drink voucher) or swap the evening for the Chita beef all-you-can-drink dinner at Niji in Sakae as a send-off. A farewell beats a solo light show.
 8. **Fill the onsen gap on the solo stretch.** Nov 2–5 currently has no soak. Kaga Onsen, of all places, is skipped ("nude only"). Options: the Takayama Washington Plaza has a large public bath (third-party listings say it isn't natural hot-spring water, so confirm). **Hirayu no Mori** at the Hirayu Onsen bus transfer on the Kamikochi return works if you take an earlier bus. If nude bathing is fine, **Yamashiro Soyu/Kosoyu** on Nov 5 is the iconic one. See open questions.
@@ -176,7 +176,8 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 **Verdict:** Solid. The timing works, everything is open, and the pace is right for a jet-lagged first night. The real problem is food: Yuzu Lab is the dinner tonight and again tomorrow (Oct 28), and it's also the last meal on Nov 11. The standing-sushi backup has no shop picked yet. **Fun rating: 7/10** (8/10 with the dinner swap below).
 
 ### Must fix
-- **Yuzu Lab Noodles two nights in a row (Oct 27 and Oct 28), then again on Nov 11.** That's three visits in 16 days and it pushes out other ramen. Pick one of these:
+- **Resolved (Oct 25):** Yuzu Lab dropped from Oct 27; kept Oct 28 and Nov 11.
+- ~~**Yuzu Lab Noodles two nights in a row (Oct 27 and Oct 28), then again on Nov 11.**~~ That's three visits in 16 days and it pushes out other ramen. Pick one of these:
   - **(Preferred)** Keep Yuzu Lab tonight. It's easy and comforting for a jet-lagged first night. On Oct 28, replace it with a **Kanda under-the-tracks izakaya crawl**, a few minutes from Hitachino. city-ideas.md already lists that for the Oct 28 evening.
   - Or keep Yuzu Lab on Oct 28 (it pairs with Hitachino) and eat tonight at **Sushi Uogashi Nihon-ichi, Atre Akihabara** (standing sushi at Akihabara Station, Tue 10 AM–10:30 PM). You're right at the arcades after dinner.
 - **Backup dinner has no shop.** Two standing-sushi shops near the hotel, both open late on Tuesday:
@@ -198,7 +199,7 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 | Maguro-jin Asakusabashi (backup) | ~6:00 PM | Tue 11:30 AM–10 PM | Google Maps | OK |
 | Kyushu Jangara Akihabara | (not planned) | Closed for renovation from Sep 30, 2026 | Official site notice | Closed |
 
-Note: Google shows Yuzu Lab open on **Sunday 11 AM–9 PM**, but the day files and food.csv say "closed Sundays". That doesn't matter today, but fix the note so a Sunday option isn't ruled out by mistake.
+Note: **Fixed (Oct 25).** Google shows Yuzu Lab open on **Sunday 11 AM–9 PM**, but food.csv said "closed Sundays". That doesn't matter today, but fix the note so a Sunday option isn't ruled out by mistake.
 
 ### Travel legs
 | From → To | Plan says | Realistic (mode, time) | OK? |
@@ -225,7 +226,7 @@ Daylight: sunset in Tokyo is ~4:50 PM. Nothing in the plan is outdoors or needs 
 
 ### Open questions for Dan
 - Are Jeff, Adam and Max on the same Delta flight? If they land at a different time or airport (NRT?), the 6 PM group dinner and the "4 seats together" plan may need a meeting point. Akihabara Station Electric Town exit is an easy one.
-- Which Yuzu Lab night do you want to keep, Oct 27 or Oct 28? The Oct 28 review should match whichever you pick.
+- ~~Which Yuzu Lab night do you want to keep, Oct 27 or Oct 28?~~ **Oct 28** (decided Oct 25).
 
 
 ---
@@ -236,9 +237,9 @@ Daylight: sunset in Tokyo is ~4:50 PM. Nothing in the plan is outdoors or needs 
 
 ### Must fix
 - Nothing will break the day. Two small corrections:
-  - **Get to CAPPINESS by ~10:05.** Booked sessions start on time, and the 40-minute clock runs from the slot time. If the 9:50 train runs late or you take the wrong Oshiage exit, the margin is ~5 min. **Fix:** take a ~9:40 train. The cafe is on the 5F of JU SKYTOWER MUKOJIMA (Mukojima 3-43-10). That's north of the station, ~4–5 min on foot, not at Skytree itself, so use the north-side exits (A1/B1 area).
-  - **The Travel section says "1 stop on the Toei Asakusa Line" from Oshiage to Asakusa.** It's 2 stops (Honjo-Azumabashi, then Asakusa). The 1-stop ride is the Tobu Skytree Line (Tokyo Skytree Sta. → Asakusa). The walk is better anyway.
-- **Repeat to fix (fit, not breakage):** Yuzu Lab is dinner on Oct 27 **and** Oct 28 (and again Nov 11). It's a green "do again" spot, but eating it twice in 24 hours wastes a dinner. Keep it on Oct 28, where it sits next to Hitachino, and use the Oct 27 backup (standing sushi) that night. Or keep Oct 27 and swap tonight's dinner (see Suggestion 2).
+  - **Done (Oct 25).** **Get to CAPPINESS by ~10:05.** Booked sessions start on time, and the 40-minute clock runs from the slot time. If the 9:50 train runs late or you take the wrong Oshiage exit, the margin is ~5 min. **Fix:** take a ~9:40 train. The cafe is on the 5F of JU SKYTOWER MUKOJIMA (Mukojima 3-43-10). That's north of the station, ~4–5 min on foot, not at Skytree itself, so use the north-side exits (A1/B1 area).
+  - **Done (Oct 25).** **The Travel section says "1 stop on the Toei Asakusa Line" from Oshiage to Asakusa.** It's 2 stops (Honjo-Azumabashi, then Asakusa). The 1-stop ride is the Tobu Skytree Line (Tokyo Skytree Sta. → Asakusa). The walk is better anyway.
+- **Resolved (Oct 25): Yuzu Lab kept on Oct 28, dropped from Oct 27.** ~~**Repeat to fix (fit, not breakage):** Yuzu Lab is dinner on Oct 27 **and** Oct 28 (and again Nov 11). It's a green "do again" spot, but eating it twice in 24 hours wastes a dinner. Keep it on Oct 28, where it sits next to Hitachino, and use the Oct 27 backup (standing sushi) that night. Or keep Oct 27 and swap tonight's dinner (see Suggestion 2).~~
 
 ### Hours check
 | Stop | Planned time | Google/official hours on that day | Source | OK? |
@@ -254,7 +255,7 @@ Daylight: sunset in Tokyo is ~4:50 PM. Nothing in the plan is outdoors or needs 
 | Hitachino Brewing Lab Kanda Manseibashi | 5:30 PM | Wed 11 AM–10 PM (Sun 11 AM–9 PM) | Google Maps | Yes |
 | Yuzu Lab Noodle shop | 7:00 PM | Wed 11 AM–10 PM | Google Maps | Yes |
 
-Note: Google lists Hitachino as open **Sundays** (11–9) and Yuzu Lab as open **Sundays 11 AM–9 PM, Sat 11–9**. The day file says Hitachino is Mon–Sat and Yuzu Lab is closed Sundays. That doesn't matter for Wednesday, but it matters for the Nov 8 (Sun) and Nov 11 plans. Worth re-checking before you rely on either.
+Note: **Fixed (Oct 25)** — Hitachino now reads "open daily, Sun to 9" in the day file and alcohol-and-bars.csv; Yuzu Lab's "closed Sundays" was only in food.csv (now fixed). Google lists Hitachino as open **Sundays** (11–9) and Yuzu Lab as open **Sundays 11 AM–9 PM, Sat 11–9**. The day file says Hitachino is Mon–Sat and Yuzu Lab is closed Sundays. That doesn't matter for Wednesday, but it matters for the Nov 8 (Sun) and Nov 11 plans. Worth re-checking before you rely on either.
 
 ### Travel legs
 | From → To | Plan says | Realistic (mode, time) | OK? |
@@ -283,7 +284,7 @@ Note: Google lists Hitachino as open **Sundays** (11–9) and Yuzu Lab as open *
 6. **Hoppy Street pick:** **Shochan** for gyu-suji nikomi with a Hoppy, or **Suzuyoshi**. Both are open Wed. Many stalls have outdoor seating, so it's ideal on a mild day. Tempura is the backup if it's raining.
 
 ### Open questions for Dan
-- Which night keeps Yuzu Lab: Oct 27 or Oct 28? (Nov 11 makes three visits.)
+- ~~Which night keeps Yuzu Lab: Oct 27 or Oct 28? (Nov 11 makes three visits.)~~ **Oct 28** (decided Oct 25).
 - Is the group up for the early Senso-ji walk/run? If the others will sleep in, Dan can do it solo on the run.
 
 
@@ -1134,7 +1135,7 @@ Google hours were fetched Oct 24 for the current week. Nov 11 is an ordinary Wed
 ### Suggestions to make it more fun / smoother
 1. **Check in online for Delta 120 on Nov 10 (24 hrs before).** At T3 that turns the counter step into a quick bag drop. This is the cheapest way to protect the buffer.
 2. **Keep the morning light.** Coffee plus Kiyosumi Garden is the right size. Kiyosumi's color is usually only just starting in mid-November, so expect the strolling pond and stone path rather than peak foliage.
-3. **Yuzu Lab is the third visit of the trip (Oct 27, Oct 28 and now Nov 11).** If anyone wants something new, a different last bowl near Akihabara also works on this timeline. Otherwise the bookend is a nice ritual, so keep it. Your call.
+3. *(Now only the second visit: Oct 27 was dropped on Oct 25.)* **Yuzu Lab is the third visit of the trip (Oct 27, Oct 28 and now Nov 11).** If anyone wants something new, a different last bowl near Akihabara also works on this timeline. Otherwise the bookend is a nice ritual, so keep it. Your call.
 4. **Use spare time at HND T3:** the Edo Market area on 4F/5F (before security) has last-chance souvenirs and sake. Buy liquids after security or pack them in checked bags.
 5. **Leftover IC balance:** Suica/PASMO can't be refunded at the airport in a useful way. Spend it at the T3 konbini or vending machines.
 6. **Optional, not recommended:** sending bags to HND by Yamato airport delivery the day before frees the morning completely, but it usually needs a 2-day lead time and costs ~¥2,500+ per bag. The hotel bag hold is simpler.
