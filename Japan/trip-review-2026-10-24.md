@@ -43,7 +43,7 @@ Companion to [2026-fall-itinerary.md](./2026-fall-itinerary.md).
 ## Biggest plan fixes (by day)
 
 - **Oct 27/28:** ~~Yuzu Lab is booked as a meal three times (Oct 27, Oct 28, Nov 11).~~ **Done (Oct 25):** dropped from Oct 27; kept Oct 28 and Nov 11. Also fixed (Oct 25): leave for CAPPINESS at 9:40, and Oshiage → Asakusa is 2 stops. Kyushu Jangara's Akihabara main shop is **closed for renovation** from Sep 30 (official notice).
-- **Oct 29:** Tobiccho closes at **8 PM** on Thursdays, not 9. Buy the ¥1,550 Sea Candle + Night set. The trip home is ~1h40, so you'll be back around 9 PM.
+- **Oct 29:** **Done (Oct 25):** ~~Tobiccho closes at **8 PM** on Thursdays, not 9. Buy the ¥1,550 Sea Candle + Night set. The trip home is ~1h40, so you'll be back around 9 PM.~~ Also added the noon weather-cancellation check, and train times from Yahoo Transit: 7:41 AM out (Kita-Kamakura 8:39), 7:41 PM monorail + 8:13 Yokosuka Line back (hotel ~9:10 PM).
 - **Oct 30:** reorder the evening: Metropolitan Government Building at sunset, the 6 PM projection show, Omoide Yokocho, Kabukicho, Golden Gai last. Leave Shibuya by 3:40.
 - **Oct 31 / Nov 1:** the Nagoya hotel is ~250 m from **Hisaya-odori** station, not Marunouchi, so route both Nagoya days from there. The last Nabana bus is ~10 PM, not 11. Buy the Kintetsu set ticket for Nabana (¥3,670). The "others do a museum during Nabana" idea doesn't work, because the museums close at 4:30–5:30.
 - **Nov 2:** sake breweries: do Niki, Hirase and Hirata first (they close 4:00–4:30), Harada and Funasaka last (open to 6).
