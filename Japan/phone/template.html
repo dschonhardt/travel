@@ -1,0 +1,676 @@
+<meta charset="utf-8">
+<title>Japan Fall 2026</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<style>
+/* Layout: phone-first app shell. Sticky header (title, Japan clock, swipeable day strip),
+   one centered reading column, fixed bottom tab bar. Indigo (ai-zome) accent, vermilion (shu) for "now". */
+:root {
+  --paper: #f4f5f9;
+  --surface: #ffffff;
+  --ink: #1a2032;
+  --muted: #5b6377;
+  --line: #dde1eb;
+  --indigo: #24397a;
+  --indigo-soft: #e4e9f6;
+  --on-indigo: #ffffff;
+  --shu: #d4442a;
+  --shu-soft: #fbe7e2;
+  --font-body: "Zen Kaku Gothic New", system-ui, -apple-system, "Hiragino Sans", "Segoe UI", sans-serif;
+  --font-display: "Shippori Mincho B1", "Hiragino Mincho ProN", "Yu Mincho", Georgia, serif;
+  --nav-h: 60px;
+  --gutter-l: max(16px, env(safe-area-inset-left, 0px));
+  --gutter-r: max(16px, env(safe-area-inset-right, 0px));
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0e1220; --surface: #171c2d; --ink: #e6e8f0; --muted: #9ca3b7; --line: #283049;
+    --indigo: #9db0f2; --indigo-soft: #1e2850; --on-indigo: #0e1220; --shu: #ff7155; --shu-soft: #3a1d18;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0e1220; --surface: #171c2d; --ink: #e6e8f0; --muted: #9ca3b7; --line: #283049;
+  --indigo: #9db0f2; --indigo-soft: #1e2850; --on-indigo: #0e1220; --shu: #ff7155; --shu-soft: #3a1d18;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--paper); color: var(--ink);
+  font-family: var(--font-body); font-size: 16px; line-height: 1.55;
+  -webkit-text-size-adjust: 100%;
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px);
+  z-index: 10; background: var(--surface);
+}
+a { color: var(--indigo); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--shu); outline-offset: 2px; }
+strong { font-weight: 700; }
+code { font-size: .9em; background: var(--indigo-soft); padding: 0 4px; border-radius: 4px; }
+
+/* Header */
+.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--surface); border-bottom: 1px solid var(--line);
+}
+.top-row {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+  padding: 10px var(--gutter-r) 4px var(--gutter-l);
+}
+.brand { font-family: var(--font-display); font-weight: 700; font-size: 18px; letter-spacing: .02em; }
+.clock { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.clock b { color: var(--ink); font-weight: 700; }
+.strip {
+  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  padding: 6px var(--gutter-r) 10px var(--gutter-l); scroll-padding-inline: 16px;
+}
+.strip::-webkit-scrollbar { display: none; }
+.chip-day {
+  flex: 0 0 auto; width: 48px; display: grid; justify-items: center; gap: 0;
+  padding: 5px 0 6px; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--surface); color: var(--ink); text-decoration: none; position: relative;
+  font-variant-numeric: tabular-nums;
+}
+.chip-day .mo { font-size: 10px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.chip-day .dn { font-size: 19px; font-weight: 700; line-height: 1.1; }
+.chip-day .kj { font-size: 12px; color: var(--muted); }
+.chip-day.is-today::after {
+  content: ""; position: absolute; top: 5px; right: 5px; width: 7px; height: 7px;
+  border-radius: 50%; background: var(--shu);
+}
+.chip-day.is-active { background: var(--indigo); border-color: var(--indigo); color: var(--on-indigo); }
+.chip-day.is-active .mo, .chip-day.is-active .kj { color: var(--on-indigo); opacity: .8; }
+
+/* Main column */
+main {
+  max-width: 680px; margin: 0 auto;
+  padding-left: var(--gutter-l); padding-right: var(--gutter-r);
+  padding-block: 16px calc(var(--nav-h) + env(safe-area-inset-bottom, 0px) + 24px);
+  display: grid; gap: 16px;
+}
+main > * { min-width: 0; }
+
+/* Day head */
+.head { display: grid; gap: 10px; padding-block: 4px 2px; }
+.eyebrow { font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.badge-today { background: var(--shu); color: #fff; border-radius: 999px; padding: 1px 8px; letter-spacing: .06em; }
+h1 { font-family: var(--font-display); font-size: 30px; line-height: 1.2; margin: 0; text-wrap: balance; }
+.sub { margin: 0; color: var(--muted); font-size: 15px; text-wrap: pretty; }
+.hotel {
+  display: flex; align-items: center; gap: 12px; padding: 10px 12px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+}
+.hotel-txt { flex: 1; min-width: 0; font-size: 14px; line-height: 1.35; }
+.hotel-txt small { display: block; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+.btn {
+  display: inline-flex; align-items: center; gap: 6px; flex: 0 0 auto;
+  padding: 7px 12px; border-radius: 999px; font: inherit; font-size: 14px; font-weight: 700;
+  background: var(--indigo); color: var(--on-indigo); text-decoration: none; border: 0; cursor: pointer;
+}
+.btn svg { width: 15px; height: 15px; }
+.jumps { display: flex; gap: 6px; flex-wrap: wrap; }
+.jump {
+  font: inherit; font-size: 13px; padding: 4px 11px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none;
+}
+.jump.now { border-color: var(--shu); color: var(--shu); font-weight: 700; }
+
+/* Prose */
+.prose { display: grid; gap: 10px; }
+.prose p { margin: 0; }
+.prose ul, .prose ol { margin: 0; padding-left: 1.3em; display: grid; gap: 6px; }
+.prose li > ul, .prose li > ol { margin-top: 6px; }
+.prose h4 { margin: 8px 0 0; font-size: 15px; letter-spacing: .02em; }
+.prose hr { border: 0; border-top: 1px solid var(--line); margin: 4px 0; width: 100%; }
+.note { color: var(--muted); font-size: 14px; }
+.xref { font-style: italic; }
+
+/* Sections */
+.sec { scroll-margin-top: 150px; }
+.sec > summary, .sec > .sec-h {
+  list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between;
+  font-family: var(--font-display); font-size: 21px; font-weight: 700; padding-block: 8px 6px;
+  border-bottom: 2px solid var(--ink); margin-bottom: 12px;
+}
+.sec > .sec-h { cursor: default; }
+.sec > summary::-webkit-details-marker { display: none; }
+.sec > summary::after {
+  content: ""; width: 9px; height: 9px; border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
+  transform: rotate(45deg); margin-right: 4px; transition: transform .15s;
+}
+.sec:not([open]) > summary { margin-bottom: 0; }
+.sec:not([open]) > summary::after { transform: rotate(-45deg); }
+@media (prefers-reduced-motion: reduce) { .sec > summary::after { transition: none; } }
+
+/* Timeline */
+.tl { list-style: none; margin: 0; padding: 0; display: grid; }
+.tl-item {
+  display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 12px;
+  padding: 12px 0; border-top: 1px solid var(--line); position: relative;
+}
+.tl-item:first-child { border-top: 0; }
+.tl-time { font-weight: 700; font-size: 14px; line-height: 1.4; font-variant-numeric: tabular-nums; padding-top: 1px; }
+.tl-time .ap { font-size: 11px; color: var(--muted); font-weight: 500; margin-left: 2px; }
+.tl-item.fixed .tl-time { color: var(--indigo); }
+.tl-body { font-size: 15px; overflow-wrap: anywhere; }
+.tl-item.is-past { opacity: .55; }
+.tl-item.is-now {
+  background: var(--shu-soft); border-radius: 12px; border-top-color: transparent;
+  padding-inline: 10px; margin-inline: -10px;
+}
+.tl-item.is-now + .tl-item { border-top-color: transparent; }
+.tl-item.is-now .tl-time { color: var(--shu); }
+.tl-item.is-now .tl-time::before {
+  content: "Now"; display: block; width: max-content; margin-bottom: 3px; font-size: 10px; letter-spacing: .1em;
+  text-transform: uppercase; background: var(--shu); color: #fff; border-radius: 4px; padding: 0 6px;
+}
+
+/* Cards (wide tables) */
+.cards { display: grid; gap: 10px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: grid; gap: 6px; }
+.card h4 { margin: 0; font-size: 16px; }
+.card dl { margin: 0; display: grid; gap: 6px; font-size: 14px; }
+.card dt { font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.card dd { margin: 0; overflow-wrap: anywhere; }
+
+/* Map pin */
+.pin {
+  display: inline-flex; align-items: center; justify-content: center; vertical-align: -3px;
+  width: 22px; height: 22px; margin-left: 3px; border-radius: 50%;
+  background: var(--indigo-soft); color: var(--indigo);
+}
+.pin svg { width: 13px; height: 13px; }
+
+/* Tasks */
+li.task { list-style: none; margin-left: -1.3em; display: grid; grid-template-columns: 20px minmax(0, 1fr); gap: 6px; }
+li.task .box {
+  width: 16px; height: 16px; margin-top: 4px; border: 1.5px solid var(--muted); border-radius: 4px;
+  display: grid; place-items: center; font-size: 11px; line-height: 1;
+}
+li.task.done { color: var(--muted); }
+li.task.done .box { background: var(--indigo); border-color: var(--indigo); color: var(--on-indigo); }
+
+/* Prev / next */
+.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 8px; }
+.pager a {
+  display: grid; gap: 2px; padding: 12px 14px; border-radius: 12px; text-decoration: none;
+  background: var(--surface); border: 1px solid var(--line); color: var(--ink); min-width: 0;
+}
+.pager a small { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+.pager a span { font-weight: 700; font-size: 14px; }
+.pager .next { text-align: right; grid-column: 2; }
+
+/* Days list */
+.days { display: grid; gap: 8px; list-style: none; margin: 0; padding: 0; }
+.day-row {
+  display: grid; grid-template-columns: 52px minmax(0, 1fr); gap: 14px; align-items: center;
+  padding: 10px 12px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line);
+  color: var(--ink); text-decoration: none;
+}
+.day-row.is-today { border-color: var(--shu); }
+.day-date { text-align: center; display: grid; font-variant-numeric: tabular-nums; }
+.day-date .mo { font-size: 10px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.day-date .dn { font-size: 22px; font-weight: 700; line-height: 1.1; }
+.day-date .kj { font-size: 12px; color: var(--muted); }
+.day-row b { display: block; font-family: var(--font-display); font-size: 17px; line-height: 1.3; }
+.day-row span.s { display: block; font-size: 13px; color: var(--muted); line-height: 1.4; }
+.leg { font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 10px 0 0; }
+
+/* Places */
+.search {
+  width: 100%; font: inherit; font-size: 16px; padding: 10px 14px; border-radius: 12px;
+  border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+}
+.filters { display: grid; gap: 8px; }
+.chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+.chips::-webkit-scrollbar { display: none; }
+.chips button {
+  flex: 0 0 auto; font: inherit; font-size: 13px; padding: 5px 12px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface); color: var(--ink); white-space: nowrap;
+}
+.chips button[aria-pressed="true"] { background: var(--indigo); border-color: var(--indigo); color: var(--on-indigo); }
+.count { font-size: 13px; color: var(--muted); }
+.places { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.place { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: grid; gap: 6px; }
+.place-top { display: flex; gap: 10px; align-items: flex-start; justify-content: space-between; }
+.place-top > div { min-width: 0; }
+.place b { display: block; line-height: 1.3; }
+.place .meta { font-size: 12px; color: var(--muted); letter-spacing: .04em; }
+.place p { margin: 0; font-size: 14px; overflow-wrap: anywhere; }
+.empty { color: var(--muted); text-align: center; padding: 24px 0; }
+.built { font-size: 12px; color: var(--muted); text-align: center; }
+
+/* Bottom nav */
+.nav {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 5;
+  background: var(--surface); border-top: 1px solid var(--line);
+  padding: 0 var(--gutter-r) env(safe-area-inset-bottom, 0px) var(--gutter-l);
+}
+.nav-in { max-width: 680px; margin: 0 auto; display: grid; grid-template-columns: repeat(3, 1fr); height: var(--nav-h); }
+.nav button {
+  font: inherit; font-size: 12px; font-weight: 500; background: none; border: 0; cursor: pointer;
+  color: var(--muted); display: grid; justify-items: center; align-content: center; gap: 2px;
+}
+.nav button svg { width: 22px; height: 22px; }
+.nav button[aria-current="page"] { color: var(--indigo); font-weight: 700; }
+
+.err { background: var(--shu-soft); color: var(--ink); padding: 12px; border-radius: 12px; }
+</style>
+
+<header class="top">
+  <div class="top-row">
+    <span class="brand">Japan Fall 2026</span>
+    <span class="clock" id="clock"></span>
+  </div>
+  <nav class="strip" id="strip" aria-label="Days"></nav>
+</header>
+
+<main id="view"></main>
+
+<nav class="nav" aria-label="Sections">
+  <div class="nav-in">
+    <button type="button" data-tab="today">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>
+      Today
+    </button>
+    <button type="button" data-tab="days">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+      Days
+    </button>
+    <button type="button" data-tab="places">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.3"/></svg>
+      Places
+    </button>
+  </div>
+</nav>
+
+<script type="application/json" id="trip-data">__TRIP_DATA__</script>
+<script>
+(function () {
+  const view = document.getElementById('view');
+  try {
+    const DATA = JSON.parse(document.getElementById('trip-data').textContent);
+    const KANJI = ['日', '月', '火', '水', '木', '金', '土'];
+    const MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const WD = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+    const LAYER_LABEL = { 'food': 'Food', 'alcohol-and-bars': 'Bars', 'sights': 'Sights', 'transport': 'Transport', 'hotels': 'Hotels' };
+    const PIN_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.3"/></svg>';
+
+    const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    const unesc = s => s.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&amp;/g, '&');
+    const slug = s => s.toLowerCase().replace(/[*`_]/g, '').replace(/[^\p{L}\p{N}\s-]/gu, '').trim().replace(/\s/g, '-');
+    const norm = s => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
+      .replace(/[^a-z0-9぀-ヿ一-鿿]+/g, ' ').trim();
+    const mapUrl = p => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(p.Location || p.Name);
+
+    // ---- Japan time ----
+    const jstParts = () => {
+      const f = new Intl.DateTimeFormat('en-US', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' });
+      const o = {}; f.formatToParts(new Date()).forEach(p => { o[p.type] = p.value; });
+      return { date: `${o.year}-${o.month}-${o.day}`, min: (+o.hour % 24) * 60 + +o.minute, h: +o.hour % 24, m: +o.minute };
+    };
+
+    // ---- Places ----
+    const PLACES = (DATA.places || []).map((p, i) => Object.assign({}, p, { i, n: norm(p.Name || '') }));
+    const CITIES = [...new Set(PLACES.map(p => p.City).filter(Boolean))];
+    const matchCache = new Map();
+    function findPlace(text, cities, list) {
+      const b = norm(text);
+      if (!b || b.length < 4 || /^\d/.test(b) || b.split(' ').length > 7) return null;
+      const key = b + '|' + cities.join(',') + '|' + (list ? 'h' : 'a');
+      if (matchCache.has(key)) return matchCache.get(key);
+      const bw = b.split(' ').length;
+      let best = null, score = -1;
+      for (const p of (list || PLACES)) {
+        if (!p.n) continue;
+        let s = -1;
+        if (p.n === b) s = 100;
+        else if (b.length >= 6 && (' ' + p.n + ' ').includes(' ' + b + ' ') && p.n.split(' ').length <= bw + 2) s = 60 - (p.n.length - b.length) / 10;
+        else if (p.n.length >= 6 && (' ' + b + ' ').includes(' ' + p.n + ' ')) s = 50 + p.n.length / 10;
+        if (s < 0) continue;
+        if (cities.includes(p.City)) s += 20;
+        if (s > score) { score = s; best = p; }
+      }
+      matchCache.set(key, best);
+      return best;
+    }
+
+    // ---- Days ----
+    const DAYS = DATA.days.map(d => {
+      const lines = d.md.replace(/\r/g, '').split('\n');
+      const h1 = (lines.find(l => /^#\s/.test(l)) || '').replace(/^#\s+/, '');
+      const parts = h1.split(/\s+—\s+/);
+      const rest = parts.slice(2).join(' — ');
+      const pm = rest.match(/^(.*?)\s*\((.*)\)\s*$/);
+      const [y, mo, da] = d.id.split('-').map(Number);
+      const dt = new Date(Date.UTC(y, mo - 1, da));
+      return {
+        id: d.id, md: d.md, num: (parts[0] || '').replace(/^Day\s*/i, ''),
+        city: pm ? pm[1] : rest, subtitle: pm ? pm[2] : '',
+        wd: dt.getUTCDay(), mon: dt.getUTCMonth(), day: dt.getUTCDate(),
+        cities: CITIES.filter(c => h1.includes(c))
+      };
+    });
+    const DAY_BY_ID = Object.fromEntries(DAYS.map(d => [d.id, d]));
+    const dayIndex = id => DAYS.findIndex(d => d.id === id);
+    const longDate = d => `${WD[d.wd]} ${MON[d.mon]} ${d.day}`;
+    function todayId() {
+      const t = jstParts().date;
+      if (t < DAYS[0].id) return DAYS[0].id;
+      if (t > DAYS[DAYS.length - 1].id) return DAYS[DAYS.length - 1].id;
+      return DAY_BY_ID[t] ? t : DAYS.filter(d => d.id <= t).pop().id;
+    }
+
+    // ---- Markdown: blocks ----
+    function parseBlocks(md) {
+      const L = md.replace(/\r/g, '').split('\n'); const out = []; let para = [];
+      const flush = () => { if (para.length) { out.push({ t: 'p', text: para.join(' ') }); para = []; } };
+      const row = l => { let s = l.trim(); if (s.startsWith('|')) s = s.slice(1); if (s.endsWith('|')) s = s.slice(0, -1); return s.split('|').map(c => c.trim()); };
+      const LI = /^(\s*)([-*+]|\d+[.)])\s+(.*)/;
+      for (let i = 0; i < L.length; i++) {
+        const l = L[i]; let m;
+        if (!l.trim()) { flush(); continue; }
+        if ((m = l.match(/^(#{1,6})\s+(.*)/))) { flush(); out.push({ t: 'h', level: m[1].length, text: m[2] }); continue; }
+        if (/^\s*(-{3,}|\*{3,})\s*$/.test(l)) { flush(); out.push({ t: 'hr' }); continue; }
+        if (l.trim().startsWith('|') && i + 1 < L.length && /^\s*\|?\s*:?-{2,}/.test(L[i + 1])) {
+          flush(); const head = row(l); const rows = []; i += 2;
+          while (i < L.length && L[i].trim().startsWith('|')) { rows.push(row(L[i])); i++; }
+          i--; out.push({ t: 'table', head, rows }); continue;
+        }
+        if (LI.test(l)) {
+          flush(); const items = [];
+          while (i < L.length) {
+            const x = L[i]; const mm = x.match(LI);
+            if (mm) { items.push({ ind: mm[1].length, ord: /\d/.test(mm[2]), text: mm[3] }); i++; }
+            else if (x.trim() && /^\s{2,}/.test(x) && items.length) { items[items.length - 1].text += ' ' + x.trim(); i++; }
+            else break;
+          }
+          i--; out.push({ t: 'list', items }); continue;
+        }
+        para.push(l.trim());
+      }
+      flush(); return out;
+    }
+
+    // ---- Markdown: inline ----
+    function pin(name, ctx) {
+      if (!ctx || ctx.noPins) return '';
+      const p = findPlace(name, ctx.cities || []);
+      if (!p || ctx.pins.has(p.i)) return '';
+      ctx.pins.add(p.i);
+      return `<a class="pin" href="${esc(mapUrl(p))}" target="_blank" rel="noopener" aria-label="Map: ${esc(p.Name)}" title="${esc(p.Name)}">${PIN_SVG}</a>`;
+    }
+    function fmt(s, ctx) {
+      s = esc(s).replace(/&lt;br\s*\/?&gt;/gi, '<br>');
+      s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
+      s = s.replace(/\*\*(.+?)\*\*/g, (m, t) => '<strong>' + t + '</strong>' + pin(unesc(t.replace(/<[^>]+>/g, '')), ctx));
+      s = s.replace(/(^|[^*\w])\*(?!\s)([^*]+?)\*(?!\w)/g, '$1<em>$2</em>');
+      return s;
+    }
+    function link(text, url, ctx) {
+      const label = fmt(text, Object.assign({}, ctx, { noPins: true }));
+      const m = url.match(/(\d{4}-\d{2}-\d{2})\.md/);
+      if (m && DAY_BY_ID[m[1]]) return `<a href="#d${m[1]}" data-day="${m[1]}">${label}</a>`;
+      if (url.startsWith('#')) return `<a href="#" data-anchor="${esc(url.slice(1))}">${label}</a>`;
+      if (/^https?:/i.test(url)) return `<a href="${esc(url)}" target="_blank" rel="noopener">${label}</a>`;
+      return `<span class="xref">${label}</span>`;
+    }
+    function inline(src, ctx) {
+      const toks = [];
+      const hold = h => '\u0001' + (toks.push(h) - 1) + '\u0002';
+      let s = String(src).replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (m, t, u) => hold(link(t, u, ctx)));
+      s = fmt(s, ctx);
+      return s.replace(/\u0001(\d+)\u0002/g, (m, i) => toks[+i]);
+    }
+
+    // ---- Markdown: render ----
+    const parseMin = cell => {
+      const s = cell.replace(/\*/g, ''); const m = s.match(/(\d{1,2}):(\d{2})/);
+      if (!m) return '';
+      const ap = (s.match(/\b(AM|PM)\b/) || [])[1]; let h = +m[1];
+      if (ap === 'PM' && h < 12) h += 12; if (ap === 'AM' && h === 12) h = 0;
+      return h * 60 + +m[2];
+    };
+    function renderList(items, mk) {
+      let html = ''; const stack = [];
+      for (const it of items) {
+        while (stack.length && it.ind < stack[stack.length - 1].ind) html += '</li></' + stack.pop().tag + '>';
+        const top = stack[stack.length - 1];
+        if (!top || it.ind > top.ind) { const tag = it.ord ? 'ol' : 'ul'; stack.push({ ind: it.ind, tag }); html += '<' + tag + '>'; }
+        else html += '</li>';
+        const tm = it.text.match(/^\[( |x|X)\]\s+(.*)/);
+        if (tm) {
+          const done = tm[1] !== ' ';
+          html += `<li class="task${done ? ' done' : ''}"><span class="box" aria-label="${done ? 'Done' : 'Open'}">${done ? '✓' : ''}</span><span>${inline(tm[2], mk())}</span>`;
+        } else html += '<li>' + inline(it.text, mk());
+      }
+      while (stack.length) html += '</li></' + stack.pop().tag + '>';
+      return html;
+    }
+    function renderTable(b, mk, main) {
+      if (/time|^when$/i.test(b.head[0] || '') && b.head.length === 2) {
+        return `<ol class="tl${main ? ' tl-main' : ''}">` + b.rows.map(r => {
+          const fixed = /\*\*/.test(r[0]);
+          const t = inline(r[0].replace(/\*\*/g, ''), { noPins: true }).replace(/\b(AM|PM)\b/g, '<span class="ap">$1</span>');
+          return `<li class="tl-item${fixed ? ' fixed' : ''}" data-min="${parseMin(r[0])}"><div class="tl-time">${t}</div><div class="tl-body">${inline(r[1] || '', mk())}</div></li>`;
+        }).join('') + '</ol>';
+      }
+      return '<div class="cards">' + b.rows.map(r =>
+        `<article class="card"><h4>${inline(r[0] || '', mk())}</h4><dl>` +
+        b.head.slice(1).map((h, j) => r[j + 1] ? `<dt>${inline(h, { noPins: true })}</dt><dd>${inline(r[j + 1], mk())}</dd>` : '').join('') +
+        '</dl></article>').join('') + '</div>';
+    }
+    function renderBlocks(blocks, mk, opts) {
+      opts = opts || {};
+      let html = ''; let firstTl = !!opts.mainTimeline;
+      for (const b of blocks) {
+        if (b.t === 'p') {
+          const isNote = opts.notes && /^(All times|_|\*[^*])/.test(b.text);
+          html += `<p${isNote ? ' class="note"' : ''}>${inline(b.text, mk())}</p>`;
+        } else if (b.t === 'h') html += `<h4 id="${esc(opts.prefix + slug(b.text))}">${inline(b.text, { noPins: true })}</h4>`;
+        else if (b.t === 'hr') html += '<hr>';
+        else if (b.t === 'list') html += renderList(b.items, mk);
+        else if (b.t === 'table') { html += renderTable(b, mk, firstTl); firstTl = false; }
+      }
+      return html;
+    }
+
+    // ---- Views ----
+    const strip = document.getElementById('strip');
+    let state = { tab: 'today', day: todayId() };
+
+    function renderStrip() {
+      const tid = jstParts().date;
+      strip.innerHTML = DAYS.map(d =>
+        `<a class="chip-day${d.id === tid ? ' is-today' : ''}${state.tab !== 'places' && state.tab !== 'days' && d.id === state.day ? ' is-active' : ''}" href="#d${d.id}" data-day="${d.id}" aria-label="${esc(longDate(d) + ', ' + d.city)}">` +
+        `<span class="mo">${MON[d.mon]}</span><span class="dn">${d.day}</span><span class="kj">${KANJI[d.wd]}</span></a>`).join('');
+      const act = strip.querySelector('.is-active');
+      if (act) strip.scrollLeft = act.offsetLeft - strip.clientWidth / 2 + act.offsetWidth / 2;
+    }
+
+    function tonightHotel(d) {
+      const hotels = PLACES.filter(p => p.layer === 'hotels');
+      const lod = sectionsOf(d).find(s => /^lodging/i.test(s.title));
+      if (!lod) {
+        const nx = DAYS[dayIndex(d.id) + 1];
+        return nx ? tonightHotel(nx) : null;
+      }
+      let found = null;
+      lod.body.split('\n').forEach(l => {
+        if (/^\s*-\s*check out/i.test(l)) return;
+        const m = l.match(/\*\*(.+?)\*\*/);
+        if (m) { const p = findPlace(m[1], [], hotels); if (p) found = p; }
+      });
+      return found;
+    }
+
+    function sectionsOf(d) {
+      const lines = d.md.replace(/\r/g, '').split('\n');
+      const secs = []; let cur = { title: '', body: [] };
+      for (const l of lines) {
+        if (/^#\s/.test(l)) continue;
+        const m = l.match(/^##\s+(.*)/);
+        if (m) { secs.push(cur); cur = { title: m[1].trim(), body: [] }; } else cur.body.push(l);
+      }
+      secs.push(cur);
+      return secs.map(s => ({ title: s.title, body: s.body.join('\n') }));
+    }
+
+    function renderDay(id) {
+      const d = DAY_BY_ID[id]; const idx = dayIndex(id);
+      const isToday = jstParts().date === id;
+      const mk = () => ({ cities: d.cities, pins: new Set() });
+      const secs = sectionsOf(d);
+      const intro = secs[0]; const rest = secs.slice(1).filter(s => s.body.trim());
+      const hotel = tonightHotel(d);
+      const last = idx === DAYS.length - 1;
+      const prefix = 's-';
+      let html = `<section class="head">
+        <div class="eyebrow"><span>Day ${esc(d.num)} · ${esc(longDate(d))}</span>${isToday ? '<span class="badge-today">Today</span>' : ''}</div>
+        <h1>${esc(d.city)}</h1>
+        ${d.subtitle ? `<p class="sub">${esc(d.subtitle)}</p>` : ''}
+        ${hotel && !last ? `<div class="hotel"><div class="hotel-txt"><small>Tonight</small>${esc(hotel.Name)}</div><a class="btn" href="${esc(mapUrl(hotel))}" target="_blank" rel="noopener">${PIN_SVG}Map</a></div>` : ''}
+        <div class="jumps">${isToday ? '<button type="button" class="jump now" data-now>Jump to now</button>' : ''}${rest.map(s => `<button type="button" class="jump" data-anchor="${esc(slug(s.title))}">${esc(s.title)}</button>`).join('')}</div>
+      </section>`;
+      if (intro.body.trim()) html += `<div class="prose">${renderBlocks(parseBlocks(intro.body), mk, { prefix })}</div>`;
+      for (const s of rest) {
+        const isPlan = /^plan$/i.test(s.title);
+        const inner = `<div class="prose">${renderBlocks(parseBlocks(s.body), mk, { prefix, mainTimeline: isPlan, notes: isPlan })}</div>`;
+        html += isPlan
+          ? `<section class="sec" id="${prefix}${esc(slug(s.title))}"><h2 class="sec-h">${inline(s.title, { noPins: true })}</h2>${inner}</section>`
+          : `<details class="sec" id="${prefix}${esc(slug(s.title))}" open><summary>${inline(s.title, { noPins: true })}</summary>${inner}</details>`;
+      }
+      const prev = DAYS[idx - 1], next = DAYS[idx + 1];
+      html += `<nav class="pager" aria-label="Previous and next day">
+        ${prev ? `<a class="prev" href="#d${prev.id}" data-day="${prev.id}"><small>‹ Day ${esc(prev.num)}</small><span>${esc(longDate(prev))}</span></a>` : ''}
+        ${next ? `<a class="next" href="#d${next.id}" data-day="${next.id}"><small>Day ${esc(next.num)} ›</small><span>${esc(longDate(next))}</span></a>` : ''}
+      </nav>`;
+      view.innerHTML = html;
+      markNow();
+    }
+
+    function markNow() {
+      const tl = view.querySelector('.tl-main');
+      if (!tl) return;
+      const items = [...tl.querySelectorAll('.tl-item')];
+      items.forEach(li => li.classList.remove('is-now', 'is-past'));
+      if (jstParts().date !== state.day || state.tab === 'days' || state.tab === 'places') return;
+      const now = jstParts().min; let cur = -1;
+      items.forEach((li, i) => { const m = li.dataset.min; if (m !== '' && +m <= now) cur = i; });
+      items.forEach((li, i) => { if (i < cur) li.classList.add('is-past'); if (i === cur) li.classList.add('is-now'); });
+    }
+
+    function renderDays() {
+      const tid = jstParts().date;
+      let html = '<div class="head"><div class="eyebrow">Oct 27 – Nov 11 · 16 days</div><h1>All days</h1></div><ul class="days">';
+      let leg = null;
+      for (const d of DAYS) {
+        const base = d.city.split('→').pop().trim().split(' ')[0];
+        if (base !== leg) { html += `<li class="leg">${esc(base)}</li>`; leg = base; }
+        html += `<li><a class="day-row${d.id === tid ? ' is-today' : ''}" href="#d${d.id}" data-day="${d.id}">
+          <span class="day-date"><span class="mo">${MON[d.mon]}</span><span class="dn">${d.day}</span><span class="kj">${KANJI[d.wd]}</span></span>
+          <span><b>${esc(d.city)}</b>${d.subtitle ? `<span class="s">${esc(d.subtitle)}</span>` : ''}</span></a></li>`;
+      }
+      html += `</ul><p class="built">Built ${esc(DATA.built || '')} from the trip notes</p>`;
+      view.innerHTML = html;
+    }
+
+    const pf = { q: '', city: 'All', layer: 'All' };
+    function noteHtml(s) {
+      return esc(s).replace(/\b(Oct|Nov)\s+(\d{1,2})\b/g, (m, mo, dd) => {
+        const id = `2026-${mo === 'Oct' ? '10' : '11'}-${String(dd).padStart(2, '0')}`;
+        return DAY_BY_ID[id] ? `<a href="#d${id}" data-day="${id}">${m}</a>` : m;
+      });
+    }
+    function renderPlaces() {
+      const cityCounts = {}; PLACES.forEach(p => { cityCounts[p.City] = (cityCounts[p.City] || 0) + 1; });
+      const cities = ['All'].concat(Object.keys(cityCounts).sort((a, b) => cityCounts[b] - cityCounts[a]));
+      const layers = ['All'].concat(Object.keys(LAYER_LABEL).filter(l => PLACES.some(p => p.layer === l)));
+      view.innerHTML = `<div class="head"><div class="eyebrow">From the map layers</div><h1>Places</h1></div>
+        <div class="filters">
+          <input class="search" id="place-search" type="search" placeholder="Search names and notes" autocomplete="off" value="${esc(pf.q)}">
+          <div class="chips" role="group" aria-label="City">${cities.map(c => `<button type="button" data-city="${esc(c)}" aria-pressed="${pf.city === c}">${esc(c)}</button>`).join('')}</div>
+          <div class="chips" role="group" aria-label="Type">${layers.map(l => `<button type="button" data-layer="${esc(l)}" aria-pressed="${pf.layer === l}">${esc(LAYER_LABEL[l] || l)}</button>`).join('')}</div>
+        </div>
+        <div class="count" id="place-count"></div>
+        <ul class="places" id="place-list"></ul>
+        <p class="built">Built ${esc(DATA.built || '')} from the trip notes</p>`;
+      document.getElementById('place-search').addEventListener('input', e => { pf.q = e.target.value; renderPlaceList(); });
+      renderPlaceList();
+    }
+    function renderPlaceList() {
+      const q = norm(pf.q);
+      const rows = PLACES.filter(p => (pf.city === 'All' || p.City === pf.city) && (pf.layer === 'All' || p.layer === pf.layer) &&
+        (!q || norm(p.Name + ' ' + (p.Notes || '') + ' ' + (p.Type || '')).includes(q)));
+      document.getElementById('place-count').textContent = `${rows.length} place${rows.length === 1 ? '' : 's'}`;
+      document.getElementById('place-list').innerHTML = rows.length ? rows.map(p => `<li class="place">
+        <div class="place-top"><div><b>${esc(p.Name)}</b><span class="meta">${esc([p.Type, p.City].filter(Boolean).join(' · '))}</span></div>
+        <a class="btn" href="${esc(mapUrl(p))}" target="_blank" rel="noopener">${PIN_SVG}Map</a></div>
+        ${p.Notes ? `<p>${noteHtml(p.Notes)}</p>` : ''}</li>`).join('') : '<li class="empty">No places match. Try another city or clear the search.</li>';
+    }
+
+    // ---- Routing ----
+    function setNav() {
+      document.querySelectorAll('.nav button').forEach(b => {
+        const on = b.dataset.tab === state.tab || (b.dataset.tab === 'today' && state.tab === 'day' && state.day === todayId());
+        if (on) b.setAttribute('aria-current', 'page'); else b.removeAttribute('aria-current');
+      });
+    }
+    function render() {
+      if (state.tab === 'days') renderDays();
+      else if (state.tab === 'places') renderPlaces();
+      else renderDay(state.day);
+      renderStrip(); setNav();
+    }
+    function go(tab, day, push) {
+      state = { tab, day: day || state.day };
+      const h = tab === 'days' ? 'days' : tab === 'places' ? 'places' : 'd' + state.day;
+      if (push) { try { if (location.hash.slice(1) !== h) history.pushState(null, '', '#' + h); } catch (e) { /* hash optional */ } }
+      render(); window.scrollTo(0, 0);
+    }
+    function fromHash() {
+      const h = (location.hash || '').slice(1);
+      if (h === 'days' || h === 'places') return go(h, null, false);
+      const m = h.match(/^d(\d{4}-\d{2}-\d{2})$/);
+      if (m && DAY_BY_ID[m[1]]) return go('day', m[1], false);
+      go('today', todayId(), false);
+    }
+    window.addEventListener('popstate', fromHash);
+    window.addEventListener('hashchange', fromHash);
+
+    document.addEventListener('click', e => {
+      const t = e.target.closest('[data-day],[data-tab],[data-anchor],[data-now],[data-city],[data-layer]');
+      if (!t) return;
+      if (t.dataset.day) { e.preventDefault(); go('day', t.dataset.day, true); }
+      else if (t.dataset.tab) { t.dataset.tab === 'today' ? go('today', todayId(), true) : go(t.dataset.tab, null, true); }
+      else if (t.dataset.anchor !== undefined) {
+        e.preventDefault();
+        const el = document.getElementById('s-' + t.dataset.anchor);
+        if (el) { if (el.tagName === 'DETAILS') el.open = true; el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+      } else if (t.dataset.now !== undefined) {
+        const el = view.querySelector('.tl-item.is-now') || view.querySelector('.tl-main');
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      } else if (t.dataset.city) { pf.city = t.dataset.city; renderPlaces(); }
+      else if (t.dataset.layer) { pf.layer = t.dataset.layer; renderPlaces(); }
+    });
+
+    // ---- Clock ----
+    const clock = document.getElementById('clock');
+    function tick() {
+      const j = jstParts(); const h12 = j.h % 12 || 12;
+      clock.innerHTML = `Japan <b>${h12}:${String(j.m).padStart(2, '0')} ${j.h < 12 ? 'AM' : 'PM'}</b>`;
+      markNow();
+    }
+    tick(); setInterval(tick, 30000);
+    document.addEventListener('visibilitychange', () => { if (!document.hidden) tick(); });
+
+    fromHash();
+  } catch (err) {
+    view.innerHTML = '<div class="err">The trip page could not load: ' + String(err && err.message || err).replace(/</g, '&lt;') + '</div>';
+  }
+})();
+</script>
