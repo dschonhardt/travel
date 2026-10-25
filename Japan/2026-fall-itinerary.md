@@ -53,11 +53,11 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 
 | Days | Dates | Location | Notes |
 |---|---|---|---|
-| 1 | Tue Oct 27 | Tokyo | Arrival (land 2:35 PM). Yuzu Lab Noodles dinner, Akihabara. See [days/2026-10-27.md](./days/2026-10-27.md) |
-| 2 | Wed Oct 28 | Tokyo | Gyudon breakfast, CAPPINESS Oshiage capybara cafe, Senso-ji, Akihabara, Hitachino Brewing Lab, Yuzu Lab again. See [days/2026-10-28.md](./days/2026-10-28.md) |
+| 1 | Tue Oct 27 | Tokyo | Arrival (land 2:35 PM). Standing sushi near the hotel, Akihabara. See [days/2026-10-27.md](./days/2026-10-27.md) |
+| 2 | Wed Oct 28 | Tokyo | Gyudon breakfast, CAPPINESS Oshiage capybara cafe, Senso-ji, Akihabara, Hitachino Brewing Lab, Yuzu Lab Noodles dinner. See [days/2026-10-28.md](./days/2026-10-28.md) |
 | 3 | Thu Oct 29 | Tokyo (Kamakura day trip) | Kamakura + Enoshima via the Daibutsu Hiking Course, with a local food list. See [days/2026-10-29.md](./days/2026-10-29.md) |
 | 4 | Fri Oct 30 | Tokyo | West-side day: Shinjuku Gyoen, Meiji Jingu, Harajuku, Shibuya, Shinjuku at night (ramen festival dropped). See [days/2026-10-30.md](./days/2026-10-30.md) |
-| 5 | Sat Oct 31 | Tokyo → Nagoya | Tokaido Shinkansen (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Afternoon in Osu (Yabaton misokatsu), sunset from Mirai Tower, tebasaki dinner in Sakae. See [days/2026-10-31.md](./days/2026-10-31.md) |
+| 5 | Sat Oct 31 | Tokyo → Nagoya | **Tokaido Shinkansen (booked)** (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Afternoon in Osu (Yabaton misokatsu), sunset from Mirai Tower, tebasaki dinner in Sakae. See [days/2026-10-31.md](./days/2026-10-31.md) |
 | 6 | Sun Nov 1 | Nagoya | Nagoya Castle in the morning, **Nabana no Sato illumination** in the evening (probably Dan solo; the others likely do a museum). Atsuta Jingu in the afternoon, then hitsumabushi at Nagoya Station on the way. Zombie Island dropped. See [days/2026-11-01.md](./days/2026-11-01.md) |
 | 7 | Mon Nov 2 | Nagoya → Takayama | **Hida 5, 9:39 AM (booked)**, arrives ~12:15 PM (¥6,140–6,340 reserved ≈ $41–42 pp one-way), scenic mountain ride. Afternoon/evening in Takayama: Sanmachi Suji, sake breweries. See [days/2026-11-02.md](./days/2026-11-02.md). **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
 | 8 | Tue Nov 3 | Takayama (day trip) | Kamikochi day trip via Nohi Bus. Nov 3 is Culture Day (national holiday). The buses can't be reserved, so go early. Dinner at Kitchen Hida (6:00 PM, last order 7:45). See [days/2026-11-03.md](./days/2026-11-03.md) |
@@ -67,7 +67,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 12 | Sat Nov 7 | Kanazawa → Tokyo | Higashi Chaya (sake-lees soft serve at Fukumitsuya Higashi) and Kazuemachi in the morning, then the first day of local crab: Omicho crab lunch, then Kagayaki 534 at 1:50 PM (not booked). Check in at APA Ryogoku, chanko nabe dinner. See [days/2026-11-07.md](./days/2026-11-07.md) |
 | 13 | Sun Nov 8 | Tokyo | **Draft.** Ryogoku and Kameido on foot, no museums (Kyu-Yasuda Garden, Sumida River walk, Edo Noren brunch, Ekoin and the 47 Ronin site, Kameido Tenjin chrysanthemums, Kameido Gyoza), then **Hop Fest** in Daikanyama (18:00 session) and late bites at Ebisu Yokocho. See [days/2026-11-08.md](./days/2026-11-08.md) |
 | 14 | Mon Nov 9 | Tokyo (Mt. Tsukuba day trip) | **Draft.** Mt. Tsukuba replaces Nikko (too far). Tsukuba Express from Akihabara + shuttle bus, paid with IC card. Hiking both ways. Swap with Nov 10 if the weather is better then. See [days/2026-11-09.md](./days/2026-11-09.md) |
-| 15 | Tue Nov 10 | Tokyo | **Draft (Oct 24).** Slow Chuo Line day after the hike: Nakano Broadway, Nogata Hope ramen, Koenji thrift, Kosugi-yu sento, Harmonica Yokocho in Kichijoji at night, Akiyoshi yakitori in Nakano. See [days/2026-11-10.md](./days/2026-11-10.md) |
+| 15 | Tue Nov 10 | Tokyo | **Draft (Oct 24, morning added Oct 25).** Slow Chuo Line day after the hike: Koishikawa Korakuen and Kagurazaka, carp fishing at the Ichigaya Fish Center, Nogata Hope ramen, Nakano Broadway, Koenji thrift, Inokashira Park at sunset, Harmonica Yokocho in Kichijoji, Akiyoshi yakitori in Nakano. See [days/2026-11-10.md](./days/2026-11-10.md) |
 | 16 | Wed Nov 11 | Tokyo (departure) | **Draft.** Bags at the APA, Kiyosumi-Shirakawa coffee and garden, last meal at Yuzu Lab Noodles (Akihabara), leave for HND ~1:45 PM. See [days/2026-11-11.md](./days/2026-11-11.md) |
 
 ## Decisions needed
@@ -88,7 +88,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 ## TODO — bookings (time-sensitive)
 - [x] **Tokyo end-block lodging** (Nov 7–11): APA Hotel & Resort Ryogoku Eki Tower
 - [ ] **Reserve train seats** (individual tickets, no JR Pass):
-  - [ ] Sat Oct 31 Tokaido Shinkansen Tokyo → Nagoya (4 seats together)
+  - [x] Sat Oct 31 Tokaido Shinkansen Tokyo → Nagoya (4 seats, booked)
   - [x] Mon Nov 2 Hida Express Nagoya → Takayama (Hida 5, 9:39 AM, booked)
   - [ ] Wed Nov 4 Hida 3, Takayama 11:03 AM → Toyama 12:32 PM (buy at Takayama Station on Nov 2)
   - [ ] Sat Nov 7 Kagayaki 534, Kanazawa 1:50 PM → Tokyo (3 seats together; confirm it runs that day)

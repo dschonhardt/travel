@@ -152,7 +152,7 @@ Seibu Shinjuku Line, or ~15 min walk north from JR Koenji. Plain local shotengai
 
 **On our dates:** nothing found.
 
-- ☐ **Nogata Hope** 🟢 — triple-soup tonkotsu ramen, ~¥740. Main shop 2-58-4 Nogata, **11:00–3:00 AM, no closing day**. **Cash, or PayPay only** (since July 2026) ([official](https://www.nogata-hope.com/store)). Branches in **Nakano** (to 1:30 AM) and **Kichijoji** (to 2:00 AM) if Nogata doesn't fit. The Ogikubo branch is closed for building work until ~Jan 2027
+- ☐ **Nogata Hope** 🟢 — triple-soup tonkotsu ramen, classic 元 (Gen) ¥950 ([official menu](https://www.nogata-hope.com/menu), Oct 25). Main shop 2-58-4 Nogata, **11:00–3:00 AM, no closing day**. **Cash, or PayPay only** (since July 2026) ([official](https://www.nogata-hope.com/store)). Branches in **Nakano** (to 1:30 AM) and **Kichijoji** (to 2:00 AM) if Nogata doesn't fit. The Ogikubo branch is closed for building work until ~Jan 2027
 - ☐ **Shotengai walk** — Showa-era shopping streets and cheap izakaya along the Seibu line (not checked)
 
 ### Nakano
