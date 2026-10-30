@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Japan Trip Confirmations</title>
+<style>
+/* Print sheet: one column, each booking a bordered block that never splits across pages.
+   Confirmation numbers set in mono on a tinted chip so they're easy to read off at a counter. */
+:root {
+  --paper: #ffffff;
+  --ink: #161b26;
+  --muted: #5a6274;
+  --line: #c9cfdb;
+  --tint: #eef1f8;
+  --indigo: #24397a;
+  --font: "Segoe UI", system-ui, -apple-system, "Yu Gothic UI", "Meiryo", "Hiragino Sans", sans-serif;
+  --mono: "Cascadia Mono", Consolas, "SF Mono", Menlo, monospace;
+}
+* { box-sizing: border-box; }
+html { background: var(--paper); color: var(--ink); }
+body {
+  margin: 0 auto; max-width: 760px; padding: 32px 24px 48px;
+  font-family: var(--font); font-size: 14px; line-height: 1.45;
+}
+h1 { font-size: 24px; margin: 0 0 4px; }
+h2 {
+  font-size: 15px; letter-spacing: .1em; text-transform: uppercase; color: var(--indigo);
+  border-bottom: 2px solid var(--indigo); padding-bottom: 3px; margin: 26px 0 10px;
+  break-after: avoid;
+}
+p { margin: 0 0 8px; }
+.note { color: var(--muted); font-size: 12px; }
+a { color: inherit; }
+strong { font-weight: 700; }
+.card strong, p strong {
+  font-family: var(--mono); font-weight: 700; background: var(--tint);
+  padding: 0 4px; border-radius: 3px; letter-spacing: .02em;
+}
+.cards { display: grid; gap: 8px; }
+.card {
+  border: 1px solid var(--line); border-radius: 6px; padding: 9px 12px;
+  break-inside: avoid; page-break-inside: avoid;
+}
+.card-h { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; margin-bottom: 6px; }
+.card-h .k { font-size: 12px; font-weight: 700; color: var(--muted); white-space: nowrap; }
+.card-h .t { font-size: 15px; font-weight: 700; }
+.card dl { margin: 0; display: grid; grid-template-columns: 9.5em 1fr; gap: 3px 12px; }
+.card dt { color: var(--muted); font-size: 12px; padding-top: 1px; }
+.card dd { margin: 0; overflow-wrap: anywhere; }
+ul { margin: 0 0 8px; padding: 0; list-style: none; display: grid; gap: 6px; }
+li { display: grid; grid-template-columns: 18px 1fr; gap: 8px; break-inside: avoid; }
+li .box {
+  width: 13px; height: 13px; margin-top: 3px; border: 1.5px solid var(--ink); border-radius: 2px;
+  display: grid; place-items: center; font-size: 10px; line-height: 1;
+}
+.printed { margin-top: 28px; font-size: 11px; color: var(--muted); }
+.toolbar { margin-bottom: 18px; font-size: 13px; color: var(--muted); }
+@media (max-width: 560px) {
+  body { padding: 20px 16px 40px; }
+  .card dl { grid-template-columns: 1fr; gap: 0; }
+  .card dt { margin-top: 5px; }
+}
+@media print {
+  @page { margin: 14mm 12mm; }
+  body { padding: 0; max-width: none; font-size: 11.5px; }
+  .toolbar { display: none; }
+  h2 { margin-top: 16px; }
+}
+</style>
+</head>
+<body>
+<p class="toolbar">Press Ctrl+P to print or save as PDF. This file stays on your computer and is git-ignored.</p>
+<main id="doc"></main>
+<p class="printed" id="printed"></p>
+<script type="application/json" id="md">__CONFIRMATIONS_MD__</script>
+<script>
+(function () {
+  const md = JSON.parse(document.getElementById('md').textContent);
+  const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  function inline(s) {
+    s = esc(s).replace(/&lt;br\s*\/?&gt;/gi, '<br>');
+    s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, '$1');
+    s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/(^|[^*\w])\*(?!\s)([^*]+?)\*(?!\w)/g, '$1<em>$2</em>');
+    return s;
+  }
+  const row = l => { let s = l.trim(); if (s.startsWith('|')) s = s.slice(1); if (s.endsWith('|')) s = s.slice(0, -1); return s.split('|').map(c => c.trim()); };
+  const L = md.replace(/\r/g, '').split('\n');
+  let html = '', para = [], list = [];
+  const flushP = () => { if (para.length) { const t = para.join(' '); html += `<p${/^\*[^*]/.test(t) ? ' class="note"' : ''}>${inline(t)}</p>`; para = []; } };
+  const flushL = () => {
+    if (!list.length) return;
+    html += '<ul>' + list.map(t => {
+      const m = t.match(/^\[( |x|X)\]\s+(.*)/);
+      return m ? `<li><span class="box">${m[1] !== ' ' ? '✓' : ''}</span><span>${inline(m[2])}</span></li>`
+               : `<li><span>•</span><span>${inline(t)}</span></li>`;
+    }).join('') + '</ul>';
+    list = [];
+  };
+  for (let i = 0; i < L.length; i++) {
+    const l = L[i]; let m;
+    if (!l.trim()) { flushP(); flushL(); continue; }
+    if ((m = l.match(/^(#{1,3})\s+(.*)/))) { flushP(); flushL(); html += `<h${m[1].length}>${inline(m[2])}</h${m[1].length}>`; continue; }
+    if (l.trim().startsWith('|') && i + 1 < L.length && /^\s*\|?\s*:?-{2,}/.test(L[i + 1])) {
+      flushP(); flushL();
+      const head = row(l); i += 2; const rows = [];
+      while (i < L.length && L[i].trim().startsWith('|')) { rows.push(row(L[i])); i++; }
+      i--;
+      // First two columns (date + name) become the card heading; the rest are label/value lines
+      html += '<div class="cards">' + rows.map(r =>
+        `<section class="card"><div class="card-h"><span class="k">${inline(r[0] || '')}</span><span class="t">${inline(r[1] || '')}</span></div><dl>` +
+        head.slice(2).map((h, j) => r[j + 2] ? `<dt>${inline(h)}</dt><dd>${inline(r[j + 2])}</dd>` : '').join('') +
+        '</dl></section>').join('') + '</div>';
+      continue;
+    }
+    if ((m = l.match(/^\s*[-*]\s+(.*)/))) { flushP(); list.push(m[1]); continue; }
+    flushL(); para.push(l.trim());
+  }
+  flushP(); flushL();
+  document.getElementById('doc').innerHTML = html;
+  document.getElementById('printed').textContent = 'Printed ' + new Date().toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }) + ' from confirmations.md';
+})();
+</script>
+</body>
+</html>
