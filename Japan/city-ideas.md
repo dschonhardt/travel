@@ -304,7 +304,7 @@ Sources: [Nagoya Is Not Boring — Halloween 2026](https://www.nagoyaisnotboring
 
 **Places to eat** (*checked Oct 2026; hours from guide listings, confirm before going*):
 
-⚠️ **Tuesdays:** lots of Takayama spots close on Tuesday, and Tue Nov 3 is our Kamikochi day + Culture Day holiday. Tuesday-closed places below are marked — aim them at Mon Nov 2 instead. (Some shops change their closing day when a holiday lands on it, so worth a quick check.)
+⚠️ **Tuesdays:** lots of Takayama spots close on Tuesday, and Tue Nov 3 is our in-town hiking day + Culture Day holiday. Tuesday-closed places below are marked — aim them at Mon Nov 2 instead. (Some shops change their closing day when a holiday lands on it, so worth a quick check.)
 
 *Street food (Sanmachi Suji) — good for the Nov 2 afternoon wander:*
 
@@ -321,7 +321,7 @@ Sources: [Nagoya Is Not Boring — Halloween 2026](https://www.nagoyaisnotboring
 
 - ☐ Kyoya — rustic old house near Sakurayama Hachimangu, Hida beef grilled at the table, hoba miso, local fish. Mid-range. 1-77 Oshin-machi, Mon 11 AM–2 PM and 5–8 PM (Google). **Closed Tue** → Mon Nov 2 dinner candidate
 - ☐ Suzuya — traditional merchant house, known for hoba miso steak and Hida beef sukiyaki. Classic first-timer pick
-- ☐ Maruaki — butcher-run, A5 Hida beef (yakiniku, sukiyaki, shabu-shabu). Upscale. 6-8 Tenman-machi, ~5 min from the station/hotel. 11 AM–9 PM (LO 8:30). Open Tuesdays → easy Nov 3 dinner after getting back from Kamikochi
+- ☐ Maruaki — butcher-run, A5 Hida beef (yakiniku, sukiyaki, shabu-shabu). Upscale. 6-8 Tenman-machi, ~5 min from the station/hotel. 11 AM–9 PM (LO 8:30). Open Tuesdays → easy Nov 3 dinner backup
 - ☐ Kitchen Hida — casual Hida beef steak, good-value sets. 1-66 Hon-machi. Lunch 11:30 AM–3:30 PM (LO 2:45), dinner 5:00–8:30 PM (LO 7:45). Closed Wed. **Tip (r/JapanTravel, Oct 2026):** they're known for a bottled Hida beef side dish (a commenter wrote it as 飛騨牛ハンバ具ー). Buy it at the counter on the way out after eating. Planned for Tue Nov 3 dinner
 - ☐ Bistro Kanzo — Hida beef done French-style, mid-range. 46 Ura-machi. Closed Wed
 - ☐ Shiki no Gochisou Mitsuiwa — kaiseki with Hida beef fillet/loin steak and seasonal seafood. ~¥6,000 basic dinner, ~¥10,000–20,000 for full kaiseki. ~4 min walk from the station. Dinner 5:00–8:30 PM (Google), closes irregularly, reservations strongly recommended. **Top backup if Ryotei Susaki is full**

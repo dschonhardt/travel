@@ -60,7 +60,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 5 | Sat Oct 31 | Tokyo → Nagoya | **Tokaido Shinkansen (booked)** (~1h40, ¥10,560 unreserved / ¥11,300 reserved ≈ $70–75 pp one-way). Afternoon in Osu (Yabaton misokatsu), sunset from Mirai Tower, tebasaki dinner in Sakae. See [days/2026-10-31.md](./days/2026-10-31.md) |
 | 6 | Sun Nov 1 | Nagoya | Nagoya Castle in the morning, **Nabana no Sato illumination** in the evening (probably Dan solo; the others likely do a museum). Atsuta Jingu in the afternoon, then hitsumabushi at Nagoya Station on the way. Zombie Island dropped. See [days/2026-11-01.md](./days/2026-11-01.md) |
 | 7 | Mon Nov 2 | Nagoya → Takayama | **Hida 5, 9:39 AM (booked)**, arrives ~12:15 PM (¥6,140–6,340 reserved ≈ $41–42 pp one-way), scenic mountain ride. Afternoon/evening in Takayama: Sanmachi Suji, sake breweries. See [days/2026-11-02.md](./days/2026-11-02.md). **Group splits here** — Jeff/Adam/Max head to Kyoto/Osaka instead |
-| 8 | Tue Nov 3 | Takayama (day trip) | Kamikochi day trip via Nohi Bus. Nov 3 is Culture Day (national holiday). The buses can't be reserved, so go early. Dinner at Kitchen Hida (6:00 PM, last order 7:45). See [days/2026-11-03.md](./days/2026-11-03.md) |
+| 8 | Tue Nov 3 | Takayama | Kamikochi dropped on the day. Staying in town: latte, morning market, Higashiyama temple walk to Shiroyama Park, light lunch, Matsukura Castle ruins hike (Northern Alps view). Nov 3 is Culture Day (national holiday). Dinner at Kitchen Hida (6:00 PM, last order 7:45). See [days/2026-11-03.md](./days/2026-11-03.md) |
 | 9 | Wed Nov 4 | Takayama → Kanazawa | Train via Toyama — Hida Express to Toyama (~1.5 hrs), Shinkansen/Ainokaze to Kanazawa (~18–40 min). Skipping Shirakawa-go stop. Morning market before leaving. Light solo afternoon (big sights saved for the group): station lunch, rest, Korinbo lights, Ichinokura dinner. See [days/2026-11-04.md](./days/2026-11-04.md) |
 | 10 | Thu Nov 5 | Kanazawa | Dan solo day trip to Kaga Onsen by local train and bus: Kakusenkei Gorge in Yamanaka, Yamashiro Onsen, then Natadera (2:24 PM bus out; last is 4:17). Back in Kanazawa 3:39 PM via Tsurugi 26 (or 4:41 by local). Jeff and Adam arrive (time not confirmed) and meet up for dinner at Ajidokoro Takasaki (Nagamachi), then Korinbo lights and Katamachi. Max flies home from Tokyo today. See [days/2026-11-05.md](./days/2026-11-05.md) |
 | 11 | Fri Nov 6 | Kanazawa | All on foot: Kenrokuen at opening, castle, Omicho lunch, Nagamachi + Nomura House, Myoryuji Ninja Temple (2:30 PM), Teramachi, Nishi Chaya at dusk, Sink craft beer, jibu-ni dinner at Kitama in Katamachi. See [days/2026-11-06.md](./days/2026-11-06.md) |
@@ -78,7 +78,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 
 ## Resolved
 - **JR Pass:** doesn't make sense for this trip. Buy individual tickets and use Suica for local rides.
-- **Takayama day trip (Nov 3):** Kamikochi, over Shirakawa-go.
+- **Takayama day (Nov 3):** stay in Takayama with two local hikes (Kamikochi dropped on the day).
 - **Takayama → Kanazawa (Nov 4):** train via Toyama, over the highway bus.
 - **Lodging:** all stops booked. Tokyo end block: **APA Hotel & Resort Ryogoku Eki Tower** (Nov 7–11).
 - **Tokyo day trip in the first block:** Kamakura + Enoshima on Thu Oct 29 (swapped from Oct 30 so the ramen festival, Oct 30–Nov 3, fits on Friday). Nikko was saved for the Nov 8–11 block, then replaced by **Mt. Tsukuba** on Mon Nov 9 (Nikko too far).
@@ -104,7 +104,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 - [x] Tue Oct 27 (arrival), Wed Oct 28, Thu Oct 29 (Kamakura), Fri Oct 30 (west-side day) planned. teamLab Borderless skipped
 - [x] Nagoya Oct 31 planned (Osu, Mirai Tower, tebasaki in Sakae)
 - [x] Nagoya Nov 1 planned (castle, Atsuta Jingu, Nabana no Sato)
-- [x] Takayama Nov 2–4 planned (old town, Kamikochi, Kitchen Hida dinner, morning market)
+- [x] Takayama Nov 2–4 planned (old town, local hikes, Kitchen Hida dinner, morning market)
 - [x] Kanazawa Nov 4–7 planned (Kaga day trip; Kenrokuen/Nagamachi/Ninja Temple day on foot; Higashi Chaya + crab lunch). Still to do: confirm Jeff and Adam's arrival time and make the bookings above
 - [ ] Tokyo Nov 8 and Nov 10: plan the wind-down days
 - [x] Tokyo Nov 9: Mt. Tsukuba day trip drafted
