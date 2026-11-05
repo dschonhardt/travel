@@ -63,7 +63,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 8 | Tue Nov 3 | Takayama | Kamikochi dropped on the day. Staying in town: latte, morning market, Higashiyama temple walk to Shiroyama Park, light lunch, Matsukura Castle ruins hike (Northern Alps view). Nov 3 is Culture Day (national holiday). Dinner at Kitchen Hida (6:00 PM, last order 7:45). See [days/2026-11-03.md](./days/2026-11-03.md) |
 | 9 | Wed Nov 4 | Takayama → Kanazawa | Train via Toyama — Hida Express to Toyama (~1.5 hrs), Shinkansen/Ainokaze to Kanazawa (~18–40 min). Skipping Shirakawa-go stop. Morning market before leaving. Light solo afternoon (big sights saved for the group): station lunch, rest, Korinbo lights, Ichinokura dinner. See [days/2026-11-04.md](./days/2026-11-04.md) |
 | 10 | Thu Nov 5 | Kanazawa | Dan solo day trip to Kaga Onsen by local train and bus: Kakusenkei Gorge and lunch in Yamanaka, a quick bus change in Yamashiro Onsen, then Natadera (2:24 PM bus out; last is 4:17). Back in Kanazawa 3:39 PM via Tsurugi 26 (or 4:41 by local). Jeff and Adam arrive (time not confirmed) and meet up for dinner at Ajidokoro Takasaki (Nagamachi), then a Nagamachi night walk, Futa's, and Shintenchi/Katamachi. Max flies home from Tokyo today. See [days/2026-11-05.md](./days/2026-11-05.md) |
-| 11 | Fri Nov 6 | Kanazawa | All on foot: Kenrokuen at opening, castle, Omicho lunch, Nagamachi + Nomura House, Myoryuji Ninja Temple (2:30 PM), Teramachi, Nishi Chaya at dusk, Sink craft beer, jibu-ni dinner at Kitama in Katamachi. See [days/2026-11-06.md](./days/2026-11-06.md) |
+| 11 | Fri Nov 6 | Kanazawa | Lighter walking, one way across town (bus option and walking distance for every leg): Omicho morning, castle, Kenrokuen, back to Omicho for a ~12:30 Curry Lab lunch, Nagamachi + Nomura House, Sink craft beer and Nishi Chaya at dusk, jibu-ni dinner at Kitama (~6 PM), then Shintenchi. Myoryuji dropped (not booked). See [days/2026-11-06.md](./days/2026-11-06.md) |
 | 12 | Sat Nov 7 | Kanazawa → Tokyo | Higashi Chaya (sake-lees soft serve at Fukumitsuya Higashi) and Kazuemachi in the morning, then the first day of local crab: Omicho crab lunch, then Kagayaki 534 at 1:50 PM (not booked). Check in at APA Ryogoku, chanko nabe dinner. See [days/2026-11-07.md](./days/2026-11-07.md) |
 | 13 | Sun Nov 8 | Tokyo | **Draft.** Ryogoku and Kameido on foot, no museums (Kyu-Yasuda Garden, Sumida River walk, Edo Noren brunch, Ekoin and the 47 Ronin site, Kameido Tenjin chrysanthemums, Kameido Gyoza), then **Hop Fest** in Daikanyama (18:00 session) and late bites at Ebisu Yokocho. See [days/2026-11-08.md](./days/2026-11-08.md) |
 | 14 | Mon Nov 9 | Tokyo (Mt. Tsukuba day trip) | **Draft.** Mt. Tsukuba replaces Nikko (too far). Tsukuba Express from Akihabara + shuttle bus, paid with IC card. Hiking both ways. Swap with Nov 10 if the weather is better then. See [days/2026-11-09.md](./days/2026-11-09.md) |
@@ -94,8 +94,8 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
   - [ ] Sat Nov 7 Kagayaki 534, Kanazawa 1:50 PM → Tokyo (3 seats together; confirm it runs that day)
 - [ ] **Kanazawa reservations** (all for 3):
   - [ ] Thu Nov 5, ~7:00 PM: Ajidokoro Takasaki (076-231-0116, or byFood/Tabelog)
-  - [ ] Fri Nov 6, 2:30 PM: Myoryuji Ninja Temple (phone only, +81-76-241-0888; call from the US with Google Voice etc., or have a hotel call. See the Nov 6 TODO)
-  - [ ] Fri Nov 6, ~6:45 PM: Kitama (jibu-ni)
+  - [x] ~~Fri Nov 6, 2:30 PM: Myoryuji Ninja Temple~~ (dropped Nov 5, not booked)
+  - [ ] Fri Nov 6, ~6:00 PM (6:45 backup): Kitama (jibu-ni)
 - [ ] **Ryotei Susaki** dinner, Mon Nov 2 (if doing it)
 - [x] **CAPPINESS Oshiage** capybara cafe, Wed Oct 28, 10:15 AM slot (booked)
 - [x] Absentee voting (Election Day is Tue Nov 3, while I'm in Japan): voted
