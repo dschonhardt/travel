@@ -66,8 +66,8 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 | 11 | Fri Nov 6 | Kanazawa | Lighter walking, one way across town (bus option and walking distance for every leg): Omicho morning, castle, Kenrokuen, back to Omicho for a ~12:30 Curry Lab lunch, Nagamachi + Nomura House, Sink craft beer and Nishi Chaya at dusk, jibu-ni dinner at Kitama (~6 PM), then Shintenchi. Myoryuji dropped (not booked). See [days/2026-11-06.md](./days/2026-11-06.md) |
 | 12 | Sat Nov 7 | Kanazawa → Tokyo | Higashi Chaya (sake-lees soft serve at Fukumitsuya Higashi) and Kazuemachi in the morning, then the first day of local crab: Omicho crab lunch, then Kagayaki 534 at 1:50 PM (not booked). Check in at APA Ryogoku, chanko nabe dinner. See [days/2026-11-07.md](./days/2026-11-07.md) |
 | 13 | Sun Nov 8 | Tokyo | **Updated on the day.** Ryogoku morning (Kyu-Yasuda Garden, Sumida River walk), then west: **Shimokitazawa** food-truck lunch at Senrogai, **Gotokuji** cat temple, vintage shops, **Nakameguro** river walk and Baird Beer, **Hop Fest** in Daikanyama (18:00 session) and late bites at Ebisu Yokocho. See [days/2026-11-08.md](./days/2026-11-08.md) |
-| 14 | Mon Nov 9 | Tokyo (Mt. Tsukuba day trip) | **Draft.** Mt. Tsukuba replaces Nikko (too far). Tsukuba Express from Akihabara + shuttle bus, paid with IC card. Hiking both ways. Swap with Nov 10 if the weather is better then. See [days/2026-11-09.md](./days/2026-11-09.md) |
-| 15 | Tue Nov 10 | Tokyo | **Draft (Oct 24, morning added Oct 25).** Slow Chuo Line day after the hike: Koishikawa Korakuen and Kagurazaka, carp fishing at the Ichigaya Fish Center, Nogata Hope ramen, Nakano Broadway, Koenji thrift, Inokashira Park at sunset, Harmonica Yokocho in Kichijoji, Akiyoshi yakitori in Nakano. See [days/2026-11-10.md](./days/2026-11-10.md) |
+| 14 | Mon Nov 9 | Tokyo | **Swapped with Tsukuba on the day (rain).** Chuo Line day, with every stop's Monday hours rechecked: Koishikawa Korakuen and Kagurazaka, Nogata Hope ramen, Nakano Broadway, Koenji thrift, Inokashira Park, a skewer at Iseya Sohonten, Harmonica Yokocho, and **Akiyoshi** yakitori in Nakano (open daily per its official site). The Ichigaya Fish Center was dropped for rain. Iseya Koen Store and Nakano Beer Kobo are closed Mondays. See [days/2026-11-09.md](./days/2026-11-09.md) |
+| 15 | Tue Nov 10 | Tokyo (Mt. Tsukuba day trip) | **Moved from Nov 9 (rain).** Mt. Tsukuba replaces Nikko (too far). Tsukuba Express from Akihabara + shuttle bus, paid with IC card. Morning rain is forecast to clear in the afternoon, so there's a later start (10:20 bus), cable car up if wet, summits in the afternoon, and a hike down if the trail allows. Last chance before the flight. See [days/2026-11-10.md](./days/2026-11-10.md) |
 | 16 | Wed Nov 11 | Tokyo (departure) | **Draft.** Bags at the APA, Kiyosumi-Shirakawa coffee and garden, last meal at Yuzu Lab Noodles (Akihabara), leave for HND ~1:45 PM. See [days/2026-11-11.md](./days/2026-11-11.md) |
 
 ## Decisions needed
@@ -81,7 +81,7 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 - **Takayama day (Nov 3):** stay in Takayama with two local hikes (Kamikochi dropped on the day).
 - **Takayama → Kanazawa (Nov 4):** train via Toyama, over the highway bus.
 - **Lodging:** all stops booked. Tokyo end block: **APA Hotel & Resort Ryogoku Eki Tower** (Nov 7–11).
-- **Tokyo day trip in the first block:** Kamakura + Enoshima on Thu Oct 29 (swapped from Oct 30 so the ramen festival, Oct 30–Nov 3, fits on Friday). Nikko was saved for the Nov 8–11 block, then replaced by **Mt. Tsukuba** on Mon Nov 9 (Nikko too far).
+- **Tokyo day trip in the first block:** Kamakura + Enoshima on Thu Oct 29 (swapped from Oct 30 so the ramen festival, Oct 30–Nov 3, fits on Friday). Nikko was saved for the Nov 8–11 block, then replaced by **Mt. Tsukuba** on Mon Nov 9 (Nikko too far). Tsukuba then moved to **Tue Nov 10** on the day because of rain, swapping with the Chuo Line day.
 - **Halloween (Oct 31, travel day to Nagoya):** No change needed. Kawasaki's Halloween Parade (the one legit organized event) falls Oct 25 — before arrival regardless. Shibuya's street gathering is now banned/policed by the city (outdoor drinking, loitering in costume), so there's no event there worth planning around or missing. Being in transit that day is fine as-is.
 - **Route finalized:** Dan goes Tokyo → Nagoya (2 nights) → Takayama (2 nights) → Kanazawa (3 nights) → Tokyo. Jeff/Adam/Max split off to Kyoto/Osaka after Nagoya; Jeff and Adam rejoin in Kanazawa Nov 5, Max flies home from Tokyo that day.
 
@@ -106,8 +106,8 @@ All stops booked. Tokyo end block is in Ryogoku: JR Sobu Line, two stops to Akih
 - [x] Nagoya Nov 1 planned (castle, Atsuta Jingu, Nabana no Sato)
 - [x] Takayama Nov 2–4 planned (old town, local hikes, Kitchen Hida dinner, morning market)
 - [x] Kanazawa Nov 4–7 planned (Kaga day trip; Kenrokuen/Nagamachi/Ninja Temple day on foot; Higashi Chaya + crab lunch). Still to do: confirm Jeff and Adam's arrival time and make the bookings above
-- [ ] Tokyo Nov 8 and Nov 10: plan the wind-down days
-- [x] Tokyo Nov 9: Mt. Tsukuba day trip drafted
+- [x] Tokyo Nov 8 and Nov 9: wind-down days planned (Nov 9 is the Chuo Line day, swapped in on the day)
+- [x] Tokyo Nov 10: Mt. Tsukuba day trip (moved from Nov 9, rain-adjusted)
 - [ ] Tokyo Nov 11: departure-day logistics (bags, last meal before HND)
 
 ## Lodging (all stops)
